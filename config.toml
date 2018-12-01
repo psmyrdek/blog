@@ -1,5 +1,6 @@
 baseURL = "https://psmyrdek.github.io/blog/"
 languageCode = "pl-pl"
-title = "Przemek Smyrdek - blog"
+title = "Przemek Smyrdek - Blog"
 theme = "hugo-paper"
 publishDir = "docs"
+googleAnalytics = "UA-130241188-1"
