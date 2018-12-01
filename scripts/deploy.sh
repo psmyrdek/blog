@@ -1,6 +1,6 @@
 #!/bin/bash
 
-hugo -t hugo-paper
+HUGO_ENV=production hugo -t hugo-paper
 
 git add .
 
