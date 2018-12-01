@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Przemek Smyrdek - blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Przemek Smyrdek - blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Sat, 01 Dec 2018 17:56:33 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Szukam</title>
+      <link>http://example.org/posts/szukam/</link>
+      <pubDate>Sat, 01 Dec 2018 17:56:33 +0100</pubDate>
+      
+      <guid>http://example.org/posts/szukam/</guid>
+      <description>W okolicach gimnazjum i szkoły średniej bardzo mocno angażowałem się w społeczność tzw. Virtual Tuningu - wirtualnych modyfikacji samochodów przy pomocy narzędzi takich jak Photoshop czy Corel Draw. Grafika pochłonęła mnie tak bardzo, że nie wyobrażałem sobie innej ścieżki zawodowej niż ta, na której właśnie wtedy się znajdowałem. Minęło kilka lat, przeszło kilkanaście wyróżnień na forach, wspomnień moich prac w czasopismach, no i skończyło się - polska scena VT praktycznie upadła a większość z nas, jej uczestników, poszła w inne strony.</description>
+    </item>
+    
+  </channel>
+</rss>
