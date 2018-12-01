@@ -4,3 +4,7 @@ title = "Przemek Smyrdek - Blog"
 theme = "hugo-paper"
 publishDir = "docs"
 googleAnalytics = "UA-130241188-1"
+
+[params]
+    description = "Przemek Smyrdek - Blog"
+    author = "Przemek Smyrdek"
