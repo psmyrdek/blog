@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://psmyrdek.github.io/blog/posts/zajecie-programisty/</loc>
+    <lastmod>2018-12-02T19:23:33+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://psmyrdek.github.io/blog/posts/szukam/</loc>
     <lastmod>2018-12-01T17:56:33+01:00</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>https://psmyrdek.github.io/blog/posts/</loc>
-    <lastmod>2018-12-01T17:56:33+01:00</lastmod>
+    <lastmod>2018-12-02T19:23:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://psmyrdek.github.io/blog/</loc>
-    <lastmod>2018-12-01T17:56:33+01:00</lastmod>
+    <lastmod>2018-12-02T19:23:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
