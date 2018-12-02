@@ -4,6 +4,10 @@ title = "Przemek Smyrdek - Blog"
 theme = "hugo-paper"
 publishDir = "docs"
 googleAnalytics = "UA-130241188-1"
+canonifyURLs = true
+
+[permalinks]
+    post = "/:year/:month/:title/"
 
 [params]
     description = "Przemek Smyrdek - Blog"

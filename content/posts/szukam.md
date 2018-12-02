@@ -1,7 +1,10 @@
 ---
-title: "Szukam"
-date: 2018-12-01T17:56:33+01:00
 draft: false
+
+title: "Szukam"
+description: "Przed wami pierwszy post na moim prywatnym blogu"
+
+date: 2018-12-01T17:56:33+01:00
 ---
 
 W okolicach gimnazjum i szkoły średniej bardzo mocno angażowałem się w społeczność tzw. Virtual Tuningu - wirtualnych modyfikacji samochodów przy pomocy narzędzi takich jak Photoshop czy Corel Draw. Grafika pochłonęła mnie tak bardzo, że nie wyobrażałem sobie innej ścieżki zawodowej niż ta, na której właśnie wtedy się znajdowałem. Minęło kilka lat, przeszło kilkanaście wyróżnień na forach, wspomnień moich prac w czasopismach, no i skończyło się - polska scena VT praktycznie upadła a większość z nas, jej uczestników, poszła w inne strony.

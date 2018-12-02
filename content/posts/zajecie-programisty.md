@@ -1,8 +1,16 @@
 ---
-title: "Podaj dalej"
-date: 2018-12-02T19:23:33+01:00
 draft: false
+
+title: "Podaj dalej"
+description: "Czym właściwie zajmują się programiści?"
+
+date: 2018-12-02T19:23:33+01:00
+
+images:
+- images/pipes.png
 ---
+
+![Pipes](/images/pipes.png)
 
 Czym właściwie zajmują się programiści? Kiedyś przeczytałem bardzo trafną odpowiedź na to pytanie. Programiści to po prostu osoby rozwiązujące pewne abstrakcyjne problemy (problem transportu na mieście, problem poszukiwania noclegu na wakacje, problem rezerwacji stolika w restauracji) w bardzo specyficzny, powtarzalny sposób. 
 
