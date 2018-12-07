@@ -3,6 +3,10 @@ draft: false
 
 title: "Podaj dalej"
 description: "Czym właściwie zajmują się programiści?"
+tags:
+- rozwiązywanie problemów
+- programowanie
+- wiedza
 
 date: 2018-12-02T19:23:33+01:00
 
