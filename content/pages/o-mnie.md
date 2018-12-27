@@ -8,7 +8,7 @@ description: "Kim jestem, czym się zajmuję oraz po co mi ten blog?"
 
 date: 2018-12-27T21:25:39+01:00
 
-url: "/o-mnie"
+url: "/o-mnie/"
 ---
 
 Cześć!
