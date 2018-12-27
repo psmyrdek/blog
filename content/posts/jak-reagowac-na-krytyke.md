@@ -2,7 +2,7 @@
 draft: false
 
 title: "Jeden komentarz - dwa spojrzenia"
-description: ""
+description: "Dlaczego krytyka zaskakuje tylko niektórych z nas?"
 tags: 
 - krytyka
 - feedback
