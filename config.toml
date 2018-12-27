@@ -13,3 +13,17 @@ disqusShortname = "przemeksmyrdek"
 [params]
     description = "Przemek Smyrdek - Blog"
     author = "Przemek Smyrdek"
+
+[menu]
+
+    [[menu.main]]
+        identifier = "about"
+        name = "O mnie"
+        url = "/o-mnie"
+        weight = -110
+
+    [[menu.main]]
+        identifier = "ilustracje"
+        name = "Ilustracje"
+        url = "/ilustracje"
+        weight = -100
