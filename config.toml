@@ -5,6 +5,7 @@ theme = "hugo-paper"
 publishDir = "docs"
 googleAnalytics = "UA-130241188-1"
 canonifyURLs = true
+disqusShortname = "przemeksmyrdek"
 
 [permalinks]
     post = "/:year/:month/:title/"
