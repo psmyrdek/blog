@@ -4,12 +4,9 @@ comments: false
 type: "page"
 
 title: "Ilustracje"
-description: ""
+description: "Każdy post to dedykowana ilustracja. Dlaczego właśnie tak?"
 
 date: 2018-12-27T21:35:35+01:00
-
-images:
-- images/IMAGE_NAME.png
 
 url: "/ilustracje"
 ---
