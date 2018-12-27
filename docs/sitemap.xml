@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://psmyrdek.github.io/blog/posts/jak-reagowac-na-krytyke/</loc>
+    <lastmod>2018-12-26T11:01:13+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://psmyrdek.github.io/blog/posts/kultura-netflixa/</loc>
     <lastmod>2018-12-07T16:32:54+01:00</lastmod>
   </url>
@@ -24,13 +29,37 @@
   </url>
   
   <url>
+    <loc>https://psmyrdek.github.io/blog/tags/blogi/</loc>
+    <lastmod>2018-12-26T11:01:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://psmyrdek.github.io/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://psmyrdek.github.io/blog/tags/feedback/</loc>
+    <lastmod>2018-12-26T11:01:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://psmyrdek.github.io/blog/tags/kariera/</loc>
     <lastmod>2018-12-07T16:32:54+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://psmyrdek.github.io/blog/tags/komentarze/</loc>
+    <lastmod>2018-12-26T11:01:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://psmyrdek.github.io/blog/tags/krytyka/</loc>
+    <lastmod>2018-12-26T11:01:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,8 +76,14 @@
   </url>
   
   <url>
+    <loc>https://psmyrdek.github.io/blog/tags/opinie/</loc>
+    <lastmod>2018-12-26T11:01:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://psmyrdek.github.io/blog/posts/</loc>
-    <lastmod>2018-12-07T16:32:54+01:00</lastmod>
+    <lastmod>2018-12-26T11:01:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,7 +101,7 @@
   
   <url>
     <loc>https://psmyrdek.github.io/blog/</loc>
-    <lastmod>2018-12-07T16:32:54+01:00</lastmod>
+    <lastmod>2018-12-26T11:01:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,6 +126,12 @@
   <url>
     <loc>https://psmyrdek.github.io/blog/tags/wiedza/</loc>
     <lastmod>2018-12-02T19:23:33+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://psmyrdek.github.io/blog/tags/znajomi/</loc>
+    <lastmod>2018-12-26T11:01:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
