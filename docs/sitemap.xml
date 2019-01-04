@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://psmyrdek.github.io/blog/posts/wszystko-na-raz/</loc>
+    <lastmod>2019-01-04T18:10:09+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://psmyrdek.github.io/blog/ilustracje/</loc>
     <lastmod>2018-12-27T21:35:35+01:00</lastmod>
   </url>
@@ -50,6 +55,24 @@
   </url>
   
   <url>
+    <loc>https://psmyrdek.github.io/blog/tags/cele/</loc>
+    <lastmod>2019-01-04T18:10:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://psmyrdek.github.io/blog/tags/efektywno%C5%9B%C4%87/</loc>
+    <lastmod>2019-01-04T18:10:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://psmyrdek.github.io/blog/tags/emocje/</loc>
+    <lastmod>2019-01-04T18:10:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://psmyrdek.github.io/blog/tags/feedback/</loc>
     <lastmod>2018-12-26T11:01:13+01:00</lastmod>
     <priority>0</priority>
@@ -86,6 +109,12 @@
   </url>
   
   <url>
+    <loc>https://psmyrdek.github.io/blog/tags/nowy-rok/</loc>
+    <lastmod>2019-01-04T18:10:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://psmyrdek.github.io/blog/tags/opinie/</loc>
     <lastmod>2018-12-26T11:01:13+01:00</lastmod>
     <priority>0</priority>
@@ -99,7 +128,7 @@
   
   <url>
     <loc>https://psmyrdek.github.io/blog/posts/</loc>
-    <lastmod>2018-12-26T11:01:13+01:00</lastmod>
+    <lastmod>2019-01-04T18:10:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,7 +146,7 @@
   
   <url>
     <loc>https://psmyrdek.github.io/blog/</loc>
-    <lastmod>2018-12-27T21:35:35+01:00</lastmod>
+    <lastmod>2019-01-04T18:10:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
