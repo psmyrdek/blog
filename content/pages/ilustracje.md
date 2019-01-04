@@ -21,6 +21,10 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
+## [Wszystko na raz](/posts/wszystko-na-raz/)
+
+![road](/images/road.png)
+
 ## [Jeden komentarz - dwa spojrzenia](/posts/jak-reagowac-na-krytyke/)
 
 ![arrows](/images/arrows.png)
