@@ -21,6 +21,10 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
+## [Co lubisz w życiu robić?](/posts/wartosci-wlasna-kariera/)
+
+![actions](/images/actions.png)
+
 ## [Wszystko na raz](/posts/wszystko-na-raz/)
 
 ![road](/images/road.png)
