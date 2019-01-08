@@ -27,3 +27,9 @@ disqusShortname = "przemeksmyrdek"
         name = "Ilustracje"
         url = "/ilustracje/"
         weight = -100
+
+    [[menu.main]]
+        identifier = "kontakt"
+        name = "Kontakt"
+        url = "/kontakt/"
+        weight = -90

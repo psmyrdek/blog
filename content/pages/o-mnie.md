@@ -20,3 +20,9 @@ Kilka razy usłyszałem na swój temat, że to, w jaki sposób ja sam się rozwi
 Nie to, żebym [wcześniej](http://poznajprogramowanie.pl) nie pisał, jednak tutaj tematyka będzie zdecydowanie szersza niż tylko programowanie. Mówię “tylko”, bo [programowanie](https://github.com/psmyrdek) to dla mnie jeden z wielu klocków który pomaga mi budować coś z niczego. Innymi narzędziami są np. grafika, [fotografia](https://www.instagram.com/psmyrdek/), pisanie, [filmy](https://www.youtube.com/c/przemeksmyrdek), [dyskusje](https://twitter.com/psmyrdek), czy [wystąpienia publiczne](https://github.com/psmyrdek/talks/).
 
 Jeśli interesuje cię swój własny rozwój oraz poszerzanie spojrzenia na świat to myślę, że się dogadamy.
+
+### Gdzie mnie znajdziesz
+
+* [GitHub](https://github.com/psmyrdek/)
+* [LinkedIn](https://www.linkedin.com/in/psmyrdek/)
+* [YouTube](https://www.youtube.com/c/przemeksmyrdek)
