@@ -11,6 +11,8 @@ date: 2018-12-27T21:25:39+01:00
 url: "/o-mnie/"
 ---
 
+![road](/images/shared/profile.jpg)
+
 Cześć!
 
 Mam na imię Przemek i jestem programistą. [Między innymi](https://www.linkedin.com/in/psmyrdek/).
