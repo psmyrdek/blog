@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kariera on Przemek Smyrdek - Blog</title>
-    <link>https://psmyrdek.github.io/blog/tags/kariera/</link>
-    <description>Recent content in Kariera on Przemek Smyrdek - Blog</description>
+    <title>Plany on Przemek Smyrdek - Blog</title>
+    <link>https://psmyrdek.github.io/blog/tags/plany/</link>
+    <description>Recent content in Plany on Przemek Smyrdek - Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Tue, 08 Jan 2019 20:10:12 +0100</lastBuildDate>
     
-	<atom:link href="https://psmyrdek.github.io/blog/tags/kariera/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://psmyrdek.github.io/blog/tags/plany/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>https://psmyrdek.github.io/blog/posts/wartosci-wlasna-kariera/</guid>
       <description>Trzy lata temu, kończąc studia informatyczne, miałem już pracę oraz kilka zrealizowanych projektów w swoim CV. Pomimo dość oczywistego zainteresowania programowaniem wciąż jednak miałem w głowie myśli związane z tym na co poświęcać swój czas albo w którą stronę podążać jeśli chodzi o mój rozwój.
 Nawet jeśli moja ścieżka zawodowa układała się stosunkowo dobrze, to po głowie chodziła mi jedna myśli - “skąd wiadomo, że wybrałem dobrze?”. Może grafika, którą zajmowałem się wcześniej, to moje prawdziwe powołanie?</description>
-    </item>
-    
-    <item>
-      <title>Co zamiast sushi</title>
-      <link>https://psmyrdek.github.io/blog/posts/kultura-netflixa/</link>
-      <pubDate>Fri, 07 Dec 2018 16:32:54 +0100</pubDate>
-      
-      <guid>https://psmyrdek.github.io/blog/posts/kultura-netflixa/</guid>
-      <description>W poście otwierającym tego bloga napisałem, że chciałbym się tutaj dzielić wszystkim tym, co pomaga mi w szeroko rozumianym rozwoju. Rozwój może dotyczyć zarówno nabywania twardych umiejętności, jak i np. zdobywania wiedzy i poszerzania swoich perspektyw. Dzisiaj kilka zdań podchodzących pod tę drugą kategorię.
-Kilka dni temu wpadła mi w ręce całkiem interesująca lektura o nazwie “Culture at Netflix”. Tytuł właściwie mówi wszystko - jest to opis wartości którymi kieruje się Netflix jako firma.</description>
     </item>
     
   </channel>
