@@ -1,4 +1,4 @@
-baseURL = "https://psmyrdek.github.io/blog/"
+baseURL = "https://smyrdek.com/"
 languageCode = "pl-pl"
 title = "Przemek Smyrdek - Blog"
 theme = "hugo-paper"
