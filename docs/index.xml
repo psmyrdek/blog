@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Przemek Smyrdek - Blog</title>
-    <link>https://psmyrdek.github.io/blog/</link>
+    <link>https://smyrdek.com/</link>
     <description>Recent content on Przemek Smyrdek - Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Tue, 08 Jan 2019 21:29:47 +0100</lastBuildDate>
     
-	<atom:link href="https://psmyrdek.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smyrdek.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kontakt</title>
-      <link>https://psmyrdek.github.io/blog/kontakt/</link>
+      <link>https://smyrdek.com/kontakt/</link>
       <pubDate>Tue, 08 Jan 2019 21:29:47 +0100</pubDate>
       
-      <guid>https://psmyrdek.github.io/blog/kontakt/</guid>
+      <guid>https://smyrdek.com/kontakt/</guid>
       <description>Chcesz pogadać na osobności? Zaproponować współpracę? Podsunąć mi wartościowe materiały którymi powinienem się podzielić z innymi?  Zapraszam do kontaktu: przemek.smyrdek@gmail.com</description>
     </item>
     
     <item>
       <title>Co lubisz w życiu robić?</title>
-      <link>https://psmyrdek.github.io/blog/posts/wartosci-wlasna-kariera/</link>
+      <link>https://smyrdek.com/posts/wartosci-wlasna-kariera/</link>
       <pubDate>Tue, 08 Jan 2019 20:10:12 +0100</pubDate>
       
-      <guid>https://psmyrdek.github.io/blog/posts/wartosci-wlasna-kariera/</guid>
+      <guid>https://smyrdek.com/posts/wartosci-wlasna-kariera/</guid>
       <description>Trzy lata temu, kończąc studia informatyczne, miałem już pracę oraz kilka zrealizowanych projektów w swoim CV. Pomimo dość oczywistego zainteresowania programowaniem wciąż jednak miałem w głowie myśli związane z tym na co poświęcać swój czas albo w którą stronę podążać jeśli chodzi o mój rozwój.
 Nawet jeśli moja ścieżka zawodowa układała się stosunkowo dobrze, to po głowie chodziła mi jedna myśli - “skąd wiadomo, że wybrałem dobrze?”. Może grafika, którą zajmowałem się wcześniej, to moje prawdziwe powołanie?</description>
     </item>
     
     <item>
       <title>Wszystko na raz</title>
-      <link>https://psmyrdek.github.io/blog/posts/wszystko-na-raz/</link>
+      <link>https://smyrdek.com/posts/wszystko-na-raz/</link>
       <pubDate>Fri, 04 Jan 2019 18:10:09 +0100</pubDate>
       
-      <guid>https://psmyrdek.github.io/blog/posts/wszystko-na-raz/</guid>
+      <guid>https://smyrdek.com/posts/wszystko-na-raz/</guid>
       <description>Nowy rok, nowy start, nowe postanowienia. W okresie od połowy grudnia do połowy stycznia internet pełen jest, kolejno - porad dotyczących postanowień noworocznych, następnie porad dotyczących realizacji konkretnych celów, a na końcu porad dotyczących radzenia sobie z niedotrzymanym postanowieniem. Wszyscy to znamy, bo z roku na rok wygląda to identycznie.
 Ciekawe jest to, że pomimo całej masy artykułów związanych z noworocznymi planami tak niewielu z nas postanawia zatrzymać całe to szaleństwo i zapytać samego siebie - skoro trzy lata temu nie wyszło, dwa lata temu nie wyszło, rok temu nie wyszło, to co mógłbym zrobić inaczej żeby w tym roku plany poukładały się po mojej myśli?</description>
     </item>
     
     <item>
       <title>Ilustracje</title>
-      <link>https://psmyrdek.github.io/blog/ilustracje/</link>
+      <link>https://smyrdek.com/ilustracje/</link>
       <pubDate>Thu, 27 Dec 2018 21:35:35 +0100</pubDate>
       
-      <guid>https://psmyrdek.github.io/blog/ilustracje/</guid>
+      <guid>https://smyrdek.com/ilustracje/</guid>
       <description>Kojarzycie magazyn “The New Yorker”? To jeden z najbardziej znanych amerykańskich tygodników, który wydawany jest od prawie stu lat. Ciekawostką na jego temat jest to, że ilustracje z okładek tego właśnie czasopisma to malutkie dzieła sztuki które doczekały się na swój temat dziesiątek artykułów. Ilustrator, którego praca dostanie się na okładkę tego właśnie tytułu, może pochwalić się niemałym osiągnięciem, a samo pismo i jego okładki stanowią pewną część kultury Nowego Jorku.</description>
     </item>
     
     <item>
       <title>O mnie</title>
-      <link>https://psmyrdek.github.io/blog/o-mnie/</link>
+      <link>https://smyrdek.com/o-mnie/</link>
       <pubDate>Thu, 27 Dec 2018 21:25:39 +0100</pubDate>
       
-      <guid>https://psmyrdek.github.io/blog/o-mnie/</guid>
+      <guid>https://smyrdek.com/o-mnie/</guid>
       <description>Cześć!
 Mam na imię Przemek i jestem programistą. Między innymi.
 Kilka razy usłyszałem na swój temat, że to, w jaki sposób ja sam się rozwijam jest czymś, czym powinienem się dzielić z innymi. Pomimo tego, że nie wiem jeszcze jak ubrać to w konkretne ramy i definicje to postanowiłem po prostu pisać.
@@ -63,40 +63,40 @@ Nie to, żebym wcześniej nie pisał, jednak tutaj tematyka będzie zdecydowanie
     
     <item>
       <title>Jeden komentarz - dwa spojrzenia</title>
-      <link>https://psmyrdek.github.io/blog/posts/jak-reagowac-na-krytyke/</link>
+      <link>https://smyrdek.com/posts/jak-reagowac-na-krytyke/</link>
       <pubDate>Wed, 26 Dec 2018 11:01:13 +0100</pubDate>
       
-      <guid>https://psmyrdek.github.io/blog/posts/jak-reagowac-na-krytyke/</guid>
+      <guid>https://smyrdek.com/posts/jak-reagowac-na-krytyke/</guid>
       <description>Kilka miesięcy temu, pod jednym z filmów na moim YouTube’owym kanale, pojawił się komentarz punktujący moje opracowanie tematu o którym właśnie wtedy mówiłem. W całej tej sytuacji najciekawsze nie było to, jak ja sam czułem się czytając krytykę na swój temat, ale to jak niektóre osoby z mojego otoczenia na ten sam komentarz reagowały.
 Reakcja niektórych osób sprowadzała się bowiem do klasycznego “ale po tobie pojechał”. Zastanawiałem się z czego wynika taka różnica w podejściu do krytyki w porównaniu do mojego podejścia do tego komentarza i doszedłem do wniosku, że chodzi o jedną kluczową rzecz - posiadanie w swoim CV okresu w którym tworzyło się cokolwiek co lądowało na forum publicznym (blogi, artykuły, filmy, itd.</description>
     </item>
     
     <item>
       <title>Co zamiast sushi</title>
-      <link>https://psmyrdek.github.io/blog/posts/kultura-netflixa/</link>
+      <link>https://smyrdek.com/posts/kultura-netflixa/</link>
       <pubDate>Fri, 07 Dec 2018 16:32:54 +0100</pubDate>
       
-      <guid>https://psmyrdek.github.io/blog/posts/kultura-netflixa/</guid>
+      <guid>https://smyrdek.com/posts/kultura-netflixa/</guid>
       <description>W poście otwierającym tego bloga napisałem, że chciałbym się tutaj dzielić wszystkim tym, co pomaga mi w szeroko rozumianym rozwoju. Rozwój może dotyczyć zarówno nabywania twardych umiejętności, jak i np. zdobywania wiedzy i poszerzania swoich perspektyw. Dzisiaj kilka zdań podchodzących pod tę drugą kategorię.
 Kilka dni temu wpadła mi w ręce całkiem interesująca lektura o nazwie “Culture at Netflix”. Tytuł właściwie mówi wszystko - jest to opis wartości którymi kieruje się Netflix jako firma.</description>
     </item>
     
     <item>
       <title>Podaj dalej</title>
-      <link>https://psmyrdek.github.io/blog/posts/zajecie-programisty/</link>
+      <link>https://smyrdek.com/posts/zajecie-programisty/</link>
       <pubDate>Sun, 02 Dec 2018 19:23:33 +0100</pubDate>
       
-      <guid>https://psmyrdek.github.io/blog/posts/zajecie-programisty/</guid>
+      <guid>https://smyrdek.com/posts/zajecie-programisty/</guid>
       <description>Czym właściwie zajmują się programiści? Kiedyś przeczytałem bardzo trafną odpowiedź na to pytanie. Programiści to po prostu osoby rozwiązujące pewne abstrakcyjne problemy (problem transportu na mieście, problem poszukiwania noclegu na wakacje, problem rezerwacji stolika w restauracji) w bardzo specyficzny, powtarzalny sposób.
 Sposób ten polega na tym, że taki abstrakcyjny problem rozbija się na mniejsze kawałki do tego momentu, aż konkretna część tego problemu którą mamy akurat przed sobą jest “rozwiązywalna” (można na niej wykonać jakąś akcję, ponieważ zniknęła wystarczająca liczba niewiadomych).</description>
     </item>
     
     <item>
       <title>Szukam</title>
-      <link>https://psmyrdek.github.io/blog/posts/szukam/</link>
+      <link>https://smyrdek.com/posts/szukam/</link>
       <pubDate>Sat, 01 Dec 2018 17:56:33 +0100</pubDate>
       
-      <guid>https://psmyrdek.github.io/blog/posts/szukam/</guid>
+      <guid>https://smyrdek.com/posts/szukam/</guid>
       <description>W okolicach gimnazjum i szkoły średniej bardzo mocno angażowałem się w społeczność tzw. Virtual Tuningu - wirtualnych modyfikacji samochodów przy pomocy narzędzi takich jak Photoshop czy Corel Draw. Grafika pochłonęła mnie tak bardzo, że nie wyobrażałem sobie innej ścieżki zawodowej niż ta, na której właśnie wtedy się znajdowałem. Minęło kilka lat, przeszło kilkanaście wyróżnień na forach, wspomnień moich prac w czasopismach, no i skończyło się - polska scena VT praktycznie upadła a większość z nas, jej uczestników, poszła w inne strony.</description>
     </item>
     
