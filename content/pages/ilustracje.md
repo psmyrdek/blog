@@ -21,6 +21,10 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
+## [Kto przeżył i dlaczego cię to zmyliło](/posts/czym-jest-survivorship-bias/)
+
+![boat](/images/boat.png)
+
 ## [Co lubisz w życiu robić?](/posts/wartosci-wlasna-kariera/)
 
 ![actions](/images/actions.png)
