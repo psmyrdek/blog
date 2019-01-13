@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Przemek Smyrdek - Blog</title>
+    <title>Tags on Przemek Smyrdek</title>
     <link>https://smyrdek.com/tags/</link>
-    <description>Recent content in Tags on Przemek Smyrdek - Blog</description>
+    <description>Recent content in Tags on Przemek Smyrdek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Sat, 01 Dec 2018 17:56:33 +0100</lastBuildDate>
@@ -102,6 +102,15 @@
     </item>
     
     <item>
+      <title>Logika</title>
+      <link>https://smyrdek.com/tags/logika/</link>
+      <pubDate>Sat, 12 Jan 2019 18:55:39 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/logika/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Netflix</title>
       <link>https://smyrdek.com/tags/netflix/</link>
       <pubDate>Fri, 07 Dec 2018 16:32:54 +0100</pubDate>
@@ -156,6 +165,15 @@
     </item>
     
     <item>
+      <title>Projekty</title>
+      <link>https://smyrdek.com/tags/projekty/</link>
+      <pubDate>Sat, 12 Jan 2019 18:55:39 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/projekty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Przyszłość</title>
       <link>https://smyrdek.com/tags/przysz%C5%82o%C5%9B%C4%87/</link>
       <pubDate>Tue, 08 Jan 2019 20:10:12 +0100</pubDate>
@@ -179,6 +197,15 @@
       <pubDate>Sat, 01 Dec 2018 17:56:33 +0100</pubDate>
       
       <guid>https://smyrdek.com/tags/rozw%C3%B3j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startupy</title>
+      <link>https://smyrdek.com/tags/startupy/</link>
+      <pubDate>Sat, 12 Jan 2019 18:55:39 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/startupy/</guid>
       <description></description>
     </item>
     

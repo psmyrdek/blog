@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Startupy on Przemek Smyrdek</title>
+    <link>https://smyrdek.com/tags/startupy/</link>
+    <description>Recent content in Startupy on Przemek Smyrdek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Sat, 12 Jan 2019 18:55:39 +0100</lastBuildDate>
+    
+	<atom:link href="https://smyrdek.com/tags/startupy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kto przeżył i dlaczego cię to zmyliło</title>
+      <link>https://smyrdek.com/posts/czym-jest-survivorship-bias/</link>
+      <pubDate>Sat, 12 Jan 2019 18:55:39 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/posts/czym-jest-survivorship-bias/</guid>
+      <description>Rozpoczynasz nowe przedsięwzięcie w losowej branży, powiedzmy - medycznej. Nie masz zbyt wielu argumentów stojących za potencjalnym sukcesem twojego projektu ale widzisz jak wielu przed tobą udało się wybić. Myślisz sobie - tych projektów jest tak wiele, że i na mój musi być miejsce. Próbujesz, projekt nie odnosi sukcesu, a ty zastanawiasz się co mogło pójść nie tak. Przecież wokół widać mnóstwo firm w tej samej branży którym się udało.</description>
+    </item>
+    
+  </channel>
+</rss>
