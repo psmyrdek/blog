@@ -21,6 +21,10 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
+## [Podziel się wiedzą](/posts/co-daje-dzielenie-sie-wiedza/)
+
+![desks](/images/desks.png)
+
 ## [Kto przeżył i dlaczego cię to zmyliło](/posts/czym-jest-survivorship-bias/)
 
 ![boat](/images/boat.png)
