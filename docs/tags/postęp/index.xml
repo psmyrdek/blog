@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wiedza on Przemek Smyrdek</title>
-    <link>https://smyrdek.com/tags/wiedza/</link>
-    <description>Recent content in Wiedza on Przemek Smyrdek</description>
+    <title>Postęp on Przemek Smyrdek</title>
+    <link>https://smyrdek.com/tags/post%C4%99p/</link>
+    <description>Recent content in Postęp on Przemek Smyrdek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Mon, 21 Jan 2019 20:08:56 +0100</lastBuildDate>
     
-	<atom:link href="https://smyrdek.com/tags/wiedza/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smyrdek.com/tags/post%C4%99p/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://smyrdek.com/posts/co-daje-dzielenie-sie-wiedza/</guid>
       <description>Ilu programistów w naszym kraju chce regularnie dzielić się wiedzą? Trudno doszukiwać się konkretnych liczb, ale przyjmując, że w Polsce w tej branży pracuje ok. 250 tys. osób (dane na 2017 r.), a do jednego z najpopularniejszych branżowych konkursów - Daj Się Poznać - w tym samym roku zgłasza się ich około tysiąc, to wychodzi nam mniej więcej 0.4%. Oczywiście, w grupie tysiąca uczestników nie ma większości liderów branży albo osób które po prostu nie chciały wystartować ale nawet z takimi obliczeniami ostateczny wynik pozostanie mniej więcej w takich samych granicach, bo musimy jeszcze odjąć osoby które napisały jednego posta na blogu i przestały publikować.</description>
-    </item>
-    
-    <item>
-      <title>Podaj dalej</title>
-      <link>https://smyrdek.com/posts/zajecie-programisty/</link>
-      <pubDate>Sun, 02 Dec 2018 19:23:33 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/zajecie-programisty/</guid>
-      <description>Czym właściwie zajmują się programiści? Kiedyś przeczytałem bardzo trafną odpowiedź na to pytanie. Programiści to po prostu osoby rozwiązujące pewne abstrakcyjne problemy (problem transportu na mieście, problem poszukiwania noclegu na wakacje, problem rezerwacji stolika w restauracji) w bardzo specyficzny, powtarzalny sposób.
-Sposób ten polega na tym, że taki abstrakcyjny problem rozbija się na mniejsze kawałki do tego momentu, aż konkretna część tego problemu którą mamy akurat przed sobą jest “rozwiązywalna” (można na niej wykonać jakąś akcję, ponieważ zniknęła wystarczająca liczba niewiadomych).</description>
     </item>
     
   </channel>

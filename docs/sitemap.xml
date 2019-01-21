@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://smyrdek.com/posts/co-daje-dzielenie-sie-wiedza/</loc>
+    <lastmod>2019-01-21T20:08:56+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/posts/czym-jest-survivorship-bias/</loc>
     <lastmod>2019-01-12T18:55:39+01:00</lastmod>
   </url>
@@ -60,7 +65,7 @@
   
   <url>
     <loc>https://smyrdek.com/tags/blogi/</loc>
-    <lastmod>2018-12-26T11:01:13+01:00</lastmod>
+    <lastmod>2019-01-21T20:08:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,6 +101,12 @@
   <url>
     <loc>https://smyrdek.com/tags/kariera/</loc>
     <lastmod>2019-01-08T20:10:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/knowledge-sharing/</loc>
+    <lastmod>2019-01-21T20:08:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -155,13 +166,19 @@
   
   <url>
     <loc>https://smyrdek.com/posts/</loc>
-    <lastmod>2019-01-12T18:55:39+01:00</lastmod>
+    <lastmod>2019-01-21T20:08:56+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/post%C4%99p/</loc>
+    <lastmod>2019-01-21T20:08:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://smyrdek.com/tags/programowanie/</loc>
-    <lastmod>2018-12-02T19:23:33+01:00</lastmod>
+    <lastmod>2019-01-21T20:08:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -179,7 +196,7 @@
   
   <url>
     <loc>https://smyrdek.com/</loc>
-    <lastmod>2019-01-12T18:55:39+01:00</lastmod>
+    <lastmod>2019-01-21T20:08:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -221,7 +238,7 @@
   
   <url>
     <loc>https://smyrdek.com/tags/wiedza/</loc>
-    <lastmod>2018-12-02T19:23:33+01:00</lastmod>
+    <lastmod>2019-01-21T20:08:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
