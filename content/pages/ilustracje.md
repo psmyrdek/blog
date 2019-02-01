@@ -21,6 +21,11 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
+
+## [To jedno pytanie...](/posts/czym-jest-learney-agregator-wiedzy/)
+
+![dent](/images/dent.png)
+
 ## [Podziel się wiedzą](/posts/co-daje-dzielenie-sie-wiedza/)
 
 ![desks](/images/desks.png)
