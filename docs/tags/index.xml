@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Przemek Smyrdek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
-    <lastBuildDate>Sat, 01 Dec 2018 17:56:33 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 22:08:19 +0100</lastBuildDate>
     
 	<atom:link href="https://smyrdek.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Agregator Wiedzy</title>
+      <link>https://smyrdek.com/tags/agregator-wiedzy/</link>
+      <pubDate>Fri, 01 Feb 2019 22:08:19 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/agregator-wiedzy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blog</title>
@@ -111,11 +120,29 @@
     </item>
     
     <item>
+      <title>Learney</title>
+      <link>https://smyrdek.com/tags/learney/</link>
+      <pubDate>Fri, 01 Feb 2019 22:08:19 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/learney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Logika</title>
       <link>https://smyrdek.com/tags/logika/</link>
       <pubDate>Sat, 12 Jan 2019 18:55:39 +0100</pubDate>
       
       <guid>https://smyrdek.com/tags/logika/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make a Dent</title>
+      <link>https://smyrdek.com/tags/make-a-dent/</link>
+      <pubDate>Fri, 01 Feb 2019 22:08:19 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/make-a-dent/</guid>
       <description></description>
     </item>
     
@@ -212,9 +239,18 @@
     <item>
       <title>Rozwój</title>
       <link>https://smyrdek.com/tags/rozw%C3%B3j/</link>
-      <pubDate>Sat, 01 Dec 2018 17:56:33 +0100</pubDate>
+      <pubDate>Fri, 01 Feb 2019 22:08:19 +0100</pubDate>
       
       <guid>https://smyrdek.com/tags/rozw%C3%B3j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saas</title>
+      <link>https://smyrdek.com/tags/saas/</link>
+      <pubDate>Fri, 01 Feb 2019 22:08:19 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/saas/</guid>
       <description></description>
     </item>
     
@@ -239,7 +275,7 @@
     <item>
       <title>Wiedza</title>
       <link>https://smyrdek.com/tags/wiedza/</link>
-      <pubDate>Mon, 21 Jan 2019 20:08:56 +0100</pubDate>
+      <pubDate>Fri, 01 Feb 2019 22:08:19 +0100</pubDate>
       
       <guid>https://smyrdek.com/tags/wiedza/</guid>
       <description></description>

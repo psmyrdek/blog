@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rozwój on Przemek Smyrdek</title>
-    <link>https://smyrdek.com/tags/rozw%C3%B3j/</link>
-    <description>Recent content in Rozwój on Przemek Smyrdek</description>
+    <title>Make a Dent on Przemek Smyrdek</title>
+    <link>https://smyrdek.com/tags/make-a-dent/</link>
+    <description>Recent content in Make a Dent on Przemek Smyrdek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Fri, 01 Feb 2019 22:08:19 +0100</lastBuildDate>
     
-	<atom:link href="https://smyrdek.com/tags/rozw%C3%B3j/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smyrdek.com/tags/make-a-dent/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://smyrdek.com/posts/czym-jest-learney-agregator-wiedzy/</guid>
       <description>Jak pewnie niektórzy z was wiedzą, niedawno wystartował projekt Learney, czyli narzędzie pozwalające programistom odnajdywać wiedzę dopasowaną do ich zainteresowań oraz doświadczenia. Dzisiaj chciałbym napisać kilka słów o jednym z najciekawszych wątków które przy okazji tego projektu dzieją się w tle. Wątkiem tym są moje oczekiwania względem tego projektu.
 Wiele osób które miało okazję testować Learney zadaje podobne pytanie. Pytanie które mniej więcej brzmi tak: “-Jak zamierzasz konkurować z Twitterem, Medium, HackerNews oraz grupami na Facebooku?</description>
-    </item>
-    
-    <item>
-      <title>Szukam</title>
-      <link>https://smyrdek.com/posts/szukam/</link>
-      <pubDate>Sat, 01 Dec 2018 17:56:33 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/szukam/</guid>
-      <description>W okolicach gimnazjum i szkoły średniej bardzo mocno angażowałem się w społeczność tzw. Virtual Tuningu - wirtualnych modyfikacji samochodów przy pomocy narzędzi takich jak Photoshop czy Corel Draw. Grafika pochłonęła mnie tak bardzo, że nie wyobrażałem sobie innej ścieżki zawodowej niż ta, na której właśnie wtedy się znajdowałem. Minęło kilka lat, przeszło kilkanaście wyróżnień na forach, wspomnień moich prac w czasopismach, no i skończyło się - polska scena VT praktycznie upadła a większość z nas, jej uczestników, poszła w inne strony.</description>
     </item>
     
   </channel>

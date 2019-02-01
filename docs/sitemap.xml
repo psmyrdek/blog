@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://smyrdek.com/posts/czym-jest-learney-agregator-wiedzy/</loc>
+    <lastmod>2019-02-01T22:08:19+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/posts/co-daje-dzielenie-sie-wiedza/</loc>
     <lastmod>2019-01-21T20:08:56+01:00</lastmod>
   </url>
@@ -55,6 +60,12 @@
   <url>
     <loc>https://smyrdek.com/posts/szukam/</loc>
     <lastmod>2018-12-01T17:56:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/agregator-wiedzy/</loc>
+    <lastmod>2019-02-01T22:08:19+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -129,8 +140,20 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/learney/</loc>
+    <lastmod>2019-02-01T22:08:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/tags/logika/</loc>
     <lastmod>2019-01-12T18:55:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/make-a-dent/</loc>
+    <lastmod>2019-02-01T22:08:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -166,7 +189,7 @@
   
   <url>
     <loc>https://smyrdek.com/posts/</loc>
-    <lastmod>2019-01-21T20:08:56+01:00</lastmod>
+    <lastmod>2019-02-01T22:08:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -196,7 +219,7 @@
   
   <url>
     <loc>https://smyrdek.com/</loc>
-    <lastmod>2019-01-21T20:08:56+01:00</lastmod>
+    <lastmod>2019-02-01T22:08:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -214,7 +237,13 @@
   
   <url>
     <loc>https://smyrdek.com/tags/rozw%C3%B3j/</loc>
-    <lastmod>2018-12-01T17:56:33+01:00</lastmod>
+    <lastmod>2019-02-01T22:08:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/saas/</loc>
+    <lastmod>2019-02-01T22:08:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -226,7 +255,7 @@
   
   <url>
     <loc>https://smyrdek.com/tags/</loc>
-    <lastmod>2018-12-01T17:56:33+01:00</lastmod>
+    <lastmod>2019-02-01T22:08:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -238,7 +267,7 @@
   
   <url>
     <loc>https://smyrdek.com/tags/wiedza/</loc>
-    <lastmod>2019-01-21T20:08:56+01:00</lastmod>
+    <lastmod>2019-02-01T22:08:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
