@@ -21,6 +21,9 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
+## [Jak skutecznie realizować własne cele](/posts/jak-skutecznie-realizowac-cele/)
+
+![projects](/images/projects.jpg)
 
 ## [To jedno pytanie...](/posts/czym-jest-learney-agregator-wiedzy/)
 
