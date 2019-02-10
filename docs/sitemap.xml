@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://smyrdek.com/posts/jak-skutecznie-realizowac-cele/</loc>
+    <lastmod>2019-02-10T09:10:59+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/posts/czym-jest-learney-agregator-wiedzy/</loc>
     <lastmod>2019-02-01T22:08:19+01:00</lastmod>
   </url>
@@ -87,13 +92,13 @@
   
   <url>
     <loc>https://smyrdek.com/tags/cele/</loc>
-    <lastmod>2019-01-04T18:10:09+01:00</lastmod>
+    <lastmod>2019-02-10T09:10:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://smyrdek.com/tags/efektywno%C5%9B%C4%87/</loc>
-    <lastmod>2019-01-04T18:10:09+01:00</lastmod>
+    <lastmod>2019-02-10T09:10:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -189,13 +194,19 @@
   
   <url>
     <loc>https://smyrdek.com/posts/</loc>
-    <lastmod>2019-02-01T22:08:19+01:00</lastmod>
+    <lastmod>2019-02-10T09:10:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://smyrdek.com/tags/post%C4%99p/</loc>
     <lastmod>2019-01-21T20:08:56+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/praca/</loc>
+    <lastmod>2019-02-10T09:10:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -213,13 +224,13 @@
   
   <url>
     <loc>https://smyrdek.com/tags/projekty/</loc>
-    <lastmod>2019-01-12T18:55:39+01:00</lastmod>
+    <lastmod>2019-02-10T09:10:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://smyrdek.com/</loc>
-    <lastmod>2019-02-01T22:08:19+01:00</lastmod>
+    <lastmod>2019-02-10T09:10:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -244,6 +255,12 @@
   <url>
     <loc>https://smyrdek.com/tags/saas/</loc>
     <lastmod>2019-02-01T22:08:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/skupienie/</loc>
+    <lastmod>2019-02-10T09:10:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
