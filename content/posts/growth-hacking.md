@@ -16,7 +16,7 @@ images:
 - images/IMAGE_NAME.png
 ---
 
-![IMAGE_NAME](/images/IMAGE_NAME.png)
+![growth](/images/growth.png)
 
 Angażując się w takie projekty jak blogi, kanały na YouTube czy ogólnie rzecz biorąc - wszystko co oparte jest o budowanie społeczności - w pewnym momencie może dopaść Cię kryzys związany z tym klasycznym pytaniem “po co to wszystko?”. Blog po miesiącu regularnie odwiedza 10 osób, na YouTube twoje filmy wyświetliło 50 osób, a na posty w mediach społecznościowych nikt nie reaguje. Dzisiaj chciałbym ci pokazać czym skutkuje przetrwanie tego właśnie momentu i skupienie się na konsekwentnej, regularnej pracy.
 
