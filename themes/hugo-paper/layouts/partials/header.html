@@ -14,7 +14,7 @@
     {{- .Site.Title -}}
   </title>
   <!-- Meta -->
-  {{- if eq .Kind "page" }}
+  {{- if not .IsHome }}
   <meta name="description" content="{{ .Summary }}">
   <meta name="author" content="{{ .Params.author | default .Site.Params.author }}">
   {{ else }}
@@ -42,11 +42,9 @@
 </head>
 <body class="{{if eq .Kind `page` }}single{{else}}list{{ if .IsHome }} home{{ end }}{{end}}">
   <header class="header">
-    {{ if .IsHome }}
-    <h1 class="title"><a href="{{.Site.BaseURL}}">{{ .Site.Title }}</a></h1>
-    {{ else }}
-    <p class="title"><a href="{{.Site.BaseURL}}">{{ .Site.Title }}</a></p>
-    {{ end }}
+    <div class="blog-title">
+      <h1 class="title"><a href="{{.Site.BaseURL}}">przemek<span class="blog-address">smyrdek.com</span></a></h1>
+    </div>
     <button class="menu-toggle" type="button"></button>
     <nav class="menu">
       <ul>

@@ -1,6 +1,6 @@
 baseURL = "https://smyrdek.com/"
 languageCode = "pl-pl"
-title = "Przemek Smyrdek"
+title = "Przemek Smyrdek - O rozwoju, nie tylko w programowaniu"
 theme = "hugo-paper"
 publishDir = "docs"
 googleAnalytics = "UA-130241188-1"
@@ -11,7 +11,7 @@ disqusShortname = "przemeksmyrdek"
     post = "/:year/:month/:title/"
 
 [params]
-    description = "Przemek Smyrdek - o rozwoju, nie tylko w programowaniu"
+    description = "Blog o rozwoju z perspektywy programisty - nauka, własne doświadczenia, inspiracje"
     author = "Przemek Smyrdek"
 
 [menu]

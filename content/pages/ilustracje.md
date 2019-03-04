@@ -21,6 +21,10 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
+## [Applying CQRS to Product Design - EN](/posts/applying-cqrs-to-product-design/)
+
+![cqrs](/images/cqrs.png)
+
 ## [Growth Hacking](/posts/growth-hacking/)
 
 ![growth](/images/growth.png)

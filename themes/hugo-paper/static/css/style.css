@@ -90,6 +90,12 @@ pre, code {
   padding-right: 30px;
   line-height: 65px;
 }
+.blog-title {
+  color: #333;
+}
+.blog-address {
+  color: #23d8ca;
+}
 .home .header {
   background: #fff;
 }
