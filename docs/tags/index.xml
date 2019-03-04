@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Przemek Smyrdek</title>
+    <title>Tags on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</title>
     <link>https://smyrdek.com/tags/</link>
-    <description>Recent content in Tags on Przemek Smyrdek</description>
+    <description>Recent content in Tags on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Fri, 01 Feb 2019 22:08:19 +0100</lastBuildDate>
@@ -57,6 +57,24 @@
     </item>
     
     <item>
+      <title>Cqrs</title>
+      <link>https://smyrdek.com/tags/cqrs/</link>
+      <pubDate>Mon, 04 Mar 2019 18:25:15 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/cqrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://smyrdek.com/tags/design/</link>
+      <pubDate>Mon, 04 Mar 2019 18:25:15 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efektywność</title>
       <link>https://smyrdek.com/tags/efektywno%C5%9B%C4%87/</link>
       <pubDate>Sun, 10 Feb 2019 09:10:59 +0100</pubDate>
@@ -71,6 +89,15 @@
       <pubDate>Fri, 04 Jan 2019 18:10:09 +0100</pubDate>
       
       <guid>https://smyrdek.com/tags/emocje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>https://smyrdek.com/tags/english/</link>
+      <pubDate>Mon, 04 Mar 2019 18:25:15 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/english/</guid>
       <description></description>
     </item>
     
@@ -305,6 +332,15 @@
       <pubDate>Sun, 10 Feb 2019 09:10:59 +0100</pubDate>
       
       <guid>https://smyrdek.com/tags/skupienie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Srp</title>
+      <link>https://smyrdek.com/tags/srp/</link>
+      <pubDate>Mon, 04 Mar 2019 18:25:15 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/srp/</guid>
       <description></description>
     </item>
     
