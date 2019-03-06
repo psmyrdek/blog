@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://smyrdek.com/posts/jak-radzic-sobie-z-brakiem-kreatywnosci/</loc>
+    <lastmod>2019-03-04T18:37:01+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/posts/applying-cqrs-to-product-design/</loc>
     <lastmod>2019-03-04T18:25:15+01:00</lastmod>
   </url>
@@ -179,6 +184,12 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/kreatywno%C5%9B%C4%87/</loc>
+    <lastmod>2019-03-04T18:37:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/tags/krytyka/</loc>
     <lastmod>2018-12-26T11:01:13+01:00</lastmod>
     <priority>0</priority>
@@ -221,6 +232,12 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/odpoczynek/</loc>
+    <lastmod>2019-03-04T18:37:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/tags/opinie/</loc>
     <lastmod>2018-12-26T11:01:13+01:00</lastmod>
     <priority>0</priority>
@@ -239,8 +256,14 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/pomys%C5%82y/</loc>
+    <lastmod>2019-03-04T18:37:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/posts/</loc>
-    <lastmod>2019-03-04T18:25:15+01:00</lastmod>
+    <lastmod>2019-03-04T18:37:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -281,8 +304,14 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/przedsi%C4%99wzi%C4%99cia/</loc>
+    <lastmod>2019-03-04T18:37:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/</loc>
-    <lastmod>2019-03-04T18:25:15+01:00</lastmod>
+    <lastmod>2019-03-04T18:37:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   

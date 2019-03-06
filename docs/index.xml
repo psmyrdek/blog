@@ -6,10 +6,20 @@
     <description>Recent content on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
-    <lastBuildDate>Mon, 04 Mar 2019 18:25:15 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2019 18:37:01 +0100</lastBuildDate>
     
 	<atom:link href="https://smyrdek.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jak radzić sobie z brakiem kreatywności?</title>
+      <link>https://smyrdek.com/posts/jak-radzic-sobie-z-brakiem-kreatywnosci/</link>
+      <pubDate>Mon, 04 Mar 2019 18:37:01 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/posts/jak-radzic-sobie-z-brakiem-kreatywnosci/</guid>
+      <description>Kilka lat temu, kiedy jeszcze nie zajmowałem się programowaniem, byłem naprawdę mocno wkręcony w grafikę komputerową. W tamtym okresie realizowałem rozmaite projekty które satysfakcjonowały klientów, jednak ciągle miałem w głowie w głowie obawy związane z moim “niedoborem kreatywności”.
+Spotykając się wielokrotnie z niesamowitymi projektami osób z tej samej branży zastanawiałem się co sprawia, że dana osoba wpadła na tak niesamowity pomysł, zastosowała nietypową technikę czy też pokazała, że wybrany efekt można osiągnąć w tak abstrakcyjny sposób.</description>
+    </item>
     
     <item>
       <title>Applying CQRS to Product Design</title>
