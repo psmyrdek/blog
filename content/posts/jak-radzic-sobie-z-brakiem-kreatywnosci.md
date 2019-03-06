@@ -91,5 +91,6 @@ Mam nadzieję, że wszystko to pomoże wam pozbyć się waszych obaw związanych
 
 Jakie są wasze doświadczenia związane z tym tematem? Piszcie w komentarzach!
 
+---
 
-
+Bonus - [Nick Kokonas — How to Apply World-Class Creativity to Business, Art, and Life](https://tim.blog/2018/10/18/nick-kokonas/)
