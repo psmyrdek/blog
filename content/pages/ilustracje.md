@@ -21,6 +21,14 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
+## [O spełnianiu absurdalnie niedostępnych celów](/posts/spelnianie-niedostepnych-marzenn/)
+
+![steps](/images/steps.png)
+
+## [Jak radzić sobie z brakiem kreatywności?](/posts/jak-radzic-sobie-z-brakiem-kreatywnosci/)
+
+![space](/images/space.png)
+
 ## [Applying CQRS to Product Design - EN](/posts/applying-cqrs-to-product-design/)
 
 ![cqrs](/images/cqrs.png)
