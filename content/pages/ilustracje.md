@@ -21,7 +21,7 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
-## [O spełnianiu absurdalnie niedostępnych celów](/posts/spelnianie-niedostepnych-marzenn/)
+## [O spełnianiu absurdalnie niedostępnych celów](/posts/spelnianie-niedostepnych-marzen/)
 
 ![steps](/images/steps.png)
 
