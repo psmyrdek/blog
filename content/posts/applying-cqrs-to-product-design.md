@@ -2,7 +2,7 @@
 draft: false
 
 title: "Applying CQRS to Product Design"
-description: ""
+description: "Software engineers know most of the benefits that CQRS bring to the table, so maybe we could borrow the same concept to a bit different domain — let’s say — design?"
 tags: 
 - cqrs
 - design

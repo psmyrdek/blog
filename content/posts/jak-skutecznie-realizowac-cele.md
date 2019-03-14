@@ -2,7 +2,7 @@
 draft: false
 
 title: "Jak skutecznie realizować własne cele"
-description: "W dzisiejszym poście kilka słów o tym co zrobić, żeby nie zaplątać się w rozmaite inicjatywy w zbyt dużej liczbie i tym samym pozbawić się szansy osiągnięcia jakiegokolwiek celu."
+description: "Co zrobić, żeby nie zaplątać się w rozmaite inicjatywy w zbyt dużej liczbie i tym samym pozbawić się szansy osiągnięcia jakiegokolwiek celu."
 tags: 
 - praca
 - cele

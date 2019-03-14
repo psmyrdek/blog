@@ -2,7 +2,7 @@
 draft: false
 
 title: "Jak radzić sobie z brakiem kreatywności?"
-description: "Dzisiaj piszę więc o tym jak radzić sobie z wątpliwościami związanymi z brakiem kreatywności a także co robić, żeby pobudzać ją w codziennej pracy."
+description: "Jak radzić sobie z wątpliwościami związanymi z brakiem kreatywności a także co robić, żeby pobudzać ją w codziennej pracy."
 tags: 
 - kreatywność
 - odpoczynek

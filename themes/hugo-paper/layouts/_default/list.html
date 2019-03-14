@@ -12,16 +12,16 @@
 {{ range $index, $page := where $paginator.Pages "Type" "!=" "page" }}
 {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}
 {{ .Scratch.Set "postClass" "first-entry" }}
-{{ .Scratch.Set "firstEmoji" "<span class=\"welcome-emoji\">🔥</span>" }}
+{{ .Scratch.Set "firstEntrySeparator" "<div class=\"first-entry-separator\"><div class=\"first-entry-separator-content\"></div></div>" }}
 {{ else }}
 {{ .Scratch.Set "postClass" "post-entry" }}
 {{ end }}
 <article class="post {{ .Scratch.Get `postClass` }}">
   <header class="post-header">
-    {{ safeHTML (.Scratch.Get `firstEmoji`) }}
     <h2 class="post-title">{{ .Title }}</h2>
   </header>
-  <p class="post-summary">{{ .Summary | plainify | htmlUnescape }}...</p>
+  {{ safeHTML (.Scratch.Get `firstEntrySeparator`) }}
+  <p class="post-summary">{{ .Description }}</p>
   <footer class="post-footer">
     <p class="post-meta">{{ .Date.Format "02.01.2006" }}</p>
   </footer>
@@ -33,10 +33,10 @@
 <footer class="list-footer">
   <nav class="pagination">
     {{ if $paginator.HasPrev }}
-    <a class="pagination-prev" href="{{ $paginator.Prev.URL }}">← {{ i18n "prevPage" }}</a>
+    <a class="pagination-prev" href="{{ $paginator.Prev.URL }}">← Wstecz</a>
     {{ end }}
     {{ if $paginator.HasNext }}
-    <a class="pagination-next" href="{{ $paginator.Next.URL }}">{{ i18n "nextPage" }} →</a>
+    <a class="pagination-next" href="{{ $paginator.Next.URL }}">Dalej →</a>
     {{ end }}
   </nav>
 </footer>
