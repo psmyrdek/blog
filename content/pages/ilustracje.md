@@ -21,6 +21,10 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
+## [Jeśli nie książki, to co? 6 sposobów na pozyskiwanie nowej wiedzy.](/posts/co-zamiast-ksiazek/)
+
+![books](/images/books.png)
+
 ## [O spełnianiu absurdalnie niedostępnych celów](/posts/spelnianie-niedostepnych-marzen/)
 
 ![steps](/images/steps.png)
