@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://smyrdek.com/posts/co-zamiast-ksiazek/</loc>
+    <lastmod>2019-03-15T22:57:38+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/posts/spelnianie-niedostepnych-marzen/</loc>
     <lastmod>2019-03-10T21:26:17+01:00</lastmod>
   </url>
@@ -172,7 +177,7 @@
   
   <url>
     <loc>https://smyrdek.com/tags/knowledge-sharing/</loc>
-    <lastmod>2019-01-21T20:08:56+01:00</lastmod>
+    <lastmod>2019-03-15T22:57:38+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,6 +202,12 @@
   <url>
     <loc>https://smyrdek.com/tags/krytyka/</loc>
     <lastmod>2018-12-26T11:01:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/ksi%C4%85%C5%BCki/</loc>
+    <lastmod>2019-03-15T22:57:38+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -231,6 +242,12 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/mentoring/</loc>
+    <lastmod>2019-03-15T22:57:38+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/tags/netflix/</loc>
     <lastmod>2018-12-07T16:32:54+01:00</lastmod>
     <priority>0</priority>
@@ -245,6 +262,12 @@
   <url>
     <loc>https://smyrdek.com/tags/odpoczynek/</loc>
     <lastmod>2019-03-04T18:37:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/open-source/</loc>
+    <lastmod>2019-03-15T22:57:38+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -274,7 +297,7 @@
   
   <url>
     <loc>https://smyrdek.com/posts/</loc>
-    <lastmod>2019-03-10T21:26:17+01:00</lastmod>
+    <lastmod>2019-03-15T22:57:38+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -322,7 +345,7 @@
   
   <url>
     <loc>https://smyrdek.com/</loc>
-    <lastmod>2019-03-10T21:26:17+01:00</lastmod>
+    <lastmod>2019-03-15T22:57:38+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -407,6 +430,12 @@
   <url>
     <loc>https://smyrdek.com/tags/znajomi/</loc>
     <lastmod>2018-12-26T11:01:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/%C5%BAr%C3%B3d%C5%82a-wiedzy/</loc>
+    <lastmod>2019-03-15T22:57:38+01:00</lastmod>
     <priority>0</priority>
   </url>
   
