@@ -6,6 +6,7 @@ publishDir = "docs"
 googleAnalytics = "UA-130241188-1"
 canonifyURLs = true
 disqusShortname = "przemeksmyrdek"
+enableRobotsTXT = true
 
 [permalinks]
     post = "/:year/:month/:title/"
