@@ -17,9 +17,11 @@ images:
 
 ![notes](/images/how-to-talks/notes.png)
 
-Za kilka tygodni będę miał możliwość wystąpienia na konferencji programistycznej 4developers w Warszawie. Z powodu ograniczonej ilości czasu na posty o tematyce innej niż ta związana z prezentacją postanowiłem, że najbliższe tygodnie poświęcę na opisanie tego jak ja sam przygotowuję się do tego typu wystąpień. W trzech kolejnych postach przejdziemy więc przez trzy kolejne etapy zbliżające nas do właściwego wystąpienia i zaprezentowania danego tematu na żywo. 
+Za kilka tygodni będę miał możliwość wystąpienia na konferencji programistycznej 4developers w Warszawie. Z powodu ograniczonej ilości czasu na posty o tematyce innej niż ta związana z prezentacją postanowiłem, że najbliższe tygodnie poświęcę na opisanie tego jak ja sam przygotowuję się do tego typu wystąpień. W trzech kolejnych postach przejdziemy więc przez trzy kolejne etapy zbliżające nas do właściwego wystąpienia i zaprezentowania danego tematu na żywo.
 
-Klasyczne prezentacje z jakimi spotykaliśmy się w szkole w większości przypadków nie mają nic wspólnego z pasjonującymi wystąpieniami publicznymi. Dlaczego? Ano dlatego, że my wszyscy na pewnym etapie podchodzimy do nich od złej strony - mówiąc konkretnie, od strony slajdów. W końcu prezentacja to zbiór slajdów, co?
+Ale właściwie po co nam taka wiedza? Czy nie wystarczy nam to, co na temat prezentacji wynieśliśmy ze szkoły?
+
+Niestety, ale klasyczne prezentacje z jakimi spotykaliśmy się w szkole w większości przypadków nie mają nic wspólnego z pasjonującymi wystąpieniami publicznymi. Dlaczego? Ano dlatego, że my wszyscy na pewnym etapie podchodzimy do nich od złej strony – mówiąc konkretnie, od strony slajdów. W końcu prezentacja to zbiór slajdów, co?
 
 Nie!
 
