@@ -33,9 +33,11 @@ W szkole prezentacje dotyczyły rzeczowników. Robiliśmy referaty na temat rzec
 
 Statycznie, nudno, bez emocji.
 
-Aby wystąpienie publiczne odniosło pożądany efekt, nie może ono dotyczyć opisu rzeczy. Taka forma prezentacji nie zainteresuje nikogo poza autorem wystąpienia, który również nie zawsze pasjonuje się tym o czym mówi.
+Aby wystąpienie publiczne odniosło pożądany efekt, nie może ono dotyczyć opisu rzeczy. Taka forma prezentacji nie zainteresuje nikogo poza autorem wystąpienia, który również nie zawsze pasjonuje się tym o czym mówi. Co więc robić, żeby nas słuchano?
 
-Skuteczne prezentacje mają zazwyczaj na celu przekonanie słuchaczy do konkretnej idei. Zainteresowało cię konkretne narzędzie? Opisz krótko podstawowe założenia a przez resztę prezentacji zachęcaj uczestników konferencji do poświęcenia mu kilku minut przywołując konkretne przypadki użycia. Chciałbyś promować wybrane podejście do realizacji projektu? Opowiedz historię twojego zespołu przywołując zarówno dobre dni, jak i te kiedy nic nie szło zgodnie z planem. To lepsze niż puste, oderwane od rzeczywistości założenia. Dzielisz się spostrzeżeniem? Zadbaj o udowodnienie jego użyteczności w oparciu o przykłady z przeszłości zamiast prezentowania suchej teorii.
+Zamiast opisywać rzeczywistość, spróbuj przekonać słuchaczy do konkretnej idei. 
+
+Zainteresowało cię wybrane narzędzie? Opisz krótko podstawowe założenia a przez resztę prezentacji zachęcaj uczestników konferencji do poświęcenia mu kilku minut przywołując konkretne przypadki użycia. Chciałbyś promować wybrane podejście do realizacji projektu? Opowiedz historię twojego zespołu przywołując zarówno dobre dni, jak i te kiedy nic nie szło zgodnie z planem. To lepsze niż puste, oderwane od rzeczywistości założenia. Dzielisz się spostrzeżeniem? Zadbaj o udowodnienie jego użyteczności w oparciu o przykłady z przeszłości zamiast prezentowania suchej teorii.
 
 Przykładów na to jak w interesujący sposób przekazywać daną ideę znajdziesz w internecie całe mnóstwo. Prezentacja iPhone'a? Apple wymyśla smartfon na nowo, dowodząc przy okazji jak rewolucyjną firmę stworzył Jobs. Prezentacja Tesli? Musk opowiada o problemach dzisiejszego świata związanego z ekologią i przekonuje nas, że nasz styl życia musi się zmienić. Nowy produkt od Google’a? Świat potrzebuje sztucznej inteligencji, bo tylko ona może rozwiązać ten konkretny problem.
 
