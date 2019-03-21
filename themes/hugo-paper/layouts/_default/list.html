@@ -21,7 +21,7 @@
   <header class="post-header">
     {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}
       {{ range .Params.images }}
-        <img src="{{$.Site.BaseURL}}{{ . }}" alt="Ilustracja posta" />
+        <img class="post-main-img" src="{{$.Site.BaseURL}}{{ . }}" alt="Ilustracja posta" />
       {{ end }}
     {{ end }}
     <h2 class="post-title">{{ .Title }}</h2>
