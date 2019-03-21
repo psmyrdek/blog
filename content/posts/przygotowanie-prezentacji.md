@@ -71,7 +71,7 @@ Co znajduje się na grzbiecie oraz w dolinie takich fal? Znajdują się tam taki
 * teza oraz dowód na nią (wzmacnianie przekazu)
 * itd.
 
-Ja osobiście lubię rozpocząć od porządnego nakreślenia problemu. Po co właściwie się spotykamy? Po co zabieram wasz czas? Co jest nie tak? Po krótki przedstawieniu się przedstawiam moją tezę i (bez agendy) przechodzą do jej obrony wykorzystując opisane tutaj modele. Zawartość prezentacji może się różnić w zależności od tematu, ale jednego nie wolno wam zrobić - nie wolno odklepać slajdów jeden po drugiem. Góra - dół - góra - dół. Karuzela.
+Ja osobiście lubię rozpocząć od porządnego nakreślenia problemu. Po co właściwie się spotykamy? Po co zabieram wasz czas? Co jest nie tak? Po krótki przedstawieniu się przedstawiam moją tezę i (bez agendy) przechodzą do jej obrony wykorzystując opisane tutaj modele. Zawartość prezentacji może się różnić w zależności od tematu, ale jednego nie wolno wam zrobić - nie wolno odklepać slajdów jeden po drugim. Góra - dół - góra - dół. Karuzela.
 
 Jak robią to najlepsi?
 
