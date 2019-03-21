@@ -13,7 +13,7 @@ tags:
 date: 2019-02-16T11:42:02+01:00
 
 images:
-- images/IMAGE_NAME.png
+- images/growth.png
 ---
 
 ![growth](/images/growth.png)

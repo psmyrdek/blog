@@ -17,7 +17,13 @@
 {{ .Scratch.Set "postClass" "post-entry" }}
 {{ end }}
 <article class="post {{ .Scratch.Get `postClass` }}">
+  
   <header class="post-header">
+    {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}
+      {{ range .Params.images }}
+        <img src="{{$.Site.BaseURL}}{{ . }}" alt="Ilustracja posta" />
+      {{ end }}
+    {{ end }}
     <h2 class="post-title">{{ .Title }}</h2>
   </header>
   {{ safeHTML (.Scratch.Get `firstEntrySeparator`) }}

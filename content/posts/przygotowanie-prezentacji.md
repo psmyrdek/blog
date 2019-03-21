@@ -35,9 +35,9 @@ Aby wystąpienie publiczne odniosło pożądany efekt, nie może ono dotyczyć o
 
 Skuteczne prezentacje mają zazwyczaj na celu przekonanie słuchaczy do konkretnej idei. Są dynamiczne (w przekazie, niekoniecznie w formie) i nastawione na działanie - czasowniki, w przeciwieństwie do rzeczowników. Prezentacja iPhona? Apple wymyśla smartfon na nowo, dowodząc przy okazji jak rewolucyjną firmę stworzył Jobs. Prezentacja Tesli? Musk opowiada o problemach dzisiejszego świata związanego z ekologią i przekonuje nas, że nasz styl życia musi się zmienić. Nowy produkt od Google’a? Świat potrzebuje sztucznej inteligencji, bo tylko ona może rozwiązać ten konkretny problem.
 
-Kluczowe pytanie w przypadku każdego wystąpienia brzmi - po co wychodzisz na scenę? Czy jesteś pewien że tego o czym mówisz nie można byłoby po prostu przeczytać na Wikipedii? Czy te 30 minut może coś zmienić w tym jak pracująć bądź żyją słuchacze twojej prezentacji? Przed przejściem do kolejnych etapów musisz mieć przed sobą tezę którą chcesz obronić.
+Kluczowe pytanie w przypadku każdego wystąpienia brzmi - po co wychodzisz na scenę? Czy jesteś pewien że tego o czym mówisz nie można byłoby po prostu przeczytać na Wikipedii? Czy te 30 minut może coś zmienić w tym jak pracują bądź żyją słuchacze twojej prezentacji? Czy cel prezentacji możesz wyrazić jednym zdaniem?
 
-Znalazłeś? Czas na szkice wystąpienia.
+Przed przejściem do kolejnych etapów musisz mieć przed sobą tezę którą chcesz obronić. Znalazłeś? Czas na szkice wystąpienia.
 
 ## Jak naszkicować wystąpienie publiczne
 
