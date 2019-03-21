@@ -85,9 +85,11 @@ I tak dalej, i tak dalej. Specyfikacja pojawia się w połowie prezentacji, a wc
 
 A przecież mógł opowiedzieć o zasięgu i autopilocie…
 
----
+## No i gdzie te slajdy?
 
-Tym sposobem przeszliśmy przez trzy podstawowe etapy przygotowania się do wystąpienia publicznego - określenie tezy, zebranie materiałów oraz stworzenie planu prezentacji. Bez tego nie ma mowy o slajdach czy jakiejkolwiek wizualizacji tego o czym chcemy mówić. W tym kontekście prezentacje nie różnią się od innych projektów, np. programistycznych - albo poświęcimy odpowiednio dużo czasu na planowanie i “architekturę” przed wykonaniem pracy “właściwej”, albo nasz wysiłek pójdzie na marne.
+Powoli, powoli! Bez planu nie ma sensu przechodzić dalej. Prezentacje nie różnią się w tym kontekście od innych projektów, np. programistycznych - albo poświęcimy odpowiednio dużo czasu na planowanie i “architekturę” przed wykonaniem pracy “właściwej”, albo nasz wysiłek pójdzie na marne.
+
+Przeszliśmy przez trzy podstawowe etapy przygotowania się do wystąpienia publicznego - określenie tezy, zebranie materiałów oraz stworzenie planu prezentacji. Chociaż każdej z tych części można byłoby przeznaczyć osobny artykuł, to na początek wystarczy zaznaczenie właściwego podejścia. Bez tego nie ma mowy o slajdach czy jakiejkolwiek wizualizacji tego o czym chcemy mówić.
 
 Oczywiście nie zatrzymujemy się w tym miejscu. Nasze wystąpienie wciąż jeszcze nie wyszło poza fazę planowania, więc czas przesunąć się do fazy realizacji. A przynajmniej do pierwszej iteracji, bo na każdym etapie musimy być też przygotowani na niespodziewany pomysł czy też przypyw inspiracji który wywróci wszystko do góry nogami.
 
