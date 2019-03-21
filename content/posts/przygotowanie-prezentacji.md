@@ -49,7 +49,7 @@ Przed przejściem do kolejnych etapów musisz mieć przed sobą tezę którą ch
 
 Szkicowanie wystąpienia publicznego przypomina pracę rysownika lub też malarza. Kiedy mamy już w głowie tezę której chcemy bronić w trakcie wystąpienia powinniśmy się teraz pozbyć wszelkiego rodzaju ograniczników formy czy treści i po prostu… zacząć zbierać materiały związane z tematem. 
 
-Jak wygląda to u mnie? Zazwyczaj zakładam po prostu nowy notatnik (np. w Evernote) związany z konkretną prezentacją i przez kilka tygodni poprzedzających samo wystąpienie wrzucam tam dowolne materiały związane z tematem. Mam w głowie książkę którą o którą chciałbym się oprzeć? Wrzucam do notatnika. Widziałem tweeta znanego eksperta od poruszanej przeze mnie kwestii? Wrzucam do notatnika. Mam w głowie wstępny schemat na otwarcie prezentacji? Wrzucam do notatnika. Znalazłem na YouTube inspirującą prezentację na której chciałbym się oprzeć? Wrzucam do notatnika. Przeczytałem cytat którym będę się chciał podzielić aby uwiarygodnić to co mówię? Wrzucam do notatnika.
+Jak wygląda to u mnie? Zazwyczaj zakładam po prostu nowy notatnik (np. w Evernote) związany z konkretną prezentacją i przez kilka tygodni poprzedzających samo wystąpienie wrzucam tam dowolne materiały związane z tematem. Mam w głowie książkę którą o którą chciałbym się oprzeć? Wrzucam do notatnika. Widziałem tweeta znanego eksperta od poruszanej przeze mnie kwestii? Wrzucam do notatnika. Mam w głowie wstępny schemat na otwarcie prezentacji? Wrzucam do notatnika. Znalazłem na YouTube inspirującą prezentację? Wrzucam do notatnika. Przeczytałem cytat którym będę się chciał podzielić aby uwiarygodnić to co mówię? Wrzucam do notatnika.
 
 ![brainstorm](/images/how-to-talks/brainstorm.png)
 
