@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slajdy on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</title>
+    <link>https://smyrdek.com/tags/slajdy/</link>
+    <description>Recent content in Slajdy on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Fri, 29 Mar 2019 17:46:14 +0100</lastBuildDate>
+    
+	<atom:link href="https://smyrdek.com/tags/slajdy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jak przygotować się do prezentacji - część 2.</title>
+      <link>https://smyrdek.com/posts/jak-robic-dobre-slajdy-prezentacje/</link>
+      <pubDate>Fri, 29 Mar 2019 17:46:14 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/posts/jak-robic-dobre-slajdy-prezentacje/</guid>
+      <description>W poprzednim wpisie napisałem co nieco o przygotowaniach do prezentacji. Chciałem podkreślić jak ważne w kontekście całego wystąpienia jest odpowiednie przygotowanie się od strony merytorycznej oraz jak ważne jest ustrukturyzowanie tego o czym chcesz mówić. W dzisiejszym odcinku przechodzę do tego z czym dla wielu z nas kojarzą się prezentacje - a więc do warstwy wizualnej i slajdów.
+Dobry slajd, czyli jaki? Trudno oceniać slajdy pod kątem indywidualnych gustów każdego z nas ale istnieje jedna porada która skutecznie podnosi jakość tego co tworzymy.</description>
+    </item>
+    
+  </channel>
+</rss>
