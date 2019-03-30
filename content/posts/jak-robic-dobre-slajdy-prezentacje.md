@@ -31,6 +31,8 @@ Za dobrą inspirację mogą służyć wszelkiego typu kampanie reklamowe czy te�
 
 ![pizza](/images/how-to-talks/pizza.png)
 
+<p style="text-align: center; font-size: 10px;"><a href="https://campaignbrief.com/pizza-hut-launches-perfume-pri/">Źródło</a></p>
+
 ## Zły slajd, czyli jaki?
 
 Nie ma jednej słusznej odpowiedzi na to co robić, aby slajdy przyciągały uwagę odbiorców - to miks wypracowanego stylu, doświadczenia oraz eksperymentów które wprowadzasz aby obserwować reakcję publiczności. Jest za to kilka grzechów których popełnienie może poskutkować niegatywnym odbiorem całego wystąpienia. Jakie to grzechy?
