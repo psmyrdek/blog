@@ -2,7 +2,7 @@
 draft: false
 
 title: "Jak przygotować się do prezentacji - część 2."
-description: ""
+description: "Trudno oceniać slajdy pod kątem indywidualnych gustów każdego z nas ale istnieje jedna porada która skutecznie podnosi jakość tego co tworzymy."
 tags: 
 - slajdy
 - prezentacje
@@ -12,12 +12,12 @@ tags:
 date: 2019-03-29T17:46:14+01:00
 
 images:
-- images/slides.png
+- images/how-to-talks/slides.gif
 ---
 
-![slides](/images/slides.png)
+![slides](/images/how-to-talks/slides.gif)
 
-W ostatnim odcinku napisałem co nieco o przygotowaniach do prezentacji. Chciałem podkreślić jak ważne w kontekście całego wystąpienia jest odpowiednie przygotowanie się od strony merytorycznej oraz jak ważne jest ustrukturyzowanie tego o czym chcesz mówić. W dzisiejszym odcinku przechodzę do tego z czym dla wielu z nas kojarzą się prezentacje - a więc do warstwy wizualnej i slajdów.
+W [poprzednim wpisie](https://smyrdek.com/posts/przygotowanie-prezentacji/) napisałem co nieco o przygotowaniach do prezentacji. Chciałem podkreślić jak ważne w kontekście całego wystąpienia jest odpowiednie przygotowanie się od strony merytorycznej oraz jak ważne jest ustrukturyzowanie tego o czym chcesz mówić. W dzisiejszym odcinku przechodzę do tego z czym dla wielu z nas kojarzą się prezentacje - a więc do warstwy wizualnej i slajdów.
 
 ## Dobry slajd, czyli jaki?
 
@@ -28,6 +28,8 @@ Taka perspektywa skutecznie utrudnia drobne niedoróbki. No bo wiecie - czasami 
 Porada związana z wieszaniem slajdów na ścianie przypomina o tym, że do każdego slajdu powinniśmy podejść jakbyśmy tworzyli plakat który zaraz zawiesimy np. na ścianie teatru czy kina. Musi zapadać w pamięć, ma zwracać uwagę, ale ma być również prosty do zrozumienia.
 
 Za dobrą inspirację mogą służyć wszelkiego typu kampanie reklamowe czy też plakaty filmowe i teatralne same w sobie. Autorzy tego typu prac zazwyczaj mierzą się z czymś w rodzaju slajdu - statycznym przedstawieniem konkretnej treści w interesujący sposób - a więc na pewno znajdziesz tam coś dzięki czemu twoja prezentacja wskoczy na kolejny poziom.
+
+![pizza](/images/how-to-talks/pizza.png)
 
 ## Zły slajd, czyli jaki?
 
@@ -70,7 +72,7 @@ W szerszej perspektywie warto pamiętać o tym, że wiele artkułów dotyczącyc
 
 ## Poprawki w czasie rzeczywistym
 
-Na większości konferencji prelegenci proszeni są o przybycie na miejsce kilkanaście minut przed właściwym wystąpieniem. Podpinasz sprzęt, sprawdzasz czy wszystko działa, testujesz czy przekazywany do projektora sygnał nie ma utrudniających ci następne minuty zakłóceń. Wszystko gra? No to lecimy…
+Na większości konferencji prelegenci proszeni są o przybycie na miejsce kilkanaście minut przed właściwym wystąpieniem. Podpinasz sprzęt, sprawdzasz czy wszystko działa, bierzesz głęboki oddech. Wszystko gra? No to lecimy…
 
 Postępując w taki sposób odbierasz sobie ogromną szansę na podniesienie jakości twojej prezentacji o kilka brakujących procent związanych z konkretnym miejscem i czasem wystąpienia.
 
@@ -86,3 +88,15 @@ Po prostu obejrzeć wcześniejsze prezentacje. Na przykład po to aby:
 I tak dalej...
 
 Od momentu startu danego wydarzenia (np. konferencji) do momentu kiedy sami występujemy warto zachować czujność i obserwować to co dzieje się na scenie. Poprawki wprowadzane w ostatniej chwili są dość ryzykowne, ale mi osobiście wielokrotnie pomogły w przekazaniu przygotowanej treści w bardziej dostępny sposób.
+
+## ...a to tylko dodatek
+
+Slajdy w prezentacji odgrywają dość nietypową rolę. Tych dobrych, pozostających w tle i tylko delikatnie wzmacniających treść być może nie zauważymy. W końcu liczy się treść którą przekazuje prelegent. Z kolei te złe, wychodzące na pierwszy plan, drażniące oczy i skupiające na sobie uwagę mogą jedynie zepsuć odbiór całego wystąpienia. Zdecydowanie łatwiej narazić się na negatywny odbiór w przypadku przekombinowania, niż dodać sobie punktów za efekty wizualne w przypadku przeciętnej treści. Zazwyczaj to tak nie działa - publiczność chce merytoryki.
+
+Tych, którzy martwią się o swoje umiejętności przygotowania dobrych slajdów mogę zapewnić, że bezpieczne podejście pt. “po pierwsze nie zepsuć” zazwyczaj wystarczy do tego żeby na pierwszym planie pozostała treść. Warto trzymać się podstawowych reguł związanych z tworzeniem czegoś co ma być zaraz zaprezentowane - zadbać o odpowiednią dostępność, kolorystykę oraz rozmiar tekstu - to naprawdę wystarczy.
+
+Dla tych, którzy szukają inspiracji polecam z kolei prezentacje największych firm z obszarów nowych technologii, informatyki oraz rozrywki. Przy odpowiednim budżecie na tego typu wydarzeniach na scenie dzieje się naprawdę dużo, a odpowiednio uważni słuchacze zawsze wyciągną z tego typu prezentacji coś dla siebie. 
+
+Mam nadzieję że dziejszy post okazał się dla was użyteczny, a dzięki niemu wasze slajdy staną się jeszcze lepsze niż do tej pory. Jeśli tylko zapomnicie na chwilę o szablonach i zaczniecie pracować nad indywidualnym stylem prezentowania tego co chcecie powiedzieć, to w wasze prezentacje wejdzie nowe życie. A skoro pogadaliśmy już o slajdach, to może czas na samo wystąpienie? 
+
+To następnego!
