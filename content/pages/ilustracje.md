@@ -21,6 +21,14 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
+## [Nie zerwać łańcucha](/posts/nie-zerwac-lancucha/)
+
+![calendar](/images/calendar.png)
+
+## [Jak przygotować się do prezentacji - część 2.](/posts/jak-robic-dobre-slajdy-prezentacje/)
+
+![slides](/images/how-to-talks/slides.gif)
+
 ## [Jak przygotować się do prezentacji - część 1.](/posts/przygotowanie-prezentacji/)
 
 ![notes](/images/how-to-talks/notes.png)
