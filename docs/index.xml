@@ -6,10 +6,20 @@
     <description>Recent content on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
-    <lastBuildDate>Fri, 29 Mar 2019 17:46:14 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 08:48:10 +0200</lastBuildDate>
     
 	<atom:link href="https://smyrdek.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nie zerwać łańcucha</title>
+      <link>https://smyrdek.com/posts/nie-zerwac-lancucha/</link>
+      <pubDate>Sat, 06 Apr 2019 08:48:10 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/nie-zerwac-lancucha/</guid>
+      <description>Jeden z pierwszych postów na tym blogu dotyczył postanowień noworocznych. W poście którego znajdziecie tutaj pisałem o tym, że w przypadku wyzwań które chcemy regularnie realizować kluczową sprawą jest założenie, że w pewnym momencie przyjdzie kryzys. Dzięki temu łatwiej zastosować plan awaryjny i nie zrywać łańcucha.
+Mnie również taki mały kryzys dopadł i na dzisiaj jestem blisko przerwania tego, co udawało mi się do tej pory regularnie realizować - a jest to pisanie nowego posta na bloga każdego tygodnia.</description>
+    </item>
     
     <item>
       <title>Jak przygotować się do prezentacji - część 2.</title>
