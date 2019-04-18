@@ -96,3 +96,11 @@ Przeszliśmy przez trzy podstawowe etapy przygotowania się do wystąpienia publ
 Oczywiście nie zatrzymujemy się w tym miejscu. Nasze wystąpienie wciąż jeszcze nie wyszło poza fazę planowania, więc czas przesunąć się do fazy realizacji. A przynajmniej do pierwszej iteracji, bo na każdym etapie musimy być też przygotowani na niespodziewany pomysł czy też przypyw inspiracji który wywróci wszystko do góry nogami.
 
 No ale na razie bez rewolucji - powoli, do przodu. Do slajdów. Do następnego ;)
+
+---
+
+Zapraszam do zapoznania się z pozostałymi wpisami z cyklu "Jak przygotować się do prezentacji":
+
+* Część 1. - przygotowanie i plan prezentacji [tutaj](/posts/przygotowanie-prezentacji/)
+* Część 2. - slajdy i warstwa wizualna [tutaj](/posts/jak-robic-dobre-slajdy-prezentacje/)
+* Część 3. - stres, forma i minuty na scenie [tutaj](/posts/jak-radzic-sobie-ze-stresem-prezentacje/)

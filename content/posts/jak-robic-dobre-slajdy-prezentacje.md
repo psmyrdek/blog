@@ -101,4 +101,12 @@ Dla tych, którzy szukają inspiracji polecam z kolei prezentacje największych 
 
 Mam nadzieję że dziejszy post okazał się dla was użyteczny, a dzięki niemu wasze slajdy staną się jeszcze lepsze niż do tej pory. Jeśli tylko zapomnicie na chwilę o szablonach i zaczniecie pracować nad indywidualnym stylem prezentowania tego co chcecie powiedzieć, to w wasze prezentacje wejdzie nowe życie. A skoro pogadaliśmy już o slajdach, to może czas na samo wystąpienie? 
 
-To następnego!
+Do następnego!
+
+---
+
+Zapraszam do zapoznania się z pozostałymi wpisami z cyklu "Jak przygotować się do prezentacji":
+
+* Część 1. - przygotowanie i plan prezentacji [tutaj](/posts/przygotowanie-prezentacji/)
+* Część 2. - slajdy i warstwa wizualna [tutaj](/posts/jak-robic-dobre-slajdy-prezentacje/)
+* Część 3. - stres, forma i minuty na scenie [tutaj](/posts/jak-radzic-sobie-ze-stresem-prezentacje/)
