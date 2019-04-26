@@ -582,3 +582,22 @@ pre {
   padding: 5px 10px;
   border-radius: 4px;
 }
+
+/* Counter */
+
+.week-counter {
+  margin-top: 10px;
+}
+
+.week-counter ul {
+ margin: 0;
+ padding: 0;
+ list-style-type: none;
+}
+
+.week-counter li {
+  display: inline-block;
+  background: red;
+  width: 25px;
+  text-align: center;
+}
