@@ -21,6 +21,10 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
+## [Odpowiednie tempo rozwoju](/posts/odpowiednie-tempo-rozwoju/)
+
+![scale](/images/scale.jpg)
+
 ## [Jak przygotować się do prezentacji - część 3.](/posts/jak-radzic-sobie-ze-stresem-prezentacje/)
 
 ![calendar](/images/how-to-talks/speaking.jpg)

@@ -1,0 +1,8 @@
+<div class="week-counter">
+    <p>Wyzwanie na 2019r. - co tydzień nowy post!</p>
+    <ul>
+        {{ range $i, $sequence :=  (seq 52) }}
+            <li>{{ $sequence }}</li>
+        {{ end }}
+    </ul>
+</div>
