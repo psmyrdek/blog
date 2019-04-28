@@ -719,3 +719,26 @@ pre {
   width: 25px;
   text-align: center;
 }
+
+.profile-pic {
+  margin: 0 auto;
+  display: block;
+  border-radius: 10px;
+}
+
+.social-links {
+  margin: 10px 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.social-links li {
+  margin: 0 10px;
+}
+
+.social-links li img {
+  width: 32px;
+}

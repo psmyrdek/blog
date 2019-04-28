@@ -1,5 +1,12 @@
 </main>
 <footer class="footer">
+  
+  <ul class="social-links">
+    <li><a href="https://twitter.com/psmyrdek"><img src="/images/shared/social/twitter-64.png" alt="Twitter logo" /></a></li>
+    <li><a href="https://github.com/psmyrdek/"><img src="/images/shared/social/github-64.png" alt="GitHub logo" /></a></li>
+    <li><a href="https://www.linkedin.com/in/psmyrdek/"><img src="/images/shared/social/linkedin-64.png" alt="LinkedIn logo" /></a></li>
+  </ul>
+
   <span>&copy; {{ now.Year }} {{ .Site.Title }}</span>
   <!-- {{ partial "week-counter.html" . }} -->
 </footer>
@@ -8,16 +15,17 @@
 <script src="{{.Site.BaseURL}}js/highlight.min.js" data-no-instant></script>
 <script data-no-instant>
   addMenuListener();
-  InstantClick.on('change', function() {
+  InstantClick.on('change', function () {
     addMenuListener();
   });
   function addMenuListener() {
     var $toggle = document.querySelector('.menu-toggle');
     var $body = document.querySelector('body');
-    $toggle.addEventListener('click', function() {
+    $toggle.addEventListener('click', function () {
       $body.classList.toggle('noscroll');
     }, false);
   }
 </script>
 </body>
+
 </html>
