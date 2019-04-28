@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pl-pl">
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -48,7 +49,7 @@
   
   <link rel="alternate" type="application/atom+xml" href="https://smyrdek.com/index.xml" title="Przemek Smyrdek - O rozwoju, nie tylko w programowaniu">
   
-    
+  
 <script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
@@ -73,37 +74,44 @@ if (!doNotTrack) {
 <meta property="og:updated_time" content="2019-01-21T20:08:56&#43;01:00"/>
 
 </head>
+
 <body class="list">
   <header class="header">
     <div class="blog-title">
       <h1 class="title"><a href="https://smyrdek.com/">przemek<span class="blog-address">smyrdek.com</span></a></h1>
     </div>
-    <button class="menu-toggle" type="button"></button>
-    <nav class="menu">
-      <ul>
-        
-        
-        <li class="">
-          <a href="https://smyrdek.com/o-mnie/">O mnie</a>
-        </li>
-        
-        <li class="">
-          <a href="https://smyrdek.com/ilustracje/">Ilustracje</a>
-        </li>
-        
-        <li class="">
-          <a href="https://smyrdek.com/kontakt/">Kontakt</a>
-        </li>
-        
-        <li class="">
-          <a href="https://www.learney.io/">Learney.io</a>
-        </li>
-        
-      </ul>
-    </nav>
+    <div class="menu-wide">
+      
+        <a href="https://smyrdek.com/o-mnie/">O mnie</a>
+      
+        <a href="https://smyrdek.com/ilustracje/">Ilustracje</a>
+      
+        <a href="https://smyrdek.com/kontakt/">Kontakt</a>
+      
+    </div>
+    <div class="menu-mobile">
+      <button class="menu-toggle" type="button"></button>
+      <nav class="menu">
+        <ul>
+          
+          
+          <li class="">
+            <a href="https://smyrdek.com/o-mnie/">O mnie</a>
+          </li>
+          
+          <li class="">
+            <a href="https://smyrdek.com/ilustracje/">Ilustracje</a>
+          </li>
+          
+          <li class="">
+            <a href="https://smyrdek.com/kontakt/">Kontakt</a>
+          </li>
+          
+        </ul>
+      </nav>
+    </div>
   </header>
   <main class="main">
-
 
 <header class="list-header">
   <span>Tagged in</span>
@@ -146,6 +154,13 @@ if (!doNotTrack) {
 
 </main>
 <footer class="footer">
+  
+  <ul class="social-links">
+    <li><a href="https://twitter.com/psmyrdek"><img src="https://smyrdek.com/images/shared/social/twitter-64.png" alt="Twitter logo" /></a></li>
+    <li><a href="https://github.com/psmyrdek/"><img src="https://smyrdek.com/images/shared/social/github-64.png" alt="GitHub logo" /></a></li>
+    <li><a href="https://www.linkedin.com/in/psmyrdek/"><img src="https://smyrdek.com/images/shared/social/linkedin-64.png" alt="LinkedIn logo" /></a></li>
+  </ul>
+
   <span>&copy; 2019 Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</span>
   
 </footer>
@@ -154,16 +169,17 @@ if (!doNotTrack) {
 <script src="https://smyrdek.com/js/highlight.min.js" data-no-instant></script>
 <script data-no-instant>
   addMenuListener();
-  InstantClick.on('change', function() {
+  InstantClick.on('change', function () {
     addMenuListener();
   });
   function addMenuListener() {
     var $toggle = document.querySelector('.menu-toggle');
     var $body = document.querySelector('body');
-    $toggle.addEventListener('click', function() {
+    $toggle.addEventListener('click', function () {
       $body.classList.toggle('noscroll');
     }, false);
   }
 </script>
 </body>
+
 </html>
