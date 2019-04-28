@@ -34,9 +34,3 @@ enableRobotsTXT = true
         name = "Kontakt"
         url = "/kontakt/"
         weight = -90
-
-    [[menu.main]]
-        identifier = "learney.io"
-        name = "Learney.io"
-        url = "https://www.learney.io/"
-        weight = -80
