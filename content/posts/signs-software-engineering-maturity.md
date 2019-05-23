@@ -111,8 +111,8 @@ Experienced developers have this extremely valuable skill of executing a cost-be
 So why the heck one would like to abandon the task which is enqueued in the backlog?
 
 There may be plenty of reasons for doing so:
-- your team is short on resources so naturally, some tasks will be abandoned or at least postponed (which, in reality, means the same) down the road
-- by the time you tackled the challenge, the world around you changed and now it doesn’t make any sense to pursue it (market changes, customer relationship changes, etc.)
-- although people around you agree upon the importance of solving the task you are thinking about, it may be solved in a completely different way (sometimes in a purely non-technical way)
+* your team is short on resources so naturally, some tasks will be abandoned or at least postponed (which, in reality, means the same) down the road
+* by the time you tackled the challenge, the world around you changed and now it doesn’t make any sense to pursue it (market changes, customer relationship changes, etc.)
+* although people around you agree upon the importance of solving the task you are thinking about, it may be solved in a completely different way (sometimes in a purely non-technical way)
 
 In general, I could say that it’s all about priorities. The more experience you gain, the more opportunities you see in front of you, so it’s pretty similar to the previous point. It’s not only about whether or not you spend your time consciously and accordingly to real needs, but also if you spend the time doing the [right things](https://www.goodreads.com/quotes/18976-management-is-doing-things-right-leadership-is-doing-the-right) at all.
