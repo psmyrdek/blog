@@ -92,7 +92,7 @@ Oto lista wszystkiego co przygotowałem do tej pory:
 
 ## [Jeden komentarz - dwa spojrzenia](/posts/jak-reagowac-na-krytyke/)
 
-![arrows](/images/arrows.png)
+![arrows](/images/arrows.jpg)
 
 ## [Co zamiast sushi](/posts/kultura-netflixa/)
 

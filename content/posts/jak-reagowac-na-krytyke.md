@@ -14,10 +14,10 @@ tags:
 date: 2018-12-26T11:01:13+01:00
 
 images:
-- images/arrows.png
+- images/arrows.jpg
 ---
 
-![arrows](/images/arrows.png)
+![arrows](/images/arrows.jpg)
 
 Kilka miesięcy temu, pod jednym z filmów na moim YouTube’owym kanale, pojawił się komentarz punktujący moje opracowanie tematu o którym właśnie wtedy mówiłem. W całej tej sytuacji najciekawsze nie było to, jak ja sam czułem się czytając krytykę na swój temat, ale to jak niektóre osoby z mojego otoczenia na ten sam komentarz reagowały.
 
