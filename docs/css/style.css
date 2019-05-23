@@ -213,10 +213,14 @@ pre, code {
 }
 
 .menu-wide a {
-  font-size: 16px;
-  margin-left: 20px;
+  font-size: 20px;
+  margin-left: 30px;
   font-weight: 600;
   color: #333333;
+}
+
+.menu-wide a:hover {
+  border-bottom: 3px solid #23d8ca;
 }
 
 /* Main

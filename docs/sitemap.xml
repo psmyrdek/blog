@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://smyrdek.com/posts/signs-software-engineering-maturity/</loc>
+    <lastmod>2019-05-23T19:15:11+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/posts/odpowiednie-tempo-rozwoju/</loc>
     <lastmod>2019-04-26T20:30:12+02:00</lastmod>
   </url>
@@ -124,6 +129,12 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/beginners/</loc>
+    <lastmod>2019-05-23T19:15:11+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/tags/bieganie/</loc>
     <lastmod>2019-04-26T20:30:12+02:00</lastmod>
     <priority>0</priority>
@@ -144,6 +155,12 @@
   <url>
     <loc>https://smyrdek.com/tags/burza-m%C3%B3zg%C3%B3w/</loc>
     <lastmod>2019-03-21T19:00:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/career/</loc>
+    <lastmod>2019-05-23T19:15:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -239,6 +256,12 @@
   <url>
     <loc>https://smyrdek.com/tags/kariera/</loc>
     <lastmod>2019-01-08T20:10:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/knowledge/</loc>
+    <lastmod>2019-05-23T19:15:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -388,7 +411,7 @@
   
   <url>
     <loc>https://smyrdek.com/posts/</loc>
-    <lastmod>2019-04-26T20:30:12+02:00</lastmod>
+    <lastmod>2019-05-23T19:15:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -442,7 +465,7 @@
   
   <url>
     <loc>https://smyrdek.com/</loc>
-    <lastmod>2019-04-26T20:30:12+02:00</lastmod>
+    <lastmod>2019-05-23T19:15:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -473,6 +496,12 @@
   <url>
     <loc>https://smyrdek.com/tags/saas/</loc>
     <lastmod>2019-02-01T22:08:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/self-awareness/</loc>
+    <lastmod>2019-05-23T19:15:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
-    <lastBuildDate>Fri, 26 Apr 2019 20:30:12 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 19:15:11 +0200</lastBuildDate>
     
 	<atom:link href="https://smyrdek.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The signs of maturity</title>
+      <link>https://smyrdek.com/posts/signs-software-engineering-maturity/</link>
+      <pubDate>Thu, 23 May 2019 19:15:11 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/signs-software-engineering-maturity/</guid>
+      <description>I&amp;rsquo;ve been working in software engineering for more than five years.
+Probably I should not call myself &amp;lsquo;junior developer&amp;rsquo; anymore, but using the word &amp;lsquo;senior&amp;rsquo; is also not that obvious in some cases. I would say that I&amp;rsquo;m right in the middle of a transition process.
+Due to the fact that I&amp;rsquo;m not that far from being labeled as &amp;lsquo;junior&amp;rsquo;, and also not super comfortable with a word &amp;lsquo;senior&amp;rsquo; (especially when sitting next to my colleagues), I decided to write a few words about the most meaningful changes in my own understanding the position of software developer.</description>
+    </item>
     
     <item>
       <title>Odpowiednie tempo rozwoju</title>
