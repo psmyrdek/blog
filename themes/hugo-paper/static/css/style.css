@@ -367,6 +367,11 @@ pre, code {
   background: #fff;
 }
 
+.post-entry--reverse {
+  color: white;
+  background: #444444;
+}
+
 .post-entry:active {
   transform: scale(.98);
   transition: transform .1s;
