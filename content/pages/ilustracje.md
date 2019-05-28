@@ -94,7 +94,7 @@ Oto lista wszystkiego co przygotowałem do tej pory:
 
 ![arrows](/images/arrows.jpg)
 
-## [Co zamiast sushi](/posts/kultura-netflixa/)
+## [Co zamiast sushi - o kulturze pracy](/posts/kultura-netflixa/)
 
 ![Netflix](/images/netflix.png)
 
@@ -102,6 +102,10 @@ Oto lista wszystkiego co przygotowałem do tej pory:
 
 ![Pipes](/images/pipes.png)
 
-## [Szukam](/posts/szukam/)
+## [O rozwoju w programowaniu i nie tylko](/posts/rozwoj-w-programowaniu/)
 
 ![Szkice](/images/sketches.png)
+
+## Video
+
+![vide](/images/video.jpg)
