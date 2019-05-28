@@ -1,0 +1,8 @@
+<header class="list-header">
+    {{ if eq .Data.Singular "tag" }}
+        <span>Wpisy w kategorii</span>
+        <h1 class="list-title">#{{ .Data.Term }}</h1>
+    {{ else }}
+        <h1 class="list-title">Wpisy</h1>
+    {{ end }}
+</header>

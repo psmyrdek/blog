@@ -8,6 +8,7 @@ tags:
 - self-awareness
 - beginners
 - knowledge
+- english
 
 date: 2019-05-23T19:15:11+02:00
 
