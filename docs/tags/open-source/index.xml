@@ -21,5 +21,15 @@
 Projekty poboczne Dla wszystkich pracujących na regularnym etacie projekty poboczne to często lek na rozmaite kryzysy związane ze znużeniem pracą czy też rozmaitymi ograniczeniami w danym środowisku.</description>
     </item>
     
+    <item>
+      <title>Jak zacząć przygodę z Open Source</title>
+      <link>https://smyrdek.com/posts/open-source-jak-zaczac/</link>
+      <pubDate>Sun, 26 Aug 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/open-source-jak-zaczac/</guid>
+      <description>Ruch Open Source od ponad 20 lat skupia wokół siebie osoby tworzące oprogramowanie z otwartym kodem źródłowym. Dla wielu programistów idea ta może się wydawać pretensjonalna, niepotrzebnie popularyzowana czy też abstrakcyjna.
+Ja sam kiedy usłyszałem na jednej z konferencji - &amp;ldquo;nie róbcie startupów, róbcie open source&amp;rdquo; - nie wyobrażałem sobie jak mogę uczestniczyć w czymś tak oderwanym od rzeczywistości. Prawda jest jednak całkiem inna - open source to ruch, z którego każdy z nas może się wiele nauczyć, a otwarte oprogramowanie ma wpływ na więcej kwestii związanych z naszymi projektami niż mogłoby się nam wydawać.</description>
+    </item>
+    
   </channel>
 </rss>

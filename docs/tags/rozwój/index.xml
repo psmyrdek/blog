@@ -23,12 +23,22 @@ Otóż, moja odpowiedź brzmi - nie zamierzam z nimi konkurować.</description>
     </item>
     
     <item>
-      <title>Szukam</title>
-      <link>https://smyrdek.com/posts/szukam/</link>
+      <title>O rozwoju w programowaniu i nie tylko</title>
+      <link>https://smyrdek.com/posts/rozwoj-w-programowaniu/</link>
       <pubDate>Sat, 01 Dec 2018 17:56:33 +0100</pubDate>
       
-      <guid>https://smyrdek.com/posts/szukam/</guid>
+      <guid>https://smyrdek.com/posts/rozwoj-w-programowaniu/</guid>
       <description>W okolicach gimnazjum i szkoły średniej bardzo mocno angażowałem się w społeczność tzw. Virtual Tuningu - wirtualnych modyfikacji samochodów przy pomocy narzędzi takich jak Photoshop czy Corel Draw. Grafika pochłonęła mnie tak bardzo, że nie wyobrażałem sobie innej ścieżki zawodowej niż ta, na której właśnie wtedy się znajdowałem. Minęło kilka lat, przeszło kilkanaście wyróżnień na forach, wspomnień moich prac w czasopismach, no i skończyło się - polska scena VT praktycznie upadła a większość z nas, jej uczestników, poszła w inne strony.</description>
+    </item>
+    
+    <item>
+      <title>Rozwój programisty - 10 porad na start</title>
+      <link>https://smyrdek.com/posts/rozwoj-programisty-10-porad/</link>
+      <pubDate>Sun, 15 Jul 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/rozwoj-programisty-10-porad/</guid>
+      <description>W ciągu ostatnich kilku dni uczestniczyłem w wielu rozmowach związanych z rozwojem programistów oraz tym, co liczy się szczególnie mocno na początku drogi związanej z programowaniem. Postanowiłem zebrać niektóre z moich uwagi i na ich podstawie stworzyć film, w którym przekażę 10 najważniejszych moim zdaniem porad związanych z rozwojem programistów.
+ PS. Odnośnie dzielenia się wiedzą, nie wymieniłem jednego, chyba najważniejszego punktu, a mianowicie &amp;ldquo;giving back to the community&amp;rdquo;. Oddajmy to, co dała nam społeczność na naszym początku drogi - warto dzielić się wiedzą.</description>
     </item>
     
   </channel>

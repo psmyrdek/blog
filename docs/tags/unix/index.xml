@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unix on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</title>
+    <link>https://smyrdek.com/tags/unix/</link>
+    <description>Recent content in Unix on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Thu, 26 Jul 2018 12:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://smyrdek.com/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Filozofia Unixa - ucz się od najlepszych</title>
+      <link>https://smyrdek.com/posts/filozofia-unixa-ucz-sie-od-najlepszych/</link>
+      <pubDate>Thu, 26 Jul 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/filozofia-unixa-ucz-sie-od-najlepszych/</guid>
+      <description>Jak to mówią - &amp;ldquo;kiedyś to było&amp;hellip;&amp;rdquo; ;) W dzisiejszym odcinku przyjrzymy się prawie 50-letnim praktykom związanym z programowaniem, które mogą nas nauczyć więcej niż niejedna publikacja z naszej branży która powstała w ostatnim roku. Unix Philosophy - praktyka, pragmatyzm oraz zakaz suchej teorii - o tym dzisiaj!
+ </description>
+    </item>
+    
+  </channel>
+</rss>

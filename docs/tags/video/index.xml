@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</title>
+    <link>https://smyrdek.com/tags/video/</link>
+    <description>Recent content in Video on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Sun, 26 Aug 2018 12:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://smyrdek.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jak zacząć przygodę z Open Source</title>
+      <link>https://smyrdek.com/posts/open-source-jak-zaczac/</link>
+      <pubDate>Sun, 26 Aug 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/open-source-jak-zaczac/</guid>
+      <description>Ruch Open Source od ponad 20 lat skupia wokół siebie osoby tworzące oprogramowanie z otwartym kodem źródłowym. Dla wielu programistów idea ta może się wydawać pretensjonalna, niepotrzebnie popularyzowana czy też abstrakcyjna.
+Ja sam kiedy usłyszałem na jednej z konferencji - &amp;ldquo;nie róbcie startupów, róbcie open source&amp;rdquo; - nie wyobrażałem sobie jak mogę uczestniczyć w czymś tak oderwanym od rzeczywistości. Prawda jest jednak całkiem inna - open source to ruch, z którego każdy z nas może się wiele nauczyć, a otwarte oprogramowanie ma wpływ na więcej kwestii związanych z naszymi projektami niż mogłoby się nam wydawać.</description>
+    </item>
+    
+    <item>
+      <title>Trzy książki na koniec lata</title>
+      <link>https://smyrdek.com/posts/trzy-ksiazki-na-koniec-lata/</link>
+      <pubDate>Tue, 14 Aug 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/trzy-ksiazki-na-koniec-lata/</guid>
+      <description>Do formalnego końca wakacji jeszcze niemal trzy tygodnie, dlatego dla każdego fana dobrej książki polecam trzy tytuły na które warto poświęcić ten czas. Pierwszy to pozycja obowiązkowa dla fanów pracy w pełnym skupieniu, druga to coś, dzięki czemu poprawimy naszą komunikację, a trzecia pomoże nam odnaleźć się w roli liderów. W żadnej z nich nie znajdziemy kodu, ale spokojnie - dawka wiedzy którą odnajdziemy w środku spokojnie te braki zaspokaja.</description>
+    </item>
+    
+    <item>
+      <title>Filozofia Unixa - ucz się od najlepszych</title>
+      <link>https://smyrdek.com/posts/filozofia-unixa-ucz-sie-od-najlepszych/</link>
+      <pubDate>Thu, 26 Jul 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/filozofia-unixa-ucz-sie-od-najlepszych/</guid>
+      <description>Jak to mówią - &amp;ldquo;kiedyś to było&amp;hellip;&amp;rdquo; ;) W dzisiejszym odcinku przyjrzymy się prawie 50-letnim praktykom związanym z programowaniem, które mogą nas nauczyć więcej niż niejedna publikacja z naszej branży która powstała w ostatnim roku. Unix Philosophy - praktyka, pragmatyzm oraz zakaz suchej teorii - o tym dzisiaj!
+ </description>
+    </item>
+    
+    <item>
+      <title>Rozwój programisty - 10 porad na start</title>
+      <link>https://smyrdek.com/posts/rozwoj-programisty-10-porad/</link>
+      <pubDate>Sun, 15 Jul 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/rozwoj-programisty-10-porad/</guid>
+      <description>W ciągu ostatnich kilku dni uczestniczyłem w wielu rozmowach związanych z rozwojem programistów oraz tym, co liczy się szczególnie mocno na początku drogi związanej z programowaniem. Postanowiłem zebrać niektóre z moich uwagi i na ich podstawie stworzyć film, w którym przekażę 10 najważniejszych moim zdaniem porad związanych z rozwojem programistów.
+ PS. Odnośnie dzielenia się wiedzą, nie wymieniłem jednego, chyba najważniejszego punktu, a mianowicie &amp;ldquo;giving back to the community&amp;rdquo;. Oddajmy to, co dała nam społeczność na naszym początku drogi - warto dzielić się wiedzą.</description>
+    </item>
+    
+    <item>
+      <title>Czym jest Parcel - popularne narzędzie dla front-end developera</title>
+      <link>https://smyrdek.com/posts/parcel-module-bundler-tutorial/</link>
+      <pubDate>Sun, 01 Jul 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/parcel-module-bundler-tutorial/</guid>
+      <description>Parcel to narzędzie które wnosi nową jakość na zdominowany przez Webpacka rynek module bundlerów. Czy dwa podstawowe założenia o których mówi dokumentacja - niesamowity developer experience oraz wydajność budowania aplikacji - sprawią, że w niedalekiej przyszłości Parcel będzie fundamentem każdego front-endowego projektu?
+ </description>
+    </item>
+    
+    <item>
+      <title>Czysty kod to nie zawsze priorytet</title>
+      <link>https://smyrdek.com/posts/czysty-kod-to-nie-priorytet/</link>
+      <pubDate>Sun, 17 Jun 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/czysty-kod-to-nie-priorytet/</guid>
+      <description>Umiejętność pisania czystego, przemyślanego, zrozumiałego dla innych kodu to jedna z podstawowych cech dobrego programisty. Warto jednak pamiętać o tym, że w niektórych sytuacjach trzymanie się najwyższych standardów kodowania nie powinno być dla nas priorytetem. Co więcej - za wiedzę o tym, kiedy odpuścić, możemy być uznawani za jeszcze lepszych programistów.
+ </description>
+    </item>
+    
+    <item>
+      <title>Jak zmieniał się front-end</title>
+      <link>https://smyrdek.com/posts/historia-front-endu/</link>
+      <pubDate>Sun, 10 Jun 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/historia-front-endu/</guid>
+      <description>Front-end to stosunkowo młoda dziedzina programowania, która w ostatnich latach niesamowicie przyśpieszyła. W dzisiejszym filmie o tym co wydarzyło się na front-endzie w ciągu ostatnich 10 lat oraz o tym, jak te zmiany wpływają na posiadane przez nas umiejętności.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

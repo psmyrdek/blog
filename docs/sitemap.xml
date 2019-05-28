@@ -118,8 +118,43 @@
   </url>
   
   <url>
-    <loc>https://smyrdek.com/posts/szukam/</loc>
+    <loc>https://smyrdek.com/posts/rozwoj-w-programowaniu/</loc>
     <lastmod>2018-12-01T17:56:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/posts/open-source-jak-zaczac/</loc>
+    <lastmod>2018-08-26T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/posts/trzy-ksiazki-na-koniec-lata/</loc>
+    <lastmod>2018-08-14T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/posts/filozofia-unixa-ucz-sie-od-najlepszych/</loc>
+    <lastmod>2018-07-26T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/posts/rozwoj-programisty-10-porad/</loc>
+    <lastmod>2018-07-15T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/posts/parcel-module-bundler-tutorial/</loc>
+    <lastmod>2018-07-01T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/posts/czysty-kod-to-nie-priorytet/</loc>
+    <lastmod>2018-06-17T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/posts/historia-front-endu/</loc>
+    <lastmod>2018-06-10T12:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -182,6 +217,12 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/cleancode/</loc>
+    <lastmod>2018-06-17T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/tags/cqrs/</loc>
     <lastmod>2019-03-04T18:25:15+01:00</lastmod>
     <priority>0</priority>
@@ -225,7 +266,7 @@
   
   <url>
     <loc>https://smyrdek.com/tags/english/</loc>
-    <lastmod>2019-03-04T18:25:15+01:00</lastmod>
+    <lastmod>2019-05-23T19:15:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -242,8 +283,20 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/front-end/</loc>
+    <lastmod>2018-06-10T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/tags/growth-hacking/</loc>
     <lastmod>2019-02-16T11:42:02+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/historia/</loc>
+    <lastmod>2018-06-10T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -338,6 +391,12 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/narz%C4%99dzia/</loc>
+    <lastmod>2018-07-01T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/tags/nawyki/</loc>
     <lastmod>2019-04-06T08:48:10+02:00</lastmod>
     <priority>0</priority>
@@ -380,8 +439,20 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/oss/</loc>
+    <lastmod>2018-08-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/pages/</loc>
     <lastmod>2019-01-08T21:29:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/parcel/</loc>
+    <lastmod>2018-07-01T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -406,6 +477,12 @@
   <url>
     <loc>https://smyrdek.com/tags/pomys%C5%82y/</loc>
     <lastmod>2019-03-04T18:37:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/porady/</loc>
+    <lastmod>2018-07-15T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -560,14 +637,38 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/unix/</loc>
+    <lastmod>2018-07-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/tags/usa/</loc>
     <lastmod>2019-03-10T21:26:17+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://smyrdek.com/tags/video/</loc>
+    <lastmod>2018-08-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/vlog/</loc>
+    <lastmod>2018-08-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/tags/warto%C5%9Bci/</loc>
     <lastmod>2019-01-08T20:10:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/webpack/</loc>
+    <lastmod>2018-07-01T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -580,6 +681,12 @@
   <url>
     <loc>https://smyrdek.com/tags/wyst%C4%85pienia/</loc>
     <lastmod>2019-04-18T18:58:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/youtube/</loc>
+    <lastmod>2018-08-26T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
