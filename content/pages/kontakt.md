@@ -3,12 +3,12 @@ draft: false
 comments: false
 type: "page"
 
-title: "Kontakt"
-description: "Kontakt"
+title: "Contact"
+description: "Let's talk!"
 
 date: 2019-01-08T21:29:47+01:00
 
-url: "/kontakt/"
+url: "/contact/"
 ---
 
 * Chcesz pogadać na osobności? 

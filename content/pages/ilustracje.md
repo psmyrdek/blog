@@ -3,12 +3,12 @@ draft: false
 comments: false
 type: "page"
 
-title: "Ilustracje"
-description: "Każdy post to dedykowana ilustracja. Dlaczego właśnie tak?"
+title: "Covers"
+description: "Stock photos are banned here, so I draw covers by myself. Why?"
 
 date: 2018-12-27T21:35:35+01:00
 
-url: "/ilustracje/"
+url: "/covers/"
 ---
 
 Kojarzycie magazyn “The New Yorker”? To jeden z najbardziej znanych amerykańskich tygodników, który wydawany jest od prawie stu lat. Ciekawostką na jego temat jest to, że ilustracje z okładek tego właśnie czasopisma to malutkie dzieła sztuki które doczekały się na swój temat dziesiątek [artykułów](https://lithub.com/20-iconic-new-yorker-covers/). Ilustrator, którego praca dostanie się na okładkę tego właśnie tytułu, może pochwalić się niemałym osiągnięciem, a samo pismo i jego okładki stanowią pewną część kultury Nowego Jorku.

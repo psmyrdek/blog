@@ -19,18 +19,18 @@ enableRobotsTXT = true
 
     [[menu.main]]
         identifier = "about"
-        name = "O mnie"
-        url = "/o-mnie/"
+        name = "About Me"
+        url = "/about-me/"
         weight = -110
 
     [[menu.main]]
-        identifier = "ilustracje"
-        name = "Ilustracje"
-        url = "/ilustracje/"
+        identifier = "covers"
+        name = "Covers"
+        url = "/covers/"
         weight = -100
 
     [[menu.main]]
-        identifier = "kontakt"
-        name = "Kontakt"
-        url = "/kontakt/"
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact/"
         weight = -90
