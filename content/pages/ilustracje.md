@@ -21,6 +21,10 @@ Wydaje mi się, że będzie to ciekawe urozmaicenie tego co tworzę i mały wyr�
 
 Oto lista wszystkiego co przygotowałem do tej pory:
 
+## [The Learning Funnel](/posts/the-learning-funnel/)
+
+![funnel](/images/funnel.jpg)
+
 ## [The signs of maturity](/posts/signs-software-engineering-maturity/)
 
 ![proximal](/images/proximal.jpg)
