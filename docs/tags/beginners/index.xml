@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beginners on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</title>
+    <title>Beginners on Develop Yourself - Helping developers grow and work better</title>
     <link>https://smyrdek.com/tags/beginners/</link>
-    <description>Recent content in Beginners on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</description>
+    <description>Recent content in Beginners on Develop Yourself - Helping developers grow and work better</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-pl</language>
+    <language>en-US</language>
     <lastBuildDate>Thu, 23 May 2019 19:15:11 +0200</lastBuildDate>
     
 	<atom:link href="https://smyrdek.com/tags/beginners/index.xml" rel="self" type="application/rss+xml" />

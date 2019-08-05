@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</title>
+    <title>Develop Yourself - Helping developers grow and work better</title>
     <link>https://smyrdek.com/</link>
-    <description>Recent content on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</description>
+    <description>Recent content on Develop Yourself - Helping developers grow and work better</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-pl</language>
+    <language>en-US</language>
     <lastBuildDate>Wed, 31 Jul 2019 19:51:27 +0200</lastBuildDate>
     
 	<atom:link href="https://smyrdek.com/index.xml" rel="self" type="application/rss+xml" />
@@ -175,7 +175,7 @@ Otóż, moja odpowiedź brzmi - nie zamierzam z nimi konkurować.</description>
       <pubDate>Tue, 08 Jan 2019 21:29:47 +0100</pubDate>
       
       <guid>https://smyrdek.com/contact/</guid>
-      <description>Chcesz pogadać na osobności? Zaproponować współpracę? Podsunąć mi wartościowe materiały którymi powinienem się podzielić z innymi?  Zapraszam do kontaktu: przemek.smyrdek@gmail.com</description>
+      <description>In case of questions or inquiries, just contact me at przemek.smyrdek@gmail.com</description>
     </item>
     
     <item>
@@ -204,7 +204,9 @@ Ciekawe jest to, że pomimo całej masy artykułów związanych z noworocznymi p
       <pubDate>Thu, 27 Dec 2018 21:35:35 +0100</pubDate>
       
       <guid>https://smyrdek.com/covers/</guid>
-      <description>Kojarzycie magazyn “The New Yorker”? To jeden z najbardziej znanych amerykańskich tygodników, który wydawany jest od prawie stu lat. Ciekawostką na jego temat jest to, że ilustracje z okładek tego właśnie czasopisma to malutkie dzieła sztuki które doczekały się na swój temat dziesiątek artykułów. Ilustrator, którego praca dostanie się na okładkę tego właśnie tytułu, może pochwalić się niemałym osiągnięciem, a samo pismo i jego okładki stanowią pewną część kultury Nowego Jorku.</description>
+      <description>Inspired by all those crazy covers of The New Yorker I decided to ditch the idea of reusing the same stock photos all over again and draw covers by myself.
+You know, just to help you change your mind about these boring blogs.
+The Learning Funnel The signs of maturity Odpowiednie tempo rozwoju Jak przygotować się do prezentacji - część 3. Nie zerwać łańcucha Jak przygotować się do prezentacji - część 2.</description>
     </item>
     
     <item>

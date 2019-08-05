@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Przyszłość on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</title>
+    <title>Przyszłość on Develop Yourself - Helping developers grow and work better</title>
     <link>https://smyrdek.com/tags/przysz%C5%82o%C5%9B%C4%87/</link>
-    <description>Recent content in Przyszłość on Przemek Smyrdek - O rozwoju, nie tylko w programowaniu</description>
+    <description>Recent content in Przyszłość on Develop Yourself - Helping developers grow and work better</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-pl</language>
+    <language>en-US</language>
     <lastBuildDate>Tue, 08 Jan 2019 20:10:12 +0100</lastBuildDate>
     
 	<atom:link href="https://smyrdek.com/tags/przysz%C5%82o%C5%9B%C4%87/index.xml" rel="self" type="application/rss+xml" />
