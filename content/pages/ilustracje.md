@@ -27,7 +27,7 @@ You know, just to help you change your mind about these boring blogs.
 
 ![scale](/images/scale.jpg)
 
-## [Intro to public speaking - część 3.](/posts/jak-radzic-sobie-ze-stresem-prezentacje/)
+## [Intro to public speaking - part 3](/posts/jak-radzic-sobie-ze-stresem-prezentacje/)
 
 ![calendar](/images/how-to-talks/speaking.jpg)
 
@@ -35,11 +35,11 @@ You know, just to help you change your mind about these boring blogs.
 
 ![calendar](/images/calendar.png)
 
-## [Intro to public speaking - część 2.](/posts/jak-robic-dobre-slajdy-prezentacje/)
+## [Intro to public speaking - part 2](/posts/jak-robic-dobre-slajdy-prezentacje/)
 
 ![slides](/images/how-to-talks/slides.gif)
 
-## [Intro to public speaking - część 1.](/posts/przygotowanie-prezentacji/)
+## [Intro to public speaking - part 1](/posts/przygotowanie-prezentacji/)
 
 ![notes](/images/how-to-talks/notes.png)
 
