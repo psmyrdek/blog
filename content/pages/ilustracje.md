@@ -52,11 +52,11 @@ You know, just to help you change your mind about these boring blogs.
 
 ![steps](/images/steps.png)
 
-## [Boost your creativity?](/posts/jak-radzic-sobie-z-brakiem-kreatywnosci/)
+## [How to boost your creativity](/posts/jak-radzic-sobie-z-brakiem-kreatywnosci/)
 
 ![space](/images/space.png)
 
-## [Applying CQRS to Product Design - EN](/posts/applying-cqrs-to-product-design/)
+## [Applying CQRS to Product Design](/posts/applying-cqrs-to-product-design/)
 
 ![cqrs](/images/cqrs.png)
 
