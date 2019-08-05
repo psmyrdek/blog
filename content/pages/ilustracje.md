@@ -44,7 +44,7 @@ You know, just to help you change your mind about these boring blogs.
 ![notes](/images/how-to-talks/notes.png)
 
 
-## [There's more than books. 6 ways of growing as a developer.](/posts/co-zamiast-ksiazek/)
+## [There's more than books. 6 ways to grow as a developer.](/posts/co-zamiast-ksiazek/)
 
 ![books](/images/books.png)
 
