@@ -45,12 +45,12 @@
 
 <body class="{{if eq .Kind `page` }}single{{else}}list{{ if .IsHome }} home{{ end }}{{end}}">
   <header class="header">
-    <div class="blog-title">
-      <h1 class="title"><a href="{{.Site.BaseURL}}">przemek<span class="blog-address">smyrdek.com</span></a></h1>
-    </div>
+    <a href="{{.Site.BaseURL}}">
+      <img class="header-logo" src="{{.Site.BaseURL}}/images/branding/logo.png" alt="Develop Yourself | Przemek Smyrdek">
+    </a>
     <div class="menu-wide">
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}">{{ .Name }}</a>
+      <a href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}
     </div>
     <div class="menu-mobile">

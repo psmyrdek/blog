@@ -1,6 +1,6 @@
 baseURL = "https://smyrdek.com/"
-languageCode = "pl-pl"
-title = "Przemek Smyrdek - O rozwoju, nie tylko w programowaniu"
+languageCode = "en-US"
+title = "Develop Yourself - Helping developers grow and work better"
 theme = "hugo-paper"
 publishDir = "docs"
 googleAnalytics = "UA-130241188-1"
@@ -12,7 +12,7 @@ enableRobotsTXT = true
     post = "/:year/:month/:title/"
 
 [params]
-    description = "Blog o rozwoju z perspektywy programisty - nauka, własne doświadczenia, inspiracje"
+    description = "Develop Yourself - Helping developers grow and work better"
     author = "Przemek Smyrdek"
 
 [menu]
