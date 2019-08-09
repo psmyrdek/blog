@@ -97,6 +97,12 @@ pre, code {
   background: #f9f9f9;
 }
 
+@media (min-width: 768px) {
+  .list {
+    padding-top: 65px;
+  }
+}
+
 /* Header
 ============================================================= */
 
@@ -111,6 +117,16 @@ pre, code {
 
 .header {
   background: #333;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+@media (min-width: 768px) {
+  .header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999999;
+  }
 }
 
 .header-logo {
@@ -234,6 +250,15 @@ pre, code {
   margin-right: auto;
 }
 
+.first-entry>* {
+  max-width: 100%;
+  width: 1200px;
+}
+
+.first-entry img {
+  padding: 0 30px;
+}
+
 .list .main {
   padding-bottom: 30px;
 }
@@ -248,14 +273,25 @@ pre, code {
 }
 
 .single .main {
-  padding-top: 60px;
+  padding-top: 120px;
   padding-bottom: 30px;
+}
+
+@media (max-width: 767px) {
+  .single .main {
+    padding-top: 60px;
+  }
 }
 
 .post-view {
   width: 700px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.post-main-img {
+  margin: 0 auto;
+  display: block;
 }
 
 @media (max-width: 767px) {
@@ -290,12 +326,6 @@ pre, code {
   background-color: #23d8ca;
 }
 
-@media (max-width: 767px) {
-  .first-entry-separator {
-    padding: 0 30px;
-  }
-}
-
 /* List header
 ------------------------------ */
 
@@ -325,8 +355,7 @@ pre, code {
 .first-entry {
   position: relative;
   margin-bottom: 80px;
-  padding-top: 12vh;
-  padding-bottom: 12vh;
+  padding-top: 140px;
   background: #fff;
 }
 
@@ -360,12 +389,26 @@ pre, code {
 
 .post-entry {
   position: relative;
-  padding: 30px;
   background: #fff;
+}
+
+.post-body {
+  padding: 30px;
+}
+
+@media (max-width: 767px) {
+  .post-body {
+    padding: 30px 10px;
+  }
+}
+
+.first-entry .post-body {
+  padding: 30px;
 }
 
 .post-entry--reverse {
   color: white;
+  padding: 30px;
   background: #444444;
 }
 
