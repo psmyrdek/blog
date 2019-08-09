@@ -20,22 +20,22 @@
     {{ end }}
 
     <article class="post {{ .Scratch.Get `postClass` }}">
-      
-      <header class="post-header">
-        {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}
-          {{ range .Params.images }}
-            <img class="post-main-img" src="{{$.Site.BaseURL}}{{ . }}" alt="Ilustracja posta" />
-          {{ end }}
-        {{ end }}
-        <h2 class="post-title">{{ .Title }}</h2>
-      </header>
-      {{ safeHTML (.Scratch.Get `firstEntrySeparator`) }}
-      <p class="post-summary">{{ .Description }}</p>
-      <footer class="post-footer">
-        <p class="post-meta">{{ .Date.Format "02.01.2006" }}</p>
-      </footer>
-      <a class="post-link" href="{{ .Permalink }}"></a>
+      {{ range .Params.images }}
+        <img loading="lazy" class="post-main-img" src="{{$.Site.BaseURL}}{{ . }}" alt="Ilustracja posta" />
+      {{ end }}
+      <div class="post-body">
+        <header class="post-header">
+          <h2 class="post-title">{{ .Title }}</h2>
+        </header>
+        {{ safeHTML (.Scratch.Get `firstEntrySeparator`) }}
+        <p class="post-summary">{{ .Description }}</p>
+        <footer class="post-footer">
+          <p class="post-meta">{{ .Date.Format "02.01.2006" }}</p>
+        </footer>
+        <a class="post-link" href="{{ .Permalink }}"></a>
+      </div>
     </article>
+
   {{ end }}
 {{ end }}
 

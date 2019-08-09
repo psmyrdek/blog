@@ -18,6 +18,9 @@
     </ul>
     {{ end }}
   </footer>
+  <div style="margin-bottom: 20px;">
+  {{ partial "newsletter.html" . }}
+  </div>
   <!-- Comments system area start -->
   {{ if not (eq .Params.comments false) }}
   {{ if .Site.DisqusShortname }}
