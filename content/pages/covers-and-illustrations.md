@@ -3,12 +3,12 @@ draft: false
 comments: false
 contentType: "page"
 
-title: "Covers"
-description: "Stock photos are banned here, so I draw covers by myself. Why?"
+title: "Covers and Illustrations"
+description: "Stock photos are banned here."
 
 date: 2018-12-27T21:35:35+01:00
 
-url: "/covers/"
+url: "/covers-and-illustrations/"
 ---
 
 Inspired by all those [crazy covers](https://lithub.com/20-iconic-new-yorker-covers/) of The New Yorker I decided to ditch the idea of reusing the same stock photos all over again and draw covers by myself.

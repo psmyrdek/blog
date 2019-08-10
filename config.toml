@@ -24,13 +24,19 @@ enableRobotsTXT = true
         weight = -110
 
     [[menu.main]]
-        identifier = "covers"
-        name = "Covers"
-        url = "/covers/"
+        identifier = "public-speaking"
+        name = "Speaking"
+        url = "/public-speaking/"
         weight = -100
+
+    [[menu.main]]
+        identifier = "covers-and-illustrations"
+        name = "Drawing"
+        url = "/covers-and-illustrations/"
+        weight = -90
 
     [[menu.main]]
         identifier = "contact"
         name = "Contact"
         url = "/contact/"
-        weight = -90
+        weight = -80
