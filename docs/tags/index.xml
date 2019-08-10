@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>Engineering</title>
+      <link>https://smyrdek.com/tags/engineering/</link>
+      <pubDate>Fri, 12 Apr 2019 17:29:16 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>English</title>
       <link>https://smyrdek.com/tags/english/</link>
       <pubDate>Thu, 23 May 2019 19:15:11 +0200</pubDate>
@@ -75,9 +84,18 @@
     </item>
     
     <item>
+      <title>Front End</title>
+      <link>https://smyrdek.com/tags/front-end/</link>
+      <pubDate>Fri, 12 Apr 2019 17:29:16 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/front-end/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Growth</title>
       <link>https://smyrdek.com/tags/growth/</link>
-      <pubDate>Sat, 10 Aug 2019 11:27:56 +0200</pubDate>
+      <pubDate>Wed, 10 Apr 2019 11:27:56 +0200</pubDate>
       
       <guid>https://smyrdek.com/tags/growth/</guid>
       <description></description>
@@ -131,7 +149,7 @@
     <item>
       <title>Myths</title>
       <link>https://smyrdek.com/tags/myths/</link>
-      <pubDate>Sat, 10 Aug 2019 11:27:56 +0200</pubDate>
+      <pubDate>Wed, 10 Apr 2019 11:27:56 +0200</pubDate>
       
       <guid>https://smyrdek.com/tags/myths/</guid>
       <description></description>
@@ -149,7 +167,7 @@
     <item>
       <title>Priorities</title>
       <link>https://smyrdek.com/tags/priorities/</link>
-      <pubDate>Sat, 10 Aug 2019 11:27:56 +0200</pubDate>
+      <pubDate>Wed, 10 Apr 2019 11:27:56 +0200</pubDate>
       
       <guid>https://smyrdek.com/tags/priorities/</guid>
       <description></description>
@@ -176,7 +194,7 @@
     <item>
       <title>Software Engineering</title>
       <link>https://smyrdek.com/tags/software-engineering/</link>
-      <pubDate>Sat, 10 Aug 2019 11:27:56 +0200</pubDate>
+      <pubDate>Wed, 10 Apr 2019 11:27:56 +0200</pubDate>
       
       <guid>https://smyrdek.com/tags/software-engineering/</guid>
       <description></description>
@@ -192,11 +210,29 @@
     </item>
     
     <item>
+      <title>Stencil</title>
+      <link>https://smyrdek.com/tags/stencil/</link>
+      <pubDate>Fri, 12 Apr 2019 17:29:16 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/stencil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Teamwork</title>
       <link>https://smyrdek.com/tags/teamwork/</link>
-      <pubDate>Sat, 10 Aug 2019 11:27:56 +0200</pubDate>
+      <pubDate>Wed, 10 Apr 2019 11:27:56 +0200</pubDate>
       
       <guid>https://smyrdek.com/tags/teamwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Components</title>
+      <link>https://smyrdek.com/tags/web-components/</link>
+      <pubDate>Fri, 12 Apr 2019 17:29:16 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/web-components/</guid>
       <description></description>
     </item>
     
