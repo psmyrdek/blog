@@ -36,7 +36,13 @@ enableRobotsTXT = true
         weight = -90
 
     [[menu.main]]
+        identifier = "videos"
+        name = "Videos"
+        url = "https://www.youtube.com/channel/UCnrmvLXGA-EX-O4aBHAlipw"
+        weight = -80
+
+    [[menu.main]]
         identifier = "contact"
         name = "Contact"
         url = "/contact/"
-        weight = -80
+        weight = -70
