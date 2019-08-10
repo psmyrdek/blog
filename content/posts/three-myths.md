@@ -18,8 +18,6 @@ images:
 
 ![arrows](/images/arrows.jpg)
 
----
-
 Let me ask you a question - what are the most important traits of a successful software engineer? Experienced person would probably say "-It depends". That's true, all of this depends on our work and life experience. Back in time, when I was was on the beginning of my adventure with software development, I would say that successful people have to know everything, they are working in a "one man army" mode, and they can solve every single problem you're putting in front of them. Damn… I wasn't even close to the right answer.
 
 ## It's not about knowing all the things
