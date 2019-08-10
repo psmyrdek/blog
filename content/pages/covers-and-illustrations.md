@@ -17,7 +17,7 @@ The thing is, I don't want to create yet another 'blog'. There's plenty of skill
 
 For me, this place is all about creativity.
 
-Inspired by all those [crazy covers](https://lithub.com/20-iconic-new-yorker-covers/) of The New Yorker I decided to create a space where I'll be able to sharpen multiple skills at once, connecting software engineering with my own illustrations and drawings.
+Inspired by all those [crazy covers](https://lithub.com/20-iconic-new-yorker-covers/) of The New Yorker I decided to create a space where I'll be able to sharpen multiple skills at once, mixing writing with my own illustrations and drawings.
 
 You know, just to help you change your mind about these boring blogs.
 
