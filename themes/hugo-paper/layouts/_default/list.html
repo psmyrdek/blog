@@ -7,7 +7,7 @@
 {{ $paginator := .Paginate (where .Pages ".Params.type" "!=" "page") (index .Site.Params "paginate" | default 10) }}
 
 {{ if gt $paginator.TotalPages 0 }}
-  {{ range $index, $page := where $paginator.Pages "Type" "!=" "page" }}
+  {{ range $index, $page := where $paginator.Pages "Type" "!=" "pages" }}
     {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}
       {{ partial "hero.html" . }}
       {{ .Scratch.Set "postClass" "first-entry" }}
@@ -17,7 +17,7 @@
       {{ .Scratch.Set "postClass" "post-entry" }}
     {{ end }}
 
-    {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 4) }}
+    {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 2) }}
       {{ partial "newsletter.html" . }}
     {{ end }}
 
