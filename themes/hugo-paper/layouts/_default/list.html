@@ -11,7 +11,7 @@
     {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}
       {{ partial "hero.html" . }}
       {{ .Scratch.Set "postClass" "first-entry" }}
-      {{ .Scratch.Set "firstEntryHeader" "Just Landed 🚀" }}
+      {{ .Scratch.Set "firstEntryHeader" "<h2 class=\"first-entry-header\">Just Landed 🚀</h2>" }}
       {{ .Scratch.Set "firstEntrySeparator" "<div class=\"first-entry-separator\"><div class=\"first-entry-separator-content\"></div></div>" }}
     {{ else }}
       {{ .Scratch.Set "postClass" "post-entry" }}
@@ -22,7 +22,7 @@
     {{ end }}
 
     <article class="post {{ .Scratch.Get `postClass` }}">
-      <h2 class="first-entry-header">{{ safeHTML (.Scratch.Get `firstEntryHeader`) }}</h2>
+      {{ safeHTML (.Scratch.Get `firstEntryHeader`) }}</h2>
       {{ range .Params.images }}
         <img loading="lazy" class="post-main-img" src="{{$.Site.BaseURL}}{{ . }}" alt="Ilustracja posta" />
       {{ end }}

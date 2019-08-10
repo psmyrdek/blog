@@ -1,7 +1,7 @@
 ---
 draft: false
 contentType: post-en
-title: "What's the point of knowledge sharing?"
+title: "Five reasons to invest more time in Knowledge Sharing"
 description: "Examples of values that knowledge sharing brings to the table when it’s a part of your daily routine."
 tags: 
 - knowledge sharing
