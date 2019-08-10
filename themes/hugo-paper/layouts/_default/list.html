@@ -46,10 +46,10 @@
 <footer class="list-footer">
   <nav class="pagination">
     {{ if $paginator.HasPrev }}
-    <a class="pagination-prev" href="{{ $paginator.Prev.URL }}">← Wstecz</a>
+    <a class="pagination-prev" href="{{ $paginator.Prev.URL }}">← Back</a>
     {{ end }}
     {{ if $paginator.HasNext }}
-    <a class="pagination-next" href="{{ $paginator.Next.URL }}">Dalej →</a>
+    <a class="pagination-next" href="{{ $paginator.Next.URL }}">Next →</a>
     {{ end }}
   </nav>
 </footer>
