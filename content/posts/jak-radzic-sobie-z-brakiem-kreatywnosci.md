@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "Jak radzić sobie z brakiem kreatywności?"
 description: "Jak radzić sobie z wątpliwościami związanymi z brakiem kreatywności a także co robić, żeby pobudzać ją w codziennej pracy."
 tags: 

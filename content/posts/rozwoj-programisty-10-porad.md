@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "Rozwój programisty - 10 porad na start"
 description: "10 najważniejszych moim zdaniem porad związanych z rozwojem programistów."
 tags: 

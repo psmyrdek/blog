@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "Jak przygotować się do prezentacji - część 1."
 description: "Klasyczne prezentacje z jakimi spotykaliśmy się w szkole w większości przypadków nie mają nic wspólnego z pasjonującymi wystąpieniami publicznymi. Jak więc robić to dobrze?"
 tags: 

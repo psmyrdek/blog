@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "Podziel się wiedzą"
 description: "Dzielenie się wiedzą to jeden z najlepszych sposobów na uczestnictwo w postępie jaki odbywa się w branży programistycznej"
 tags: 

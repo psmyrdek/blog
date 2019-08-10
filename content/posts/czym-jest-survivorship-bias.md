@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "Kto przeżył i dlaczego cię to zmyliło"
 description: "Błąd przeżywalności to jeden z bardzo popularnych błędów u każdego kto myśli o własnym przedsięwzięciu."
 tags: 

@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "Podaj dalej"
 description: "Czym właściwie zajmują się programiści?"
 tags:

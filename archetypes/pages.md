@@ -1,7 +1,7 @@
 ---
 draft: false
 comments: false
-type: "page"
+contentType: "page"
 
 title: ""
 description: ""

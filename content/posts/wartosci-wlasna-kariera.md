@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "Co lubisz w życiu robić?"
 description: "Trudne wybory związane z własną karierą wymagają dobrego narzędzia do podejmowania decyzji. Ja jedno z takich narzędzi znalazłem."
 tags: 

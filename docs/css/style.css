@@ -233,7 +233,7 @@ pre, code {
 }
 
 .menu-wide a:hover {
-  border-bottom: 3px solid #23d8ca;
+  border-bottom: 3px solid #00f7cf;
 }
 
 /* Main
@@ -323,7 +323,7 @@ pre, code {
   width: 100%;
   height: 1rem;
   margin-bottom: 2rem;
-  background-color: #23d8ca;
+  background-color: #00f7cf;
 }
 
 /* List header
@@ -744,7 +744,7 @@ pre {
 }
 
 .newsletter-button {
-  background: #23d8ca;
+  background: #00f7cf;
   color: #333;
   padding: 5px 10px;
   border-radius: 4px;

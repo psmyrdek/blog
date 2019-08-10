@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "Jak przygotować się do prezentacji - część 3."
 description: "Czego na temat samego wystąpienia nauczyło mnie kilkanaście zrealizowanych do tej pory prezentacji?"
 tags: 

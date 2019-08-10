@@ -1,14 +1,14 @@
 ---
 draft: false
 comments: false
-type: "page"
+contentType: "page"
 
-title: "About Me"
+title: "Learn More"
 description: "Learn more about this blog and the author behind it."
 
 date: 2018-12-27T21:25:39+01:00
 
-url: "/about-me/"
+url: "/learn-more/"
 ---
 
 <img src="/images/shared/profile.jpg" alt="Zdjęcie profilowe" class="profile-pic"/>

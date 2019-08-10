@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "To jedno pytanie..."
 description: "Jak zamierzasz konkurować z Twitterem, Medium, HackerNews oraz grupami na Facebooku?"
 tags: 

@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "Wszystko na raz"
 description: "Własne przedsięwzięcia to źródła skrajnych emocji - wszystko na raz, w tym samym momencie. Przyzwyczajaj się."
 tags: 

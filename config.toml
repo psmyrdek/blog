@@ -18,9 +18,9 @@ enableRobotsTXT = true
 [menu]
 
     [[menu.main]]
-        identifier = "about"
-        name = "About Me"
-        url = "/about-me/"
+        identifier = "learn-more"
+        name = "Learn More"
+        url = "/learn-more/"
         weight = -110
 
     [[menu.main]]

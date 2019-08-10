@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: video-pl
 title: "Trzy książki na koniec lata"
 description: "Dawka wiedzy którą w nich znajdziecie jest zdecydowanie warta polecenia."
 tags: 

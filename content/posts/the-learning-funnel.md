@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-en
 title: "The Learning Funnel"
 description: "My personal model of learning things in the world of software development."
 tags: 

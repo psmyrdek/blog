@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "Jak przygotować się do prezentacji - część 2."
 description: "Trudno oceniać slajdy pod kątem indywidualnych gustów każdego z nas ale istnieje jedna porada która skutecznie podnosi jakość tego co tworzymy."
 tags: 

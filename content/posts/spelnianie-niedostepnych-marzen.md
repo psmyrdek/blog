@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "O spełnianiu absurdalnie niedostępnych celów"
 description: "Przed studiami nic nie wskazywało na to, że moje marzenie uda się spełnić tak szybko."
 tags: 

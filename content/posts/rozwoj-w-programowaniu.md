@@ -1,6 +1,6 @@
 ---
 draft: false
-
+contentType: post-pl
 title: "O rozwoju w programowaniu i nie tylko"
 description: "Przed wami pierwszy post na moim prywatnym blogu"
 tags:
