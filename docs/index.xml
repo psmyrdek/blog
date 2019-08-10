@@ -80,11 +80,21 @@ Today I’d like you to give you some example values that knowledge sharing brin
     </item>
     
     <item>
-      <title>Covers</title>
-      <link>https://smyrdek.com/covers/</link>
+      <title>Public Speaking</title>
+      <link>https://smyrdek.com/public-speaking/</link>
+      <pubDate>Tue, 08 Jan 2019 21:29:47 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/public-speaking/</guid>
+      <description>Performing in front of a broader audience was such a stressful experience for me in the past! Thankfully, I&amp;rsquo;ve managed to overcome some of my fears (or at least - accept them) and now public speaking is one of the most enjoyable forms of knowledge sharing I&amp;rsquo;m involved in. Below you can find slides from some of the talks I made in the past.
+Front-End Tooling - Tales, Legends and Myths 📅 04.</description>
+    </item>
+    
+    <item>
+      <title>Covers and Illustrations</title>
+      <link>https://smyrdek.com/covers-and-illustrations/</link>
       <pubDate>Thu, 27 Dec 2018 21:35:35 +0100</pubDate>
       
-      <guid>https://smyrdek.com/covers/</guid>
+      <guid>https://smyrdek.com/covers-and-illustrations/</guid>
       <description>Inspired by all those crazy covers of The New Yorker I decided to ditch the idea of reusing the same stock photos all over again and draw covers by myself.
 You know, just to help you change your mind about these boring blogs.</description>
     </item>
