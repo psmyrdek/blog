@@ -10,7 +10,7 @@ tags:
 - growth
 - priorities
 
-date: 2019-08-10T11:27:56+02:00
+date: 2019-04-10T11:27:56+02:00
 
 images:
 - images/arrows.jpg
