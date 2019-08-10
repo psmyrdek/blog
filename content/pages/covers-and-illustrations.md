@@ -11,7 +11,13 @@ date: 2018-12-27T21:35:35+01:00
 url: "/covers-and-illustrations/"
 ---
 
-Inspired by all those [crazy covers](https://lithub.com/20-iconic-new-yorker-covers/) of The New Yorker I decided to ditch the idea of reusing the same stock photos all over again and draw covers by myself.
+> No one is interested in yet another blog about software engineering!
+
+The thing is, I don't want to create yet another 'blog'. There's plenty of skillful, experienced developers sharing their perspective on technical subjects on a daily basis and that's great!
+
+For me, this place is all about creativity.
+
+Inspired by all those [crazy covers](https://lithub.com/20-iconic-new-yorker-covers/) of The New Yorker I decided to create a space where I'll be able to sharpen multiple skills at once, connecting software engineering with my own illustrations and drawings.
 
 You know, just to help you change your mind about these boring blogs.
 
