@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Develop Yourself - Helping developers grow and work better</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 31 Jul 2019 19:51:27 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2019 11:27:56 +0200</lastBuildDate>
     
 	<atom:link href="https://smyrdek.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Three Myths about Successful Software Engineers</title>
+      <link>https://smyrdek.com/posts/three-myths/</link>
+      <pubDate>Sat, 10 Aug 2019 11:27:56 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/three-myths/</guid>
+      <description>Let me ask you a question - what are the most important traits of successful software developer? Experienced person would probably say &amp;ldquo;-It depends&amp;rdquo;. That&amp;rsquo;s true, all of this depends on our work and life experience. Back in time, when I was was on the beginning of my adventure with software development, I would say that successful people have to know everything, they are working in a &amp;ldquo;one man army&amp;rdquo; mode, and they can solve every single problem you&amp;rsquo;re putting in front of them.</description>
+    </item>
     
     <item>
       <title>The Learning Funnel</title>
@@ -32,87 +41,6 @@ Due to the fact that I&amp;rsquo;m not that far from being labeled as &amp;lsquo
     </item>
     
     <item>
-      <title>Odpowiednie tempo rozwoju</title>
-      <link>https://smyrdek.com/posts/odpowiednie-tempo-rozwoju/</link>
-      <pubDate>Fri, 26 Apr 2019 20:30:12 +0200</pubDate>
-      
-      <guid>https://smyrdek.com/posts/odpowiednie-tempo-rozwoju/</guid>
-      <description>9 kwietnia. Wychodzę biegać po raz drugi w tym sezonie. Trochę późno, ale całkowicie zgodnie z moją ciepłolubnością.
-Mijają minuty.
-Przebiegam pierwszy kilometr - całkiem przyjemnie. Przebiegam drugi kilometr - hmmm… czuję się wyjątkowo dobrze, coś jest nie tak. Przebiegam trzeci kilometr na którym planowałem zakończyć trening - wciąż mam ochotę na więcej. Czwarty przychodzi ciężko, ale kończy się na piątym.
-Cały poprzedni sezon próbowałem się zbliżyć do pięciu kilometrów, ale udało mi się to tylko raz - późną jesienią.</description>
-    </item>
-    
-    <item>
-      <title>Jak przygotować się do prezentacji - część 3.</title>
-      <link>https://smyrdek.com/posts/jak-radzic-sobie-ze-stresem-prezentacje/</link>
-      <pubDate>Thu, 18 Apr 2019 18:58:56 +0200</pubDate>
-      
-      <guid>https://smyrdek.com/posts/jak-radzic-sobie-ze-stresem-prezentacje/</guid>
-      <description>Czas na trzecią część mini-serii dotyczącej wystąpień publicznych. W pierwszym wpisie rozpoczęliśmy od planu wystąpienia, w drugiem przeszliśmy przez slajdy i warstwę wizualną, a dzisiaj przechodzimy do D-Day, czyli momentu w którym wychodzisz na scenę aby - zgodnie z tym co ustaliliśmy wcześniej - sprzedać konkretną ideę twojej publiczności. Czego na temat samego wystąpienia nauczyło mnie kilkanaście zrealizowanych do tej pory prezentacji?
-Wciel się w rolę słuchacza Na początku polecam ci dość przewrotne ćwiczenie - aby poprawić jakość swoich wystąpień zastanów się najpierw, czego ty jako słuchacz oczekujesz od prelegentów.</description>
-    </item>
-    
-    <item>
-      <title>Nie zerwać łańcucha</title>
-      <link>https://smyrdek.com/posts/nie-zerwac-lancucha/</link>
-      <pubDate>Sat, 06 Apr 2019 08:48:10 +0200</pubDate>
-      
-      <guid>https://smyrdek.com/posts/nie-zerwac-lancucha/</guid>
-      <description>Jeden z pierwszych postów na tym blogu dotyczył postanowień noworocznych. W poście którego znajdziecie tutaj pisałem o tym, że w przypadku wyzwań które chcemy regularnie realizować kluczową sprawą jest założenie, że w pewnym momencie przyjdzie kryzys. Dzięki temu łatwiej zastosować plan awaryjny i nie zrywać łańcucha.
-Mnie również taki mały kryzys dopadł i na dzisiaj jestem blisko przerwania tego, co udawało mi się do tej pory regularnie realizować - a jest to pisanie nowego posta na bloga każdego tygodnia.</description>
-    </item>
-    
-    <item>
-      <title>Jak przygotować się do prezentacji - część 2.</title>
-      <link>https://smyrdek.com/posts/jak-robic-dobre-slajdy-prezentacje/</link>
-      <pubDate>Fri, 29 Mar 2019 17:46:14 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/jak-robic-dobre-slajdy-prezentacje/</guid>
-      <description>W poprzednim wpisie napisałem co nieco o przygotowaniach do prezentacji. Chciałem podkreślić jak ważne w kontekście całego wystąpienia jest odpowiednie przygotowanie się od strony merytorycznej oraz jak ważne jest ustrukturyzowanie tego o czym chcesz mówić. W dzisiejszym odcinku przechodzę do tego z czym dla wielu z nas kojarzą się prezentacje - a więc do warstwy wizualnej i slajdów.
-Dobry slajd, czyli jaki? Trudno oceniać slajdy pod kątem indywidualnych gustów każdego z nas ale istnieje jedna porada która skutecznie podnosi jakość tego co tworzymy.</description>
-    </item>
-    
-    <item>
-      <title>Jak przygotować się do prezentacji - część 1.</title>
-      <link>https://smyrdek.com/posts/przygotowanie-prezentacji/</link>
-      <pubDate>Thu, 21 Mar 2019 19:00:39 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/przygotowanie-prezentacji/</guid>
-      <description>Za kilka tygodni będę miał możliwość wystąpienia na konferencji programistycznej 4developers w Warszawie. Z powodu ograniczonej ilości czasu na posty o tematyce innej niż ta związana z prezentacją postanowiłem, że najbliższe tygodnie poświęcę na opisanie tego jak ja sam przygotowuję się do tego typu wystąpień. W trzech kolejnych postach przejdziemy więc przez trzy kolejne etapy zbliżające nas do właściwego wystąpienia i zaprezentowania danego tematu na żywo.
-Ale właściwie po co nam taka wiedza?</description>
-    </item>
-    
-    <item>
-      <title>Jeśli nie książki, to co? 6 sposobów na pozyskiwanie nowej wiedzy.</title>
-      <link>https://smyrdek.com/posts/co-zamiast-ksiazek/</link>
-      <pubDate>Fri, 15 Mar 2019 22:57:38 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/co-zamiast-ksiazek/</guid>
-      <description>Na studiach przekazywano nam, że rozwój programisty to dość prosta ścieżka - dużo czytaj i jakoś to będzie. To prawda, czytanie książek pisanych przez branżowe autorytety to jeden z najpewniejszych sposobów na podniesienie swoich umiejętności, ale co w momencie kiedy potrzebujemy nowego impulsu? Jakie aktywności pomogą nam w rozwoju kiedy wydaje nam się, że próbowaliśmy już prawie wszystkiego?
-Projekty poboczne Dla wszystkich pracujących na regularnym etacie projekty poboczne to często lek na rozmaite kryzysy związane ze znużeniem pracą czy też rozmaitymi ograniczeniami w danym środowisku.</description>
-    </item>
-    
-    <item>
-      <title>O spełnianiu absurdalnie niedostępnych celów</title>
-      <link>https://smyrdek.com/posts/spelnianie-niedostepnych-marzen/</link>
-      <pubDate>Sun, 10 Mar 2019 21:26:17 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/spelnianie-niedostepnych-marzen/</guid>
-      <description>Kilka lat temu, kiedy jeszcze nie chodziłem do pracy i utrzymywali mnie w całości rodzice, wymyśliłem sobie marzenie - do osiągnięcia 25 roku życia muszę jakimś sposobem odwiedzić USA. Nigdy nie leciałem samolotem, nie wiedziałem jak się załatwia wizę (albo, że coś takiego w ogóle istnieje), nie miałem pieniędzy nawet na wycieczki po Polsce, a zamarzyłem sobie dostać się do Stanów przed ukończeniem określonego wieku. Niektórym z was może się to wydawać dziwne i zaskakująco dostępne jak na marzenia czy cele, ale dla mnie, chłopaka z małej miejscowości, było to wtedy jak wejście na Mount Everest.</description>
-    </item>
-    
-    <item>
-      <title>Jak radzić sobie z brakiem kreatywności?</title>
-      <link>https://smyrdek.com/posts/jak-radzic-sobie-z-brakiem-kreatywnosci/</link>
-      <pubDate>Mon, 04 Mar 2019 18:37:01 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/jak-radzic-sobie-z-brakiem-kreatywnosci/</guid>
-      <description>Kilka lat temu, kiedy jeszcze nie zajmowałem się programowaniem, byłem naprawdę mocno wkręcony w grafikę komputerową. W tamtym okresie realizowałem rozmaite projekty które satysfakcjonowały klientów, jednak ciągle miałem w głowie w głowie obawy związane z moim “niedoborem kreatywności”.
-Spotykając się wielokrotnie z niesamowitymi projektami osób z tej samej branży zastanawiałem się co sprawia, że dana osoba wpadła na tak niesamowity pomysł, zastosowała nietypową technikę czy też pokazała, że wybrany efekt można osiągnąć w tak abstrakcyjny sposób.</description>
-    </item>
-    
-    <item>
       <title>Applying CQRS to Product Design</title>
       <link>https://smyrdek.com/posts/applying-cqrs-to-product-design/</link>
       <pubDate>Mon, 04 Mar 2019 18:25:15 +0100</pubDate>
@@ -123,178 +51,13 @@ There are multiple reasons why engineers apply this pattern to their projects, b
     </item>
     
     <item>
-      <title>Growth Hacking</title>
-      <link>https://smyrdek.com/posts/growth-hacking/</link>
-      <pubDate>Sat, 16 Feb 2019 11:42:02 +0100</pubDate>
+      <title>What&#39;s the point of knowledge sharing?</title>
+      <link>https://smyrdek.com/posts/knowledge-sharing-values/</link>
+      <pubDate>Thu, 24 Jan 2019 11:18:46 +0200</pubDate>
       
-      <guid>https://smyrdek.com/posts/growth-hacking/</guid>
-      <description>Angażując się w takie projekty jak blogi, kanały na YouTube czy ogólnie rzecz biorąc - wszystko co oparte jest o budowanie społeczności - w pewnym momencie może dopaść Cię kryzys związany z tym klasycznym pytaniem “po co to wszystko?”. Blog po miesiącu regularnie odwiedza 10 osób, na YouTube twoje filmy wyświetliło 50 osób, a na posty w mediach społecznościowych nikt nie reaguje. Dzisiaj chciałbym ci pokazać czym skutkuje przetrwanie tego właśnie momentu i skupienie się na konsekwentnej, regularnej pracy.</description>
-    </item>
-    
-    <item>
-      <title>Jak skutecznie realizować własne cele</title>
-      <link>https://smyrdek.com/posts/jak-skutecznie-realizowac-cele/</link>
-      <pubDate>Sun, 10 Feb 2019 09:10:59 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/jak-skutecznie-realizowac-cele/</guid>
-      <description>Ostatnio usłyszałem o sobie, że z racji dużej liczby inicjatyw w które się angażuje, jestem “człowiekiem 1000 projektów”. Co prawda miało to być komplementem, ale od razu odpowiedziałem, że równolegle pracuję jedynie nad dwoma lub maksymalnie trzema sprawami i tylko dlatego to działa. W dzisiejszym poście kilka słów o tym co zrobić, żeby nie zaplątać się w rozmaite inicjatywy w zbyt dużej liczbie i tym samym pozbawić się szansy osiągnięcia jakiegokolwiek celu.</description>
-    </item>
-    
-    <item>
-      <title>To jedno pytanie...</title>
-      <link>https://smyrdek.com/posts/czym-jest-learney-agregator-wiedzy/</link>
-      <pubDate>Fri, 01 Feb 2019 22:08:19 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/czym-jest-learney-agregator-wiedzy/</guid>
-      <description>Jak pewnie niektórzy z was wiedzą, niedawno wystartował projekt Learney, czyli narzędzie pozwalające programistom odnajdywać wiedzę dopasowaną do ich zainteresowań oraz doświadczenia. Dzisiaj chciałbym napisać kilka słów w odpowiedzi na jedno z najczęściej pojawiających się pytań dotyczących tego projektu.
-Pytanie to dotyczy położenia Learney względem uznanych w środowisku źródeł wiedzy i mniej więcej brzmi tak: “-Jak zamierzasz konkurować z Twitterem, Medium, HackerNews oraz grupami na Facebooku?”.
-Otóż, moja odpowiedź brzmi - nie zamierzam z nimi konkurować.</description>
-    </item>
-    
-    <item>
-      <title>Podziel się wiedzą</title>
-      <link>https://smyrdek.com/posts/co-daje-dzielenie-sie-wiedza/</link>
-      <pubDate>Mon, 21 Jan 2019 20:08:56 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/co-daje-dzielenie-sie-wiedza/</guid>
-      <description>Ilu programistów w naszym kraju chce regularnie dzielić się wiedzą? Trudno doszukiwać się konkretnych liczb, ale przyjmując, że w Polsce w tej branży pracuje ok. 250 tys. osób (dane na 2017 r.), a do jednego z najpopularniejszych branżowych konkursów - Daj Się Poznać - w tym samym roku zgłasza się ich około tysiąc, to wychodzi nam mniej więcej 0.4%. Oczywiście, w grupie tysiąca uczestników nie ma większości liderów branży albo osób które po prostu nie chciały wystartować ale nawet z takimi obliczeniami ostateczny wynik pozostanie mniej więcej w takich samych granicach, bo musimy jeszcze odjąć osoby które napisały jednego posta na blogu i przestały publikować.</description>
-    </item>
-    
-    <item>
-      <title>Kto przeżył i dlaczego cię to zmyliło</title>
-      <link>https://smyrdek.com/posts/czym-jest-survivorship-bias/</link>
-      <pubDate>Sat, 12 Jan 2019 18:55:39 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/czym-jest-survivorship-bias/</guid>
-      <description>Rozpoczynasz nowe przedsięwzięcie w losowej branży, powiedzmy - medycznej. Nie masz zbyt wielu argumentów stojących za potencjalnym sukcesem twojego projektu ale widzisz jak wielu przed tobą udało się wybić. Myślisz sobie - tych projektów jest tak wiele, że i na mój musi być miejsce. Próbujesz, projekt nie odnosi sukcesu, a ty zastanawiasz się co mogło pójść nie tak. Przecież wokół widać mnóstwo firm w tej samej branży którym się udało.</description>
-    </item>
-    
-    <item>
-      <title>Co lubisz w życiu robić?</title>
-      <link>https://smyrdek.com/posts/wartosci-wlasna-kariera/</link>
-      <pubDate>Tue, 08 Jan 2019 20:10:12 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/wartosci-wlasna-kariera/</guid>
-      <description>Trzy lata temu, kończąc studia informatyczne, miałem już pracę oraz kilka zrealizowanych projektów w swoim CV. Pomimo dość oczywistego zainteresowania programowaniem wciąż jednak miałem w głowie myśli związane z tym na co poświęcać swój czas albo w którą stronę podążać jeśli chodzi o mój rozwój.
-Nawet jeśli moja ścieżka zawodowa układała się stosunkowo dobrze, to po głowie chodziła mi jedna myśli - “skąd wiadomo, że wybrałem dobrze?”. Może grafika, którą zajmowałem się wcześniej, to moje prawdziwe powołanie?</description>
-    </item>
-    
-    <item>
-      <title>Wszystko na raz</title>
-      <link>https://smyrdek.com/posts/wszystko-na-raz/</link>
-      <pubDate>Fri, 04 Jan 2019 18:10:09 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/wszystko-na-raz/</guid>
-      <description>Nowy rok, nowy start, nowe postanowienia. W okresie od połowy grudnia do połowy stycznia internet pełen jest, kolejno - porad dotyczących postanowień noworocznych, następnie porad dotyczących realizacji konkretnych celów, a na końcu porad dotyczących radzenia sobie z niedotrzymanym postanowieniem. Wszyscy to znamy, bo z roku na rok wygląda to identycznie.
-Ciekawe jest to, że pomimo całej masy artykułów związanych z noworocznymi planami tak niewielu z nas postanawia zatrzymać całe to szaleństwo i zapytać samego siebie - skoro trzy lata temu nie wyszło, dwa lata temu nie wyszło, rok temu nie wyszło, to co mógłbym zrobić inaczej żeby w tym roku plany poukładały się po mojej myśli?</description>
-    </item>
-    
-    <item>
-      <title>Jeden komentarz - dwa spojrzenia</title>
-      <link>https://smyrdek.com/posts/jak-reagowac-na-krytyke/</link>
-      <pubDate>Wed, 26 Dec 2018 11:01:13 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/jak-reagowac-na-krytyke/</guid>
-      <description>Kilka miesięcy temu, pod jednym z filmów na moim YouTube’owym kanale, pojawił się komentarz punktujący moje opracowanie tematu o którym właśnie wtedy mówiłem. W całej tej sytuacji najciekawsze nie było to, jak ja sam czułem się czytając krytykę na swój temat, ale to jak niektóre osoby z mojego otoczenia na ten sam komentarz reagowały.
-Reakcja niektórych osób sprowadzała się bowiem do klasycznego “ale po tobie pojechał”. Zastanawiałem się z czego wynika taka różnica w podejściu do krytyki w porównaniu do mojego podejścia do tego komentarza i doszedłem do wniosku, że chodzi o jedną kluczową rzecz - posiadanie w swoim CV okresu w którym tworzyło się cokolwiek co lądowało na forum publicznym (blogi, artykuły, filmy, itd.</description>
-    </item>
-    
-    <item>
-      <title>Co zamiast sushi - o kulturze pracy</title>
-      <link>https://smyrdek.com/posts/kultura-netflixa/</link>
-      <pubDate>Fri, 07 Dec 2018 16:32:54 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/kultura-netflixa/</guid>
-      <description>W poście otwierającym tego bloga napisałem, że chciałbym się tutaj dzielić wszystkim tym, co pomaga mi w szeroko rozumianym rozwoju. Rozwój może dotyczyć zarówno nabywania twardych umiejętności, jak i np. zdobywania wiedzy i poszerzania swoich perspektyw. Dzisiaj kilka zdań podchodzących pod tę drugą kategorię.
-Kilka dni temu wpadła mi w ręce całkiem interesująca lektura o nazwie “Culture at Netflix”. Tytuł właściwie mówi wszystko - jest to opis wartości którymi kieruje się Netflix jako firma.</description>
-    </item>
-    
-    <item>
-      <title>Podaj dalej</title>
-      <link>https://smyrdek.com/posts/zajecie-programisty/</link>
-      <pubDate>Sun, 02 Dec 2018 19:23:33 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/zajecie-programisty/</guid>
-      <description>Czym właściwie zajmują się programiści? Kiedyś przeczytałem bardzo trafną odpowiedź na to pytanie. Programiści to po prostu osoby rozwiązujące pewne abstrakcyjne problemy (problem transportu na mieście, problem poszukiwania noclegu na wakacje, problem rezerwacji stolika w restauracji) w bardzo specyficzny, powtarzalny sposób.
-Sposób ten polega na tym, że taki abstrakcyjny problem rozbija się na mniejsze kawałki do tego momentu, aż konkretna część tego problemu którą mamy akurat przed sobą jest “rozwiązywalna” (można na niej wykonać jakąś akcję, ponieważ zniknęła wystarczająca liczba niewiadomych).</description>
-    </item>
-    
-    <item>
-      <title>O rozwoju w programowaniu i nie tylko</title>
-      <link>https://smyrdek.com/posts/rozwoj-w-programowaniu/</link>
-      <pubDate>Sat, 01 Dec 2018 17:56:33 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/rozwoj-w-programowaniu/</guid>
-      <description>W okolicach gimnazjum i szkoły średniej bardzo mocno angażowałem się w społeczność tzw. Virtual Tuningu - wirtualnych modyfikacji samochodów przy pomocy narzędzi takich jak Photoshop czy Corel Draw. Grafika pochłonęła mnie tak bardzo, że nie wyobrażałem sobie innej ścieżki zawodowej niż ta, na której właśnie wtedy się znajdowałem. Minęło kilka lat, przeszło kilkanaście wyróżnień na forach, wspomnień moich prac w czasopismach, no i skończyło się - polska scena VT praktycznie upadła a większość z nas, jej uczestników, poszła w inne strony.</description>
-    </item>
-    
-    <item>
-      <title>Jak zacząć przygodę z Open Source</title>
-      <link>https://smyrdek.com/posts/open-source-jak-zaczac/</link>
-      <pubDate>Sun, 26 Aug 2018 12:00:00 +0200</pubDate>
-      
-      <guid>https://smyrdek.com/posts/open-source-jak-zaczac/</guid>
-      <description>Ruch Open Source od ponad 20 lat skupia wokół siebie osoby tworzące oprogramowanie z otwartym kodem źródłowym. Dla wielu programistów idea ta może się wydawać pretensjonalna, niepotrzebnie popularyzowana czy też abstrakcyjna.
-Ja sam kiedy usłyszałem na jednej z konferencji - &amp;ldquo;nie róbcie startupów, róbcie open source&amp;rdquo; - nie wyobrażałem sobie jak mogę uczestniczyć w czymś tak oderwanym od rzeczywistości. Prawda jest jednak całkiem inna - open source to ruch, z którego każdy z nas może się wiele nauczyć, a otwarte oprogramowanie ma wpływ na więcej kwestii związanych z naszymi projektami niż mogłoby się nam wydawać.</description>
-    </item>
-    
-    <item>
-      <title>Trzy książki na koniec lata</title>
-      <link>https://smyrdek.com/posts/trzy-ksiazki-na-koniec-lata/</link>
-      <pubDate>Tue, 14 Aug 2018 12:00:00 +0200</pubDate>
-      
-      <guid>https://smyrdek.com/posts/trzy-ksiazki-na-koniec-lata/</guid>
-      <description>Do formalnego końca wakacji jeszcze niemal trzy tygodnie, dlatego dla każdego fana dobrej książki polecam trzy tytuły na które warto poświęcić ten czas. Pierwszy to pozycja obowiązkowa dla fanów pracy w pełnym skupieniu, druga to coś, dzięki czemu poprawimy naszą komunikację, a trzecia pomoże nam odnaleźć się w roli liderów. W żadnej z nich nie znajdziemy kodu, ale spokojnie - dawka wiedzy którą odnajdziemy w środku spokojnie te braki zaspokaja.</description>
-    </item>
-    
-    <item>
-      <title>Filozofia Unixa - ucz się od najlepszych</title>
-      <link>https://smyrdek.com/posts/filozofia-unixa-ucz-sie-od-najlepszych/</link>
-      <pubDate>Thu, 26 Jul 2018 12:00:00 +0200</pubDate>
-      
-      <guid>https://smyrdek.com/posts/filozofia-unixa-ucz-sie-od-najlepszych/</guid>
-      <description>Jak to mówią - &amp;ldquo;kiedyś to było&amp;hellip;&amp;rdquo; ;) W dzisiejszym odcinku przyjrzymy się prawie 50-letnim praktykom związanym z programowaniem, które mogą nas nauczyć więcej niż niejedna publikacja z naszej branży która powstała w ostatnim roku. Unix Philosophy - praktyka, pragmatyzm oraz zakaz suchej teorii - o tym dzisiaj!
- </description>
-    </item>
-    
-    <item>
-      <title>Rozwój programisty - 10 porad na start</title>
-      <link>https://smyrdek.com/posts/rozwoj-programisty-10-porad/</link>
-      <pubDate>Sun, 15 Jul 2018 12:00:00 +0200</pubDate>
-      
-      <guid>https://smyrdek.com/posts/rozwoj-programisty-10-porad/</guid>
-      <description>W ciągu ostatnich kilku dni uczestniczyłem w wielu rozmowach związanych z rozwojem programistów oraz tym, co liczy się szczególnie mocno na początku drogi związanej z programowaniem. Postanowiłem zebrać niektóre z moich uwagi i na ich podstawie stworzyć film, w którym przekażę 10 najważniejszych moim zdaniem porad związanych z rozwojem programistów.
- PS. Odnośnie dzielenia się wiedzą, nie wymieniłem jednego, chyba najważniejszego punktu, a mianowicie &amp;ldquo;giving back to the community&amp;rdquo;. Oddajmy to, co dała nam społeczność na naszym początku drogi - warto dzielić się wiedzą.</description>
-    </item>
-    
-    <item>
-      <title>Czym jest Parcel - popularne narzędzie dla front-end developera</title>
-      <link>https://smyrdek.com/posts/parcel-module-bundler-tutorial/</link>
-      <pubDate>Sun, 01 Jul 2018 12:00:00 +0200</pubDate>
-      
-      <guid>https://smyrdek.com/posts/parcel-module-bundler-tutorial/</guid>
-      <description>Parcel to narzędzie które wnosi nową jakość na zdominowany przez Webpacka rynek module bundlerów. Czy dwa podstawowe założenia o których mówi dokumentacja - niesamowity developer experience oraz wydajność budowania aplikacji - sprawią, że w niedalekiej przyszłości Parcel będzie fundamentem każdego front-endowego projektu?
- </description>
-    </item>
-    
-    <item>
-      <title>Czysty kod to nie zawsze priorytet</title>
-      <link>https://smyrdek.com/posts/czysty-kod-to-nie-priorytet/</link>
-      <pubDate>Sun, 17 Jun 2018 12:00:00 +0200</pubDate>
-      
-      <guid>https://smyrdek.com/posts/czysty-kod-to-nie-priorytet/</guid>
-      <description>Umiejętność pisania czystego, przemyślanego, zrozumiałego dla innych kodu to jedna z podstawowych cech dobrego programisty. Warto jednak pamiętać o tym, że w niektórych sytuacjach trzymanie się najwyższych standardów kodowania nie powinno być dla nas priorytetem. Co więcej - za wiedzę o tym, kiedy odpuścić, możemy być uznawani za jeszcze lepszych programistów.
- </description>
-    </item>
-    
-    <item>
-      <title>Jak zmieniał się front-end</title>
-      <link>https://smyrdek.com/posts/historia-front-endu/</link>
-      <pubDate>Sun, 10 Jun 2018 12:00:00 +0200</pubDate>
-      
-      <guid>https://smyrdek.com/posts/historia-front-endu/</guid>
-      <description>Front-end to stosunkowo młoda dziedzina programowania, która w ostatnich latach niesamowicie przyśpieszyła. W dzisiejszym filmie o tym co wydarzyło się na front-endzie w ciągu ostatnich 10 lat oraz o tym, jak te zmiany wpływają na posiadane przez nas umiejętności.
- </description>
+      <guid>https://smyrdek.com/posts/knowledge-sharing-values/</guid>
+      <description>I&amp;rsquo;m a strong advocate of all kinds of activities that could be summarized as knowledge sharing, due to their impact on your programming career. Some of you may agree with my point of view, but others will ask — why does it really matter?
+Today I’d like you to give you some example values that knowledge sharing brings to the table when it’s a part of your daily routine.</description>
     </item>
     
   </channel>

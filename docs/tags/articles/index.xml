@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Knowledge Sharing on Develop Yourself - Helping developers grow and work better</title>
-    <link>https://smyrdek.com/tags/knowledge-sharing/</link>
-    <description>Recent content in Knowledge Sharing on Develop Yourself - Helping developers grow and work better</description>
+    <title>Articles on Develop Yourself - Helping developers grow and work better</title>
+    <link>https://smyrdek.com/tags/articles/</link>
+    <description>Recent content in Articles on Develop Yourself - Helping developers grow and work better</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 24 Jan 2019 11:18:46 +0200</lastBuildDate>
     
-	<atom:link href="https://smyrdek.com/tags/knowledge-sharing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smyrdek.com/tags/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
