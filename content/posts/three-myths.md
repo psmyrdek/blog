@@ -2,7 +2,7 @@
 draft: false
 contentType: post-en
 title: "Three Myths about Successful Software Engineers"
-description: ""
+description: "What are the most important traits of a successful software developer?"
 tags: 
 - teamwork
 - myths
@@ -20,7 +20,7 @@ images:
 
 ---
 
-Let me ask you a question - what are the most important traits of successful software developer? Experienced person would probably say "-It depends". That's true, all of this depends on our work and life experience. Back in time, when I was was on the beginning of my adventure with software development, I would say that successful people have to know everything, they are working in a "one man army" mode, and they can solve every single problem you're putting in front of them. Damn… I wasn't even close to the right answer.
+Let me ask you a question - what are the most important traits of a successful software engineer? Experienced person would probably say "-It depends". That's true, all of this depends on our work and life experience. Back in time, when I was was on the beginning of my adventure with software development, I would say that successful people have to know everything, they are working in a "one man army" mode, and they can solve every single problem you're putting in front of them. Damn… I wasn't even close to the right answer.
 
 ## It's not about knowing all the things
 
