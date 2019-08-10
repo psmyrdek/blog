@@ -3,7 +3,7 @@ draft: false
 comments: false
 contentType: "page"
 
-title: "Learn More"
+title: "Hello there!"
 description: "Learn more about this blog and the author behind it."
 
 date: 2018-12-27T21:25:39+01:00
@@ -13,12 +13,12 @@ url: "/learn-more/"
 
 <img src="/images/shared/profile.jpg" alt="Zdjęcie profilowe" class="profile-pic"/>
 
-Cześć!
+My name is **Przemek Smyrdek**, I'm a software engineer and knowledge sharing advocate. I want to help you grow and work better by sharing everything I learned during my programming journey.
 
-Mam na imię Przemek i jestem programistą. [Między innymi](https://www.linkedin.com/in/psmyrdek/).
+For the most part of my career I've been focused on web development (front-end, to be more precise), but after falling in love with knowledge sharing I decided to extend my areas of interest with activities like writing, public speaking and podcasting.
 
-Kilka razy usłyszałem na swój temat, że to, w jaki sposób ja sam się rozwijam jest czymś, czym powinienem się dzielić z innymi. Pomimo tego, że nie wiem jeszcze jak ubrać to w konkretne ramy i definicje to postanowiłem po prostu pisać. 
+I strongly beliveve that successful programmers should work on many different skills other than coding, and this place is a tool I'm using to spread this attitude with a broader audience.
 
-Nie to, żebym [wcześniej](http://poznajprogramowanie.pl) nie pisał, jednak tutaj tematyka będzie zdecydowanie szersza niż tylko programowanie. Mówię “tylko”, bo [programowanie](https://github.com/psmyrdek) to dla mnie jeden z wielu klocków który pomaga mi budować coś z niczego. Innymi narzędziami są np. grafika, [fotografia](https://www.instagram.com/psmyrdek/), pisanie, [filmy](https://www.youtube.com/c/przemeksmyrdek), [dyskusje](https://twitter.com/psmyrdek), czy [wystąpienia publiczne](https://github.com/psmyrdek/talks/).
+By staying here for a bit longer you'll have a chance to learn how to communicate better, work more efficiently, collaborate with others, and just make the impact. If you're a beginner, I'm going to show you how to navigate your career and make conscious steps forward. If you're already an experienced specialist, I'll help you extend your technical skills with a whole new set of ideas you can use to reinvent yourself once again.
 
-Jeśli interesuje cię swój własny rozwój oraz poszerzanie spojrzenia na świat to myślę, że się dogadamy.
+Just [give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes).
