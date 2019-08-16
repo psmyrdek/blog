@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: post-pl
 title: "Co zamiast sushi - o kulturze pracy"
 description: Co sprawiło, że Netflix to jeden z liderów branży IT dzisiejszych czasów?
 tags:

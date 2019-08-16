@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: post-pl
 title: "Growth Hacking"
 description: "Dwa i pół roku regularnego pisania o programowaniu. Kilkaset odsłon po pierwszych miesiącach, a na dzisiaj - dwa lata później?"
 tags: 

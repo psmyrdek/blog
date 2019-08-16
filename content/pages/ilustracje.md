@@ -1,10 +1,9 @@
 ---
 draft: false
 comments: false
-contentType: "page"
 
 title: "Ilustracje"
-description: "Stock photos are banned here."
+description: "Rozwijam kreatywność przygotowując indywidualne ilustracje do każdego materiału"
 
 date: 2018-12-27T21:35:35+01:00
 

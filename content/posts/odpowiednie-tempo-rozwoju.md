@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: post-pl
 title: "Odpowiednie tempo rozwoju"
 description: "Jak często zamiast porównywania kolejnych lat swojego rozwoju patrzymy na tygodnie które zlewają się w jedną całość?"
 tags: 

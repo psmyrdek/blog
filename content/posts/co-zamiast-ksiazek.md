@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: post-pl
 title: "Jeśli nie książki, to co? 6 sposobów na pozyskiwanie nowej wiedzy."
 description: "Jakie aktywności pomogą nam w rozwoju kiedy wydaje nam się, że próbowaliśmy już prawie wszystkiego?"
 tags: 

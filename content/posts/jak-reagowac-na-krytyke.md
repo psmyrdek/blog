@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: post-pl
 title: "Jeden komentarz - dwa spojrzenia"
 description: "Dlaczego krytyka zaskakuje tylko niektórych z nas?"
 tags: 

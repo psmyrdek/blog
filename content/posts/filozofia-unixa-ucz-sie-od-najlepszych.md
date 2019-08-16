@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: video-pl
 title: "Filozofia Unixa - ucz się od najlepszych"
 description: "50-letnie wzorce mogą nas nauczyć więcej niż niejedna publikacja która powstała w ostatnim roku."
 tags: 

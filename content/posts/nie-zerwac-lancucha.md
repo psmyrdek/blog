@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: post-pl
 title: "Nie zerwać łańcucha"
 description: "Czas na koło ratunkowe - napiszę o tym, że trudno jest pisać."
 tags: 

@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: video-pl
 title: "Jak zacząć przygodę z Open Source"
 description: "W dzisiejszym filmie o tym, dlaczego warto uczestniczyć w społeczności OSS"
 tags: 

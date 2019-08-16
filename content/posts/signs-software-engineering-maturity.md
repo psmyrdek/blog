@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: post-en
 title: "The signs of maturity"
 description: "What are the signs of becoming a senior engineer?"
 tags: 

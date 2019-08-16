@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: post-pl
 title: "Jak skutecznie realizować własne cele"
 description: "Co zrobić, żeby nie zaplątać się w rozmaite inicjatywy w zbyt dużej liczbie i tym samym pozbawić się szansy osiągnięcia jakiegokolwiek celu."
 tags: 

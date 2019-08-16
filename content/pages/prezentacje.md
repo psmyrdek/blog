@@ -1,7 +1,6 @@
 ---
 draft: false
 comments: false
-contentType: "page"
 
 title: "Prezentacje"
 description: "Slides from my talks dedicated to software engineering, front-end web development and much more"

@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: video-pl
 title: "Jak zmieniał się front-end"
 description: "Co wydarzyło się na front-endzie w ciągu ostatnich 10 lat oraz o tym, jak te zmiany wpływają na posiadane przez nas umiejętności."
 tags: 

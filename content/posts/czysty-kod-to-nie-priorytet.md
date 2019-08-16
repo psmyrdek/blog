@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: video-pl
 title: "Czysty kod to nie zawsze priorytet"
 description: "Umiejętność pisania czystego, i zrozumiałego dla innych kodu to jedna z podstawowych cech dobrego programisty."
 tags: 

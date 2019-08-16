@@ -1,7 +1,6 @@
 ---
 draft: false
 comments: false
-contentType: "page"
 
 title: "Cześć!"
 description: "Dowiedz się więcej o blogu Develop Yourself"

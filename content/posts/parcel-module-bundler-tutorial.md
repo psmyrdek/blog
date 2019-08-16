@@ -1,6 +1,5 @@
 ---
 draft: false
-contentType: video-pl
 title: "Czym jest Parcel - popularne narzędzie dla front-end developera"
 description: "Parcel to narzędzie które wnosi nową jakość na zdominowany przez Webpacka rynek module bundlerów."
 tags: 
