@@ -8,6 +8,7 @@ tags:
 - kariera
 - dźwignie
 - przeprogramowani
+- video
 
 date: 2019-08-11T00:03:00+02:00
 

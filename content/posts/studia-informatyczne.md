@@ -9,6 +9,7 @@ tags:
 - programowanie
 - kariera
 - przeprogramowani
+- video
 
 date: 2019-08-16T23:55:29+02:00
 
