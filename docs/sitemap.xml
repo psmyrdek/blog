@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://smyrdek.com/posts/dzwignie-programistyczne/</loc>
+    <lastmod>2019-08-11T00:03:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://smyrdek.com/posts/the-learning-funnel/</loc>
     <lastmod>2019-07-31T19:51:27+02:00</lastmod>
   </url>
@@ -236,6 +241,12 @@
   <url>
     <loc>https://smyrdek.com/tags/do%C5%9Bwiadczenie/</loc>
     <lastmod>2019-04-18T18:58:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/tags/d%C5%BAwignie/</loc>
+    <lastmod>2019-08-11T00:03:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
