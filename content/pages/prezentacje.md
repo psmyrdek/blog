@@ -11,7 +11,7 @@ date: 2019-01-08T21:29:47+01:00
 url: "/prezentacje/"
 ---
 
-Performing in front of a broader audience was such a stressful experience for me in the past! Thankfully, I've managed to overcome some of my fears (or at least - accept them) and now public speaking is one of the most enjoyable forms of knowledge sharing I'm involved in. Below you can find slides from some of the talks I made in the past.
+Prezentacje to dla mnie jedno z wielu wyzwań, które kiedyś były dla mnie poza zasięgiem, a dzisiaj skutecznie pomagają mi się rozwijać i czerpać mnóstwo przyjemności z ich realizowania.
 
 ## Front-End Tooling - Tales, Legends and Myths
 📅 04.07.2019  
