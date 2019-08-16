@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Develop Yourself - Helping developers grow and work better</title>
+    <title>Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej.</title>
     <link>https://smyrdek.com/</link>
-    <description>Recent content on Develop Yourself - Helping developers grow and work better</description>
+    <description>Recent content on Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>pl-PL</language>
     <lastBuildDate>Wed, 31 Jul 2019 19:51:27 +0200</lastBuildDate>
     
 	<atom:link href="https://smyrdek.com/index.xml" rel="self" type="application/rss+xml" />
@@ -71,30 +71,36 @@ Today I’d like you to give you some example values that knowledge sharing brin
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://smyrdek.com/contact/</link>
+      <title>Kontakt</title>
+      <link>https://smyrdek.com/kontakt/</link>
       <pubDate>Tue, 08 Jan 2019 21:29:47 +0100</pubDate>
       
-      <guid>https://smyrdek.com/contact/</guid>
-      <description>In case of questions or inquiries, just contact me at przemek.smyrdek@gmail.com</description>
+      <guid>https://smyrdek.com/kontakt/</guid>
+      <description>Jeśli chcesz:
+ dowiedzieć się czegoś o zawodzie programisty porozmawiać o swojej ścieżce zawodowej poszukać kolejnej okazji do rozwoju znaleźć wartościowe materiały lub inspiracje zaproponować temat który powinienem opracować lub po prostu pogadać na dowolny temat związany z tematyką tej strony&amp;hellip;  &amp;hellip;to czekam na twoją wiadomość tutaj - przemek.smyrdek@gmail.com
+Do usłyszenia!</description>
     </item>
     
     <item>
-      <title>Public Speaking</title>
-      <link>https://smyrdek.com/public-speaking/</link>
+      <title>Prezentacje</title>
+      <link>https://smyrdek.com/prezentacje/</link>
       <pubDate>Tue, 08 Jan 2019 21:29:47 +0100</pubDate>
       
-      <guid>https://smyrdek.com/public-speaking/</guid>
-      <description>Performing in front of a broader audience was such a stressful experience for me in the past! Thankfully, I&amp;rsquo;ve managed to overcome some of my fears (or at least - accept them) and now public speaking is one of the most enjoyable forms of knowledge sharing I&amp;rsquo;m involved in. Below you can find slides from some of the talks I made in the past.
-Front-End Tooling - Tales, Legends and Myths 📅 04.</description>
+      <guid>https://smyrdek.com/prezentacje/</guid>
+      <description>Prezentacje to dla mnie jedno z wielu wyzwań, które kiedyś były dla mnie poza zasięgiem, a dzisiaj skutecznie pomagają mi się rozwijać i czerpać mnóstwo przyjemności z ich realizowania.
+Front-End Tooling - Tales, Legends and Myths 📅 04.07.2019
+🗺 SmartRecruiters HackerSpace - Kraków
+🛠Demo
+Learn how to build a modern web application using five different techniques, starting from raw OS capabilities, ending with Webpack and Parcel.
+ Once on production, it&amp;rsquo;s not a broken promise 📅 08.</description>
     </item>
     
     <item>
-      <title>Covers and Illustrations</title>
-      <link>https://smyrdek.com/covers-and-illustrations/</link>
+      <title>Ilustracje</title>
+      <link>https://smyrdek.com/ilustracje/</link>
       <pubDate>Thu, 27 Dec 2018 21:35:35 +0100</pubDate>
       
-      <guid>https://smyrdek.com/covers-and-illustrations/</guid>
+      <guid>https://smyrdek.com/ilustracje/</guid>
       <description>No one is interested in yet another blog about software engineering!
  The thing is, I don&amp;rsquo;t want to create yet another &amp;lsquo;blog&amp;rsquo;. There&amp;rsquo;s plenty of skillful, experienced developers sharing their perspective on technical subjects on a daily basis and that&amp;rsquo;s great!
 For me, this place is all about creativity.
@@ -102,13 +108,14 @@ Inspired by all those crazy covers of The New Yorker I decided to create a space
     </item>
     
     <item>
-      <title>Hello there!</title>
-      <link>https://smyrdek.com/learn-more/</link>
+      <title>Cześć!</title>
+      <link>https://smyrdek.com/start/</link>
       <pubDate>Thu, 27 Dec 2018 21:25:39 +0100</pubDate>
       
-      <guid>https://smyrdek.com/learn-more/</guid>
-      <description>My name is Przemek Smyrdek, I&amp;rsquo;m a software engineer and knowledge sharing advocate. I want to help you grow and work better by sharing everything I learned during my programming journey.
-For the most part of my career I&amp;rsquo;ve been focused on web development (front-end, to be more precise), but after falling in love with knowledge sharing I decided to extend my areas of interest with activities like writing, public speaking and podcasting.</description>
+      <guid>https://smyrdek.com/start/</guid>
+      <description>Cześć!
+Nazywam się Przemek Smyrdek. Jestem pasjonatem dzielenia się wiedzą oraz rozwoju w programowaniu i nie tylko. Treści które tworzę pomogą ci zostać bardziej świadomym programistą, który pracuje efektywniej, komunikuje się lepiej i patrzy na świat szerzej.
+Wiedza którą posiadam pomoże ci wzmocnić twoje kompetencje techniczne, dzięki czemu staniesz się jeszcze lepszym graczem zespołowym, łatwiej przejdziesz przez rozmowy z tzw. “biznesem”, nauczysz się przedstawiania swoich pomysłów przed współpracownikami czy negocjowania trudnych decyzji projektowych.</description>
     </item>
     
   </channel>

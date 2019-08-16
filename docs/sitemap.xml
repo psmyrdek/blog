@@ -33,22 +33,22 @@
   </url>
   
   <url>
-    <loc>https://smyrdek.com/contact/</loc>
+    <loc>https://smyrdek.com/kontakt/</loc>
     <lastmod>2019-01-08T21:29:47+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://smyrdek.com/public-speaking/</loc>
+    <loc>https://smyrdek.com/prezentacje/</loc>
     <lastmod>2019-01-08T21:29:47+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://smyrdek.com/covers-and-illustrations/</loc>
+    <loc>https://smyrdek.com/ilustracje/</loc>
     <lastmod>2018-12-27T21:35:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://smyrdek.com/learn-more/</loc>
+    <loc>https://smyrdek.com/start/</loc>
     <lastmod>2018-12-27T21:25:39+01:00</lastmod>
   </url>
   
@@ -90,12 +90,6 @@
   <url>
     <loc>https://smyrdek.com/tags/design/</loc>
     <lastmod>2019-03-04T18:25:15+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://smyrdek.com/</loc>
-    <lastmod>2019-07-31T19:51:27+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -185,6 +179,12 @@
   
   <url>
     <loc>https://smyrdek.com/tags/programming/</loc>
+    <lastmod>2019-07-31T19:51:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smyrdek.com/</loc>
     <lastmod>2019-07-31T19:51:27+02:00</lastmod>
     <priority>0</priority>
   </url>
