@@ -3,12 +3,12 @@ draft: false
 comments: false
 contentType: "page"
 
-title: "Covers and Illustrations"
+title: "Ilustracje"
 description: "Stock photos are banned here."
 
 date: 2018-12-27T21:35:35+01:00
 
-url: "/covers-and-illustrations/"
+url: "/ilustracje/"
 ---
 
 > No one is interested in yet another blog about software engineering!

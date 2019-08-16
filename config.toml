@@ -1,6 +1,6 @@
 baseURL = "https://smyrdek.com/"
-languageCode = "en-US"
-title = "Develop Yourself - Helping developers grow and work better"
+languageCode = "pl-PL"
+title = "Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej."
 theme = "hugo-paper"
 publishDir = "docs"
 googleAnalytics = "UA-130241188-1"
@@ -12,37 +12,37 @@ enableRobotsTXT = true
     post = "/:year/:month/:title/"
 
 [params]
-    description = "Develop Yourself - Helping developers grow and work better"
+    description = "Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej."
     author = "Przemek Smyrdek"
 
 [menu]
 
     [[menu.main]]
-        identifier = "learn-more"
-        name = "Learn More"
-        url = "/learn-more/"
+        identifier = "start"
+        name = "Start"
+        url = "/start/"
         weight = -110
 
     [[menu.main]]
-        identifier = "public-speaking"
-        name = "Speaking"
-        url = "/public-speaking/"
+        identifier = "prezentacje"
+        name = "Prezentacje"
+        url = "/prezentacje/"
         weight = -100
 
     [[menu.main]]
-        identifier = "covers-and-illustrations"
-        name = "Drawing"
-        url = "/covers-and-illustrations/"
+        identifier = "ilustracje"
+        name = "Ilustracje"
+        url = "/ilustracje/"
         weight = -90
 
     [[menu.main]]
-        identifier = "videos"
-        name = "Videos"
+        identifier = "filmy"
+        name = "Filmy"
         url = "https://www.youtube.com/channel/UCnrmvLXGA-EX-O4aBHAlipw"
         weight = -80
 
     [[menu.main]]
-        identifier = "contact"
-        name = "Contact"
-        url = "/contact/"
+        identifier = "kontakt"
+        name = "Kontakt"
+        url = "/kontakt/"
         weight = -70
