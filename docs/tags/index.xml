@@ -6,19 +6,10 @@
     <description>Recent content in Tags on Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
-    <lastBuildDate>Thu, 24 Jan 2019 11:18:46 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 19:15:11 +0200</lastBuildDate>
     
 	<atom:link href="https://smyrdek.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Articles</title>
-      <link>https://smyrdek.com/tags/articles/</link>
-      <pubDate>Thu, 24 Jan 2019 11:18:46 +0200</pubDate>
-      
-      <guid>https://smyrdek.com/tags/articles/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Beginners</title>
@@ -30,11 +21,38 @@
     </item>
     
     <item>
-      <title>Blogs</title>
-      <link>https://smyrdek.com/tags/blogs/</link>
-      <pubDate>Thu, 24 Jan 2019 11:18:46 +0200</pubDate>
+      <title>Bieganie</title>
+      <link>https://smyrdek.com/tags/bieganie/</link>
+      <pubDate>Fri, 26 Apr 2019 20:30:12 +0200</pubDate>
       
-      <guid>https://smyrdek.com/tags/blogs/</guid>
+      <guid>https://smyrdek.com/tags/bieganie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://smyrdek.com/tags/blog/</link>
+      <pubDate>Sat, 16 Feb 2019 11:42:02 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogi</title>
+      <link>https://smyrdek.com/tags/blogi/</link>
+      <pubDate>Mon, 21 Jan 2019 20:08:56 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/blogi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burza Mózgów</title>
+      <link>https://smyrdek.com/tags/burza-m%C3%B3zg%C3%B3w/</link>
+      <pubDate>Thu, 21 Mar 2019 19:00:39 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/burza-m%C3%B3zg%C3%B3w/</guid>
       <description></description>
     </item>
     
@@ -48,29 +66,74 @@
     </item>
     
     <item>
-      <title>Cqrs</title>
-      <link>https://smyrdek.com/tags/cqrs/</link>
-      <pubDate>Mon, 04 Mar 2019 18:25:15 +0100</pubDate>
+      <title>Cele</title>
+      <link>https://smyrdek.com/tags/cele/</link>
+      <pubDate>Sun, 10 Mar 2019 21:26:17 +0100</pubDate>
       
-      <guid>https://smyrdek.com/tags/cqrs/</guid>
+      <guid>https://smyrdek.com/tags/cele/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Design</title>
-      <link>https://smyrdek.com/tags/design/</link>
-      <pubDate>Mon, 04 Mar 2019 18:25:15 +0100</pubDate>
+      <title>Cierpliwość</title>
+      <link>https://smyrdek.com/tags/cierpliwo%C5%9B%C4%87/</link>
+      <pubDate>Fri, 26 Apr 2019 20:30:12 +0200</pubDate>
       
-      <guid>https://smyrdek.com/tags/design/</guid>
+      <guid>https://smyrdek.com/tags/cierpliwo%C5%9B%C4%87/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Engineering</title>
-      <link>https://smyrdek.com/tags/engineering/</link>
-      <pubDate>Fri, 12 Apr 2019 17:29:16 +0200</pubDate>
+      <title>Cleancode</title>
+      <link>https://smyrdek.com/tags/cleancode/</link>
+      <pubDate>Sun, 17 Jun 2018 12:00:00 +0200</pubDate>
       
-      <guid>https://smyrdek.com/tags/engineering/</guid>
+      <guid>https://smyrdek.com/tags/cleancode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cykl</title>
+      <link>https://smyrdek.com/tags/cykl/</link>
+      <pubDate>Sat, 06 Apr 2019 08:48:10 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/cykl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Czas</title>
+      <link>https://smyrdek.com/tags/czas/</link>
+      <pubDate>Fri, 26 Apr 2019 20:30:12 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/czas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doświadczenie</title>
+      <link>https://smyrdek.com/tags/do%C5%9Bwiadczenie/</link>
+      <pubDate>Thu, 18 Apr 2019 18:58:56 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/do%C5%9Bwiadczenie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efektywność</title>
+      <link>https://smyrdek.com/tags/efektywno%C5%9B%C4%87/</link>
+      <pubDate>Sun, 10 Feb 2019 09:10:59 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/efektywno%C5%9B%C4%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emocje</title>
+      <link>https://smyrdek.com/tags/emocje/</link>
+      <pubDate>Fri, 04 Jan 2019 18:10:09 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/emocje/</guid>
       <description></description>
     </item>
     
@@ -84,20 +147,74 @@
     </item>
     
     <item>
+      <title>Feedback</title>
+      <link>https://smyrdek.com/tags/feedback/</link>
+      <pubDate>Wed, 26 Dec 2018 11:01:13 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forma</title>
+      <link>https://smyrdek.com/tags/forma/</link>
+      <pubDate>Fri, 29 Mar 2019 17:46:14 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/forma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Front End</title>
       <link>https://smyrdek.com/tags/front-end/</link>
-      <pubDate>Fri, 12 Apr 2019 17:29:16 +0200</pubDate>
+      <pubDate>Sun, 10 Jun 2018 12:00:00 +0200</pubDate>
       
       <guid>https://smyrdek.com/tags/front-end/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Growth</title>
-      <link>https://smyrdek.com/tags/growth/</link>
-      <pubDate>Wed, 10 Apr 2019 11:27:56 +0200</pubDate>
+      <title>Growth Hacking</title>
+      <link>https://smyrdek.com/tags/growth-hacking/</link>
+      <pubDate>Sat, 16 Feb 2019 11:42:02 +0100</pubDate>
       
-      <guid>https://smyrdek.com/tags/growth/</guid>
+      <guid>https://smyrdek.com/tags/growth-hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historia</title>
+      <link>https://smyrdek.com/tags/historia/</link>
+      <pubDate>Sun, 10 Jun 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/historia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilustracje</title>
+      <link>https://smyrdek.com/tags/ilustracje/</link>
+      <pubDate>Fri, 29 Mar 2019 17:46:14 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/ilustracje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informatyka</title>
+      <link>https://smyrdek.com/tags/informatyka/</link>
+      <pubDate>Fri, 16 Aug 2019 23:55:29 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/informatyka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kariera</title>
+      <link>https://smyrdek.com/tags/kariera/</link>
+      <pubDate>Fri, 16 Aug 2019 23:55:29 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/kariera/</guid>
       <description></description>
     </item>
     
@@ -113,9 +230,63 @@
     <item>
       <title>Knowledge Sharing</title>
       <link>https://smyrdek.com/tags/knowledge-sharing/</link>
-      <pubDate>Thu, 24 Jan 2019 11:18:46 +0200</pubDate>
+      <pubDate>Fri, 15 Mar 2019 22:57:38 +0100</pubDate>
       
       <guid>https://smyrdek.com/tags/knowledge-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Komentarze</title>
+      <link>https://smyrdek.com/tags/komentarze/</link>
+      <pubDate>Wed, 26 Dec 2018 11:01:13 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/komentarze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konsekwencja</title>
+      <link>https://smyrdek.com/tags/konsekwencja/</link>
+      <pubDate>Sat, 16 Feb 2019 11:42:02 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/konsekwencja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kreatywność</title>
+      <link>https://smyrdek.com/tags/kreatywno%C5%9B%C4%87/</link>
+      <pubDate>Mon, 04 Mar 2019 18:37:01 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/kreatywno%C5%9B%C4%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krytyka</title>
+      <link>https://smyrdek.com/tags/krytyka/</link>
+      <pubDate>Wed, 26 Dec 2018 11:01:13 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/krytyka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Książki</title>
+      <link>https://smyrdek.com/tags/ksi%C4%85%C5%BCki/</link>
+      <pubDate>Fri, 15 Mar 2019 22:57:38 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/ksi%C4%85%C5%BCki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kultura Organizacji</title>
+      <link>https://smyrdek.com/tags/kultura-organizacji/</link>
+      <pubDate>Fri, 07 Dec 2018 16:32:54 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/kultura-organizacji/</guid>
       <description></description>
     </item>
     
@@ -138,6 +309,33 @@
     </item>
     
     <item>
+      <title>Logika</title>
+      <link>https://smyrdek.com/tags/logika/</link>
+      <pubDate>Sat, 12 Jan 2019 18:55:39 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/logika/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marzenia</title>
+      <link>https://smyrdek.com/tags/marzenia/</link>
+      <pubDate>Sun, 10 Mar 2019 21:26:17 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/marzenia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mentoring</title>
+      <link>https://smyrdek.com/tags/mentoring/</link>
+      <pubDate>Fri, 15 Mar 2019 22:57:38 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/mentoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Models</title>
       <link>https://smyrdek.com/tags/models/</link>
       <pubDate>Wed, 31 Jul 2019 19:51:27 +0200</pubDate>
@@ -147,29 +345,173 @@
     </item>
     
     <item>
-      <title>Myths</title>
-      <link>https://smyrdek.com/tags/myths/</link>
-      <pubDate>Wed, 10 Apr 2019 11:27:56 +0200</pubDate>
+      <title>Narzędzia</title>
+      <link>https://smyrdek.com/tags/narz%C4%99dzia/</link>
+      <pubDate>Sun, 01 Jul 2018 12:00:00 +0200</pubDate>
       
-      <guid>https://smyrdek.com/tags/myths/</guid>
+      <guid>https://smyrdek.com/tags/narz%C4%99dzia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://smyrdek.com/tags/posts/</link>
-      <pubDate>Thu, 24 Jan 2019 11:18:46 +0200</pubDate>
+      <title>Nawyki</title>
+      <link>https://smyrdek.com/tags/nawyki/</link>
+      <pubDate>Sat, 06 Apr 2019 08:48:10 +0200</pubDate>
       
-      <guid>https://smyrdek.com/tags/posts/</guid>
+      <guid>https://smyrdek.com/tags/nawyki/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Priorities</title>
-      <link>https://smyrdek.com/tags/priorities/</link>
-      <pubDate>Wed, 10 Apr 2019 11:27:56 +0200</pubDate>
+      <title>Netflix</title>
+      <link>https://smyrdek.com/tags/netflix/</link>
+      <pubDate>Fri, 07 Dec 2018 16:32:54 +0100</pubDate>
       
-      <guid>https://smyrdek.com/tags/priorities/</guid>
+      <guid>https://smyrdek.com/tags/netflix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notatki</title>
+      <link>https://smyrdek.com/tags/notatki/</link>
+      <pubDate>Thu, 21 Mar 2019 19:00:39 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/notatki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nowy Rok</title>
+      <link>https://smyrdek.com/tags/nowy-rok/</link>
+      <pubDate>Fri, 04 Jan 2019 18:10:09 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/nowy-rok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Odpoczynek</title>
+      <link>https://smyrdek.com/tags/odpoczynek/</link>
+      <pubDate>Mon, 04 Mar 2019 18:37:01 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/odpoczynek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://smyrdek.com/tags/open-source/</link>
+      <pubDate>Fri, 15 Mar 2019 22:57:38 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinie</title>
+      <link>https://smyrdek.com/tags/opinie/</link>
+      <pubDate>Wed, 26 Dec 2018 11:01:13 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/opinie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oss</title>
+      <link>https://smyrdek.com/tags/oss/</link>
+      <pubDate>Sun, 26 Aug 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/oss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parcel</title>
+      <link>https://smyrdek.com/tags/parcel/</link>
+      <pubDate>Sun, 01 Jul 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/parcel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perspektywa</title>
+      <link>https://smyrdek.com/tags/perspektywa/</link>
+      <pubDate>Fri, 26 Apr 2019 20:30:12 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/perspektywa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plan B</title>
+      <link>https://smyrdek.com/tags/plan-b/</link>
+      <pubDate>Sat, 06 Apr 2019 08:48:10 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/plan-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plany</title>
+      <link>https://smyrdek.com/tags/plany/</link>
+      <pubDate>Tue, 08 Jan 2019 20:10:12 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/plany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pomysły</title>
+      <link>https://smyrdek.com/tags/pomys%C5%82y/</link>
+      <pubDate>Mon, 04 Mar 2019 18:37:01 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/pomys%C5%82y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Porady</title>
+      <link>https://smyrdek.com/tags/porady/</link>
+      <pubDate>Sun, 15 Jul 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/porady/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postęp</title>
+      <link>https://smyrdek.com/tags/post%C4%99p/</link>
+      <pubDate>Mon, 21 Jan 2019 20:08:56 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/post%C4%99p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poznajprogramowanie.pl</title>
+      <link>https://smyrdek.com/tags/poznajprogramowanie.pl/</link>
+      <pubDate>Sat, 16 Feb 2019 11:42:02 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/poznajprogramowanie.pl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Praca</title>
+      <link>https://smyrdek.com/tags/praca/</link>
+      <pubDate>Sun, 10 Feb 2019 09:10:59 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/praca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prezentacje</title>
+      <link>https://smyrdek.com/tags/prezentacje/</link>
+      <pubDate>Thu, 18 Apr 2019 18:58:56 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/prezentacje/</guid>
       <description></description>
     </item>
     
@@ -183,6 +525,87 @@
     </item>
     
     <item>
+      <title>Programowanie</title>
+      <link>https://smyrdek.com/tags/programowanie/</link>
+      <pubDate>Fri, 16 Aug 2019 23:55:29 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/programowanie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projekt</title>
+      <link>https://smyrdek.com/tags/projekt/</link>
+      <pubDate>Sat, 01 Dec 2018 17:56:33 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/projekt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projekty</title>
+      <link>https://smyrdek.com/tags/projekty/</link>
+      <pubDate>Sun, 10 Feb 2019 09:10:59 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/projekty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Przedsięwzięcia</title>
+      <link>https://smyrdek.com/tags/przedsi%C4%99wzi%C4%99cia/</link>
+      <pubDate>Mon, 04 Mar 2019 18:37:01 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/przedsi%C4%99wzi%C4%99cia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Przeprogramowani</title>
+      <link>https://smyrdek.com/tags/przeprogramowani/</link>
+      <pubDate>Fri, 16 Aug 2019 23:55:29 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/przeprogramowani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Przygotowania</title>
+      <link>https://smyrdek.com/tags/przygotowania/</link>
+      <pubDate>Thu, 21 Mar 2019 19:00:39 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/przygotowania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Przyszłość</title>
+      <link>https://smyrdek.com/tags/przysz%C5%82o%C5%9B%C4%87/</link>
+      <pubDate>Tue, 08 Jan 2019 20:10:12 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/przysz%C5%82o%C5%9B%C4%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rozwiązywanie Problemów</title>
+      <link>https://smyrdek.com/tags/rozwi%C4%85zywanie-problem%C3%B3w/</link>
+      <pubDate>Sun, 02 Dec 2018 19:23:33 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/rozwi%C4%85zywanie-problem%C3%B3w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rozwój</title>
+      <link>https://smyrdek.com/tags/rozw%C3%B3j/</link>
+      <pubDate>Sat, 01 Dec 2018 17:56:33 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/rozw%C3%B3j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Self Awareness</title>
       <link>https://smyrdek.com/tags/self-awareness/</link>
       <pubDate>Thu, 23 May 2019 19:15:11 +0200</pubDate>
@@ -192,56 +615,182 @@
     </item>
     
     <item>
-      <title>Software Engineering</title>
-      <link>https://smyrdek.com/tags/software-engineering/</link>
-      <pubDate>Wed, 10 Apr 2019 11:27:56 +0200</pubDate>
+      <title>Skupienie</title>
+      <link>https://smyrdek.com/tags/skupienie/</link>
+      <pubDate>Sun, 10 Feb 2019 09:10:59 +0100</pubDate>
       
-      <guid>https://smyrdek.com/tags/software-engineering/</guid>
+      <guid>https://smyrdek.com/tags/skupienie/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Srp</title>
-      <link>https://smyrdek.com/tags/srp/</link>
-      <pubDate>Mon, 04 Mar 2019 18:25:15 +0100</pubDate>
+      <title>Slajdy</title>
+      <link>https://smyrdek.com/tags/slajdy/</link>
+      <pubDate>Thu, 18 Apr 2019 18:58:56 +0200</pubDate>
       
-      <guid>https://smyrdek.com/tags/srp/</guid>
+      <guid>https://smyrdek.com/tags/slajdy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stencil</title>
-      <link>https://smyrdek.com/tags/stencil/</link>
-      <pubDate>Fri, 12 Apr 2019 17:29:16 +0200</pubDate>
+      <title>Startupy</title>
+      <link>https://smyrdek.com/tags/startupy/</link>
+      <pubDate>Sat, 12 Jan 2019 18:55:39 +0100</pubDate>
       
-      <guid>https://smyrdek.com/tags/stencil/</guid>
+      <guid>https://smyrdek.com/tags/startupy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Teamwork</title>
-      <link>https://smyrdek.com/tags/teamwork/</link>
-      <pubDate>Wed, 10 Apr 2019 11:27:56 +0200</pubDate>
+      <title>Strefakomfortufanzone</title>
+      <link>https://smyrdek.com/tags/strefakomfortufanzone/</link>
+      <pubDate>Sun, 10 Mar 2019 21:26:17 +0100</pubDate>
       
-      <guid>https://smyrdek.com/tags/teamwork/</guid>
+      <guid>https://smyrdek.com/tags/strefakomfortufanzone/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Web Components</title>
-      <link>https://smyrdek.com/tags/web-components/</link>
-      <pubDate>Fri, 12 Apr 2019 17:29:16 +0200</pubDate>
+      <title>Stres</title>
+      <link>https://smyrdek.com/tags/stres/</link>
+      <pubDate>Thu, 18 Apr 2019 18:58:56 +0200</pubDate>
       
-      <guid>https://smyrdek.com/tags/web-components/</guid>
+      <guid>https://smyrdek.com/tags/stres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studia Informatyczne</title>
+      <link>https://smyrdek.com/tags/studia-informatyczne/</link>
+      <pubDate>Fri, 16 Aug 2019 23:55:29 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/studia-informatyczne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taniamotywacja</title>
+      <link>https://smyrdek.com/tags/taniamotywacja/</link>
+      <pubDate>Sun, 10 Mar 2019 21:26:17 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/taniamotywacja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trening</title>
+      <link>https://smyrdek.com/tags/trening/</link>
+      <pubDate>Fri, 26 Apr 2019 20:30:12 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/trening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unix</title>
+      <link>https://smyrdek.com/tags/unix/</link>
+      <pubDate>Thu, 26 Jul 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usa</title>
+      <link>https://smyrdek.com/tags/usa/</link>
+      <pubDate>Sun, 10 Mar 2019 21:26:17 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/usa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://smyrdek.com/tags/video/</link>
+      <pubDate>Sun, 26 Aug 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vlog</title>
+      <link>https://smyrdek.com/tags/vlog/</link>
+      <pubDate>Sun, 26 Aug 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/vlog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wartości</title>
+      <link>https://smyrdek.com/tags/warto%C5%9Bci/</link>
+      <pubDate>Tue, 08 Jan 2019 20:10:12 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/warto%C5%9Bci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webpack</title>
+      <link>https://smyrdek.com/tags/webpack/</link>
+      <pubDate>Sun, 01 Jul 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/webpack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiedza</title>
+      <link>https://smyrdek.com/tags/wiedza/</link>
+      <pubDate>Mon, 21 Jan 2019 20:08:56 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/wiedza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wystąpienia</title>
+      <link>https://smyrdek.com/tags/wyst%C4%85pienia/</link>
+      <pubDate>Thu, 18 Apr 2019 18:58:56 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/wyst%C4%85pienia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Youtube</title>
       <link>https://smyrdek.com/tags/youtube/</link>
-      <pubDate>Thu, 24 Jan 2019 11:18:46 +0200</pubDate>
+      <pubDate>Sun, 26 Aug 2018 12:00:00 +0200</pubDate>
       
       <guid>https://smyrdek.com/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Znajomi</title>
+      <link>https://smyrdek.com/tags/znajomi/</link>
+      <pubDate>Wed, 26 Dec 2018 11:01:13 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/znajomi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Łańcuch</title>
+      <link>https://smyrdek.com/tags/%C5%82a%C5%84cuch/</link>
+      <pubDate>Sat, 06 Apr 2019 08:48:10 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/tags/%C5%82a%C5%84cuch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Źródła Wiedzy</title>
+      <link>https://smyrdek.com/tags/%C5%BAr%C3%B3d%C5%82a-wiedzy/</link>
+      <pubDate>Fri, 15 Mar 2019 22:57:38 +0100</pubDate>
+      
+      <guid>https://smyrdek.com/tags/%C5%BAr%C3%B3d%C5%82a-wiedzy/</guid>
       <description></description>
     </item>
     

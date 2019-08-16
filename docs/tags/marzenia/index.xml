@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marzenia on Develop Yourself - Helping developers grow and work better</title>
+    <title>Marzenia on Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej.</title>
     <link>https://smyrdek.com/tags/marzenia/</link>
-    <description>Recent content in Marzenia on Develop Yourself - Helping developers grow and work better</description>
+    <description>Recent content in Marzenia on Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>pl-PL</language>
     <lastBuildDate>Sun, 10 Mar 2019 21:26:17 +0100</lastBuildDate>
     
 	<atom:link href="https://smyrdek.com/tags/marzenia/index.xml" rel="self" type="application/rss+xml" />

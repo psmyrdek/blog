@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rozwiązywanie Problemów on Develop Yourself - Helping developers grow and work better</title>
+    <title>Rozwiązywanie Problemów on Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej.</title>
     <link>https://smyrdek.com/tags/rozwi%C4%85zywanie-problem%C3%B3w/</link>
-    <description>Recent content in Rozwiązywanie Problemów on Develop Yourself - Helping developers grow and work better</description>
+    <description>Recent content in Rozwiązywanie Problemów on Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>pl-PL</language>
     <lastBuildDate>Sun, 02 Dec 2018 19:23:33 +0100</lastBuildDate>
     
 	<atom:link href="https://smyrdek.com/tags/rozwi%C4%85zywanie-problem%C3%B3w/index.xml" rel="self" type="application/rss+xml" />

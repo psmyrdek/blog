@@ -22,15 +22,5 @@ Probably I should not call myself &amp;lsquo;junior developer&amp;rsquo; anymore
 Due to the fact that I&amp;rsquo;m not that far from being labeled as &amp;lsquo;junior&amp;rsquo;, and also not super comfortable with a word &amp;lsquo;senior&amp;rsquo; (especially when sitting next to my colleagues), I decided to write a few words about the most meaningful changes in my own understanding the position of software developer.</description>
     </item>
     
-    <item>
-      <title>Applying CQRS to Product Design</title>
-      <link>https://smyrdek.com/posts/applying-cqrs-to-product-design/</link>
-      <pubDate>Mon, 04 Mar 2019 18:25:15 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/posts/applying-cqrs-to-product-design/</guid>
-      <description>Do you know what the CQRS is? Command Query Responsibility Segregation is an architectural pattern used heavily in all kinds of back-end systems, which basically tells you that commands (mutations of the state) should be separated from the queries (parts where you read the data, i.e. for the purpose of UI or reporting).
-There are multiple reasons why engineers apply this pattern to their projects, but these two are probably worth mentioning the most:</description>
-    </item>
-    
   </channel>
 </rss>
