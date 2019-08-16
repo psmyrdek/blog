@@ -3,7 +3,7 @@ draft: false
 comments: false
 
 title: "Prezentacje"
-description: "Slides from my talks dedicated to software engineering, front-end web development and much more"
+description: "Prezentacje to jedno z wielu znakomitych narzędzi wykorzystywanych do dzielenia się wiedzą."
 
 date: 2019-01-08T21:29:47+01:00
 
