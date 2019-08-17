@@ -14,7 +14,7 @@ Prezentacje to dla mnie jedno z wielu wyzwań, które kiedyś były dla mnie poz
 
 Jest to znakomite narzędzie wykorzystywane przeze mnie do dzielenia się wiedzą, ale też wystawiania się na ocenę szerszej publiczności. Przygotowując kolejne tematy wystąpień przekazuję wiedzę, ale i sam uczę się na podstawie reakcji słuchaczy. 
 
-Poniżej znajdziesz się slajdy z wybranych przeze mnie prezentacji, linki do nagrań oraz historię, którą aktualizuję po każdym kolejnym wystąpieniu.
+Poniżej znajdziesz slajdy z tworzonych przeze mnie prezentacji, linki do nagrań oraz historię, którą aktualizuję po każdym kolejnym wystąpieniu.
 
 
 ## Front-End Tooling - Tales, Legends and Myths
