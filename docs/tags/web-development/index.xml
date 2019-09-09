@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development on Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej.</title>
+    <link>https://smyrdek.com/tags/web-development/</link>
+    <description>Recent content in Web Development on Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Mon, 09 Sep 2019 18:17:16 +0200</lastBuildDate>
+    
+	<atom:link href="https://smyrdek.com/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plusy i minusy projektów webowych</title>
+      <link>https://smyrdek.com/posts/projekty-webowe/</link>
+      <pubDate>Mon, 09 Sep 2019 18:17:16 +0200</pubDate>
+      
+      <guid>https://smyrdek.com/posts/projekty-webowe/</guid>
+      <description>Dowiedz się, z czym związana jest praca web developera. Przedstawiam Ci pięć plusów oraz pięć minusów, które pomogą ci lepiej zrozumieć ten kierunek rozwoju programisty.
+ Chcesz więcej? Odwiedź Przeprogramowanych!</description>
+    </item>
+    
+  </channel>
+</rss>
