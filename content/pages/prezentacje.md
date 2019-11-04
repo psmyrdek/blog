@@ -19,7 +19,7 @@ Poniżej znajdziesz slajdy z tworzonych przeze mnie prezentacji, linki do nagra�
 
 ## Front-End Tooling - Tales, Legends and Myths
 📅 04.07.2019  
-🗺 SmartRecruiters HackerSpace - Kraków  
+🗺 SmartRecruiters HackerSpace - Cracow  
 🛠[Demo](https://github.com/psmyrdek/build-tools-playground)
 
 Learn how to build a modern web application using five different techniques, starting from raw OS capabilities, ending with Webpack and Parcel.
@@ -28,7 +28,7 @@ Learn how to build a modern web application using five different techniques, sta
 
 ## Once on production, it's not a broken promise
 📅 08.04.2019  
-🗺 4developers - Warszawa  
+🗺 4developers - Warsaw  
 
 Learn more about my experience with shipping Web Components to production.
 
@@ -36,7 +36,7 @@ Learn more about my experience with shipping Web Components to production.
 
 ## Web Components. Are we there yet?
 📅 17.09.2018  
-🗺 KrakowJS Meetup - Kraków  
+🗺 KrakowJS Meetup - Cracow  
 🎥 [YouTube](https://www.youtube.com/watch?v=iVhbTsEBt78)
 
 There's a lot of discussion around the topic of Web Components, but are we there yet? Can we turn it into reality by shipping production-grade apps based on this standard?
@@ -45,7 +45,7 @@ There's a lot of discussion around the topic of Web Components, but are we there
 
 ## Towards Angular!
 📅 10.01.2018  
-🗺 WarsawJS Meetup - Warszawa  
+🗺 WarsawJS Meetup - Warsaw  
 🎥 [YouTube](https://www.youtube.com/watch?v=v-GLQk-vcLo)
 
 Opening 2018 with a talk about a journey of migration to Angular from AngularJS.
@@ -54,7 +54,7 @@ Opening 2018 with a talk about a journey of migration to Angular from AngularJS.
 
 ## [PL] How to sleep well being a front-end developer
 📅 22.06.2017  
-🗺 KrakowJS Meetup - Kraków  
+🗺 KrakowJS Meetup - Cracow  
 
 Front-end developers struggle with a lot of things. Hundreds of frameworks, thousands of libraries, and millions of incompatible browsers. How to deal with all of that and sleep well?
 
@@ -68,34 +68,34 @@ A brief look at new trends and ideas that are right around the corner.
 
 <iframe loading="lazy" src="https://docs.google.com/presentation/d/e/2PACX-1vSSgscrmFh4Pb4UX4E8jqkwThh9RUiair8klzu3GcCtVS6qQcnxAtvxak1Rwq8YkYTxu6EeGjo_OOZV/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="423" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## 📝 Gdzie i kiedy
+## 🚀 Timeline
 
-* **14.09.2019 - TBD**  
-BB Days 4 IT - Bielsko Biała
+* **01.11.2019 - Once on production, it's not a broken promise**  
+ReactiveConf 2019 (Community Stage) - Prague
 
 * **04.07.2019 - Front-End Tooling - Tales, Legends and Myths**  
-SmartRecruiters HackerSpace - Kraków
+SmartRecruiters HackerSpace - Cracow
 
 * **08.04.2019 - Once on production, it's not a broken promise**  
-4developers - Warszawa
+4developers - Warsaw
 
 * **29.11.2018 - Web Components - Are we there yet?**  
-SmartRecruiters HackerSpace - Kraków
+SmartRecruiters HackerSpace - Cracow
 
 * **15.10.2018 - Web Components - Are we there yet?**  
-4Developers - Kraków
+4Developers - Cracow
 
 * **17.09.2018 - Web Components - Are we there yet?**  
-KrakowJS - Kraków
+KrakowJS - Cracow
 
 * **23.03.2018 - We all know that! A basic guide to knowledge sharing in IT industry.**  
 Beskid IT Academic Days - Bielsko Biała
 
 * **10.01.2018 - Towards Angular!**  
-WarsawJS - Warszawa
+WarsawJS - Warsaw
 
 * **22.06.2017 - How to sleep well being a front-end developer**  
-KrakowJS - Kraków
+KrakowJS - Cracow
 
 * **11.05.2017 - How to sleep well being a front-end developer**  
 WeBB Meetup - Bielsko-Biała
