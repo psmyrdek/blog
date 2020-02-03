@@ -11,7 +11,7 @@
     {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}
       {{ partial "hero.html" . }}
       {{ .Scratch.Set "postClass" "first-entry" }}
-      {{ .Scratch.Set "firstEntryHeader" "<h2 class=\"first-entry-header\">Właśnie wylądował 🚀</h2>" }}
+      {{ .Scratch.Set "firstEntryHeader" "<h2 class=\"first-entry-header\">Just landed 🚀</h2>" }}
       {{ .Scratch.Set "firstEntrySeparator" "<div class=\"first-entry-separator\"><div class=\"first-entry-separator-content\"></div></div>" }}
     {{ else }}
       {{ .Scratch.Set "postClass" "post-entry" }}

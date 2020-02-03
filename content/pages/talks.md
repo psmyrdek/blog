@@ -2,20 +2,17 @@
 draft: false
 comments: false
 
-title: "Prezentacje"
-description: "Prezentacje to jedno z wielu znakomitych narzędzi wykorzystywanych do dzielenia się wiedzą."
+title: "Talks"
+description: "Sharing my knowledge through talks at meetups and conferences"
 
 date: 2019-01-08T21:29:47+01:00
 
-url: "/prezentacje/"
+url: "/talks/"
 ---
 
-Prezentacje to dla mnie jedno z wielu wyzwań, które kiedyś były dla mnie poza zasięgiem, a dzisiaj skutecznie pomagają mi się rozwijać i czerpać mnóstwo przyjemności z ich realizowania.
+I consider public speaking as one of the most important parts of my knowledge sharing journey. It's been fear that I've managed to overcome. A challenge that paid off well multiple times in a form of people I've met, insights I've gathered and lessons I've learned.
 
-Jest to znakomite narzędzie wykorzystywane przeze mnie do dzielenia się wiedzą, ale też wystawiania się na ocenę szerszej publiczności. Przygotowując kolejne tematy wystąpień przekazuję wiedzę, ale i sam uczę się na podstawie reakcji słuchaczy. 
-
-Poniżej znajdziesz slajdy z tworzonych przeze mnie prezentacji, linki do nagrań oraz historię, którą aktualizuję po każdym kolejnym wystąpieniu.
-
+Below you can find a summary of talks I've been working on over the last couple of years.
 
 ## Front-End Tooling - Tales, Legends and Myths
 📅 04.07.2019  

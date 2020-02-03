@@ -25,24 +25,24 @@ enableRobotsTXT = true
 
     [[menu.main]]
         identifier = "prezentacje"
-        name = "Prezentacje"
-        url = "/prezentacje/"
+        name = "Talks"
+        url = "/talks/"
         weight = -100
 
     [[menu.main]]
-        identifier = "ilustracje"
-        name = "Ilustracje"
-        url = "/ilustracje/"
+        identifier = "creativity"
+        name = "Creativity"
+        url = "/creativity/"
         weight = -90
 
     [[menu.main]]
-        identifier = "filmy"
-        name = "Filmy"
-        url = "https://www.youtube.com/channel/UCnrmvLXGA-EX-O4aBHAlipw"
+        identifier = "video"
+        name = "Video"
+        url = "https://www.youtube.com/c/przeprogramowani"
         weight = -80
 
     [[menu.main]]
-        identifier = "kontakt"
-        name = "Kontakt"
-        url = "/kontakt/"
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact/"
         weight = -70
