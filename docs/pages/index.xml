@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej.</title>
+    <title>Pages on Przemek Smyrdek / Develop Yourself</title>
     <link>https://smyrdek.com/pages/</link>
-    <description>Recent content in Pages on Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej.</description>
+    <description>Recent content in Pages on Przemek Smyrdek / Develop Yourself</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
     <lastBuildDate>Tue, 08 Jan 2019 21:29:47 +0100</lastBuildDate>
@@ -12,25 +12,23 @@
     
     
     <item>
-      <title>Kontakt</title>
-      <link>https://smyrdek.com/kontakt/</link>
+      <title>Contact</title>
+      <link>https://smyrdek.com/contact/</link>
       <pubDate>Tue, 08 Jan 2019 21:29:47 +0100</pubDate>
       
-      <guid>https://smyrdek.com/kontakt/</guid>
-      <description>Jeśli chcesz:
- dowiedzieć się czegoś o zawodzie programisty porozmawiać o swojej ścieżce zawodowej poszukać kolejnej okazji do rozwoju znaleźć wartościowe materiały lub inspiracje zaproponować temat który powinienem opracować lub po prostu pogadać na dowolny temat związany z tematyką tej strony&amp;hellip;  &amp;hellip;to czekam na twoją wiadomość tutaj - przemek.smyrdek@gmail.com
-Do usłyszenia!</description>
+      <guid>https://smyrdek.com/contact/</guid>
+      <description>Reach me out via przemek.smyrdek@gmail.com</description>
     </item>
     
     <item>
-      <title>Prezentacje</title>
-      <link>https://smyrdek.com/prezentacje/</link>
+      <title>Talks</title>
+      <link>https://smyrdek.com/talks/</link>
       <pubDate>Tue, 08 Jan 2019 21:29:47 +0100</pubDate>
       
-      <guid>https://smyrdek.com/prezentacje/</guid>
-      <description>Prezentacje to dla mnie jedno z wielu wyzwań, które kiedyś były dla mnie poza zasięgiem, a dzisiaj skutecznie pomagają mi się rozwijać i czerpać mnóstwo przyjemności z ich realizowania.
-Jest to znakomite narzędzie wykorzystywane przeze mnie do dzielenia się wiedzą, ale też wystawiania się na ocenę szerszej publiczności. Przygotowując kolejne tematy wystąpień przekazuję wiedzę, ale i sam uczę się na podstawie reakcji słuchaczy.
-Poniżej znajdziesz slajdy z tworzonych przeze mnie prezentacji, linki do nagrań oraz historię, którą aktualizuję po każdym kolejnym wystąpieniu.</description>
+      <guid>https://smyrdek.com/talks/</guid>
+      <description>I consider public speaking as one of the most important parts of my knowledge sharing journey. It&amp;rsquo;s been a fear that I&amp;rsquo;ve managed to overcome. A challenge that paid off well multiple times in a form of people I&amp;rsquo;ve met, insights I&amp;rsquo;ve gathered and lessons I&amp;rsquo;ve learned.
+Below you can find a summary of talks I&amp;rsquo;ve been working on over the last couple of years.
+Front-End Tooling - Tales, Legends and Myths 📅 04.</description>
     </item>
     
     <item>
