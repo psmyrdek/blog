@@ -10,7 +10,7 @@ date: 2019-01-08T21:29:47+01:00
 url: "/talks/"
 ---
 
-I consider public speaking as one of the most important parts of my knowledge sharing journey. It's been fear that I've managed to overcome. A challenge that paid off well multiple times in a form of people I've met, insights I've gathered and lessons I've learned.
+I consider public speaking as one of the most important parts of my knowledge sharing journey. It's been a fear that I've managed to overcome. A challenge that paid off well multiple times in a form of people I've met, insights I've gathered and lessons I've learned.
 
 Below you can find a summary of talks I've been working on over the last couple of years.
 
