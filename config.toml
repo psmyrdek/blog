@@ -1,6 +1,6 @@
 baseURL = "https://smyrdek.com/"
 languageCode = "pl-PL"
-title = "Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej."
+title = "Przemek Smyrdek / Develop Yourself"
 theme = "hugo-paper"
 publishDir = "docs"
 googleAnalytics = "UA-130241188-1"
@@ -12,7 +12,7 @@ enableRobotsTXT = true
     post = "/:year/:month/:title/"
 
 [params]
-    description = "Przemek Smyrdek / Rozwijaj się! Programowanie i wiele więcej."
+    description = "Przemek Smyrdek / Develop Yourself"
     author = "Przemek Smyrdek"
 
 [menu]
