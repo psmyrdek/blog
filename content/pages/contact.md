@@ -10,4 +10,7 @@ date: 2019-01-08T21:29:47+01:00
 url: "/contact/"
 ---
 
-Reach me out via  **przemek.smyrdek@gmail.com**
+I'd be more than happy to discuss all kinds of topics around engineering, productivity, product development, side projects, time management and more. Feel free to reach out to me via:
+
+* [Email](mailto:przemek.smyrdek@gmail.com)
+* [Messenger](https://www.facebook.com/przemeksmyrdek/)

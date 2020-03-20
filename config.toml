@@ -18,31 +18,19 @@ enableRobotsTXT = true
 [menu]
 
     [[menu.main]]
-        identifier = "start"
-        name = "Start"
-        url = "/start/"
+        identifier = "about"
+        name = "About me"
+        url = "/about-me/"
         weight = -110
 
     [[menu.main]]
         identifier = "prezentacje"
-        name = "Talks"
+        name = "Talks & Slides"
         url = "/talks/"
         weight = -100
-
-    [[menu.main]]
-        identifier = "creativity"
-        name = "Creativity"
-        url = "/creativity/"
-        weight = -90
-
-    [[menu.main]]
-        identifier = "video"
-        name = "Video"
-        url = "https://www.youtube.com/c/przeprogramowani"
-        weight = -80
 
     [[menu.main]]
         identifier = "contact"
         name = "Contact"
         url = "/contact/"
-        weight = -70
+        weight = -90
