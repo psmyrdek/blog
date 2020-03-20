@@ -17,38 +17,34 @@
       <pubDate>Tue, 08 Jan 2019 21:29:47 +0100</pubDate>
       
       <guid>https://smyrdek.com/contact/</guid>
-      <description>Reach me out via przemek.smyrdek@gmail.com</description>
+      <description>I&amp;rsquo;d be more than happy to discuss all kinds of topics around engineering, productivity, product development, side projects, time management and more. Feel free to reach out to me via:
+ Email Messenger  </description>
     </item>
     
     <item>
-      <title>Talks</title>
+      <title>Talks &amp; Slides</title>
       <link>https://smyrdek.com/talks/</link>
       <pubDate>Tue, 08 Jan 2019 21:29:47 +0100</pubDate>
       
       <guid>https://smyrdek.com/talks/</guid>
       <description>I consider public speaking as one of the most important parts of my knowledge sharing journey. It&amp;rsquo;s been a fear that I&amp;rsquo;ve managed to overcome. A challenge that paid off well multiple times in a form of people I&amp;rsquo;ve met, insights I&amp;rsquo;ve gathered and lessons I&amp;rsquo;ve learned.
 Below you can find a summary of talks I&amp;rsquo;ve been working on over the last couple of years.
-Front-End Tooling - Tales, Legends and Myths 📅 04.</description>
+📊 Slides Front-End Tooling - Tales, Legends and Myths 📅 04.</description>
     </item>
     
     <item>
-      <title>Ilustracje</title>
-      <link>https://smyrdek.com/ilustracje/</link>
-      <pubDate>Thu, 27 Dec 2018 21:35:35 +0100</pubDate>
-      
-      <guid>https://smyrdek.com/ilustracje/</guid>
-      <description>Kojarzycie magazyn “The New Yorker”? To jeden z najbardziej znanych amerykańskich tygodników, który wydawany jest od prawie stu lat. Ciekawostką na jego temat jest to, że ilustracje z okładek tego właśnie czasopisma to malutkie dzieła sztuki które doczekały się na swój temat dziesiątek artykułów. Ilustrator, którego praca dostanie się na okładkę tego właśnie tytułu, może pochwalić się niemałym osiągnięciem, a samo pismo i jego okładki stanowią pewną część kultury Nowego Jorku.</description>
-    </item>
-    
-    <item>
-      <title>Cześć!</title>
-      <link>https://smyrdek.com/start/</link>
+      <title>Hi there!</title>
+      <link>https://smyrdek.com/about-me/</link>
       <pubDate>Thu, 27 Dec 2018 21:25:39 +0100</pubDate>
       
-      <guid>https://smyrdek.com/start/</guid>
-      <description>Cześć!
-Nazywam się Przemek Smyrdek. Jestem pasjonatem dzielenia się wiedzą oraz rozwoju w programowaniu i nie tylko. Treści które tworzę pomogą ci zostać bardziej świadomym programistą, który pracuje efektywniej, komunikuje się lepiej i patrzy na świat szerzej.
-Wiedza którą posiadam pomoże ci wzmocnić twoje kompetencje techniczne, dzięki czemu staniesz się jeszcze lepszym graczem zespołowym, łatwiej przejdziesz przez rozmowy z tzw. “biznesem”, nauczysz się przedstawiania swoich pomysłów przed współpracownikami czy negocjowania trudnych decyzji projektowych.</description>
+      <guid>https://smyrdek.com/about-me/</guid>
+      <description>Welcome to develop &amp;lt;YOURSELF/&amp;gt;, a place for ambitious product engineers.
+My name is Przemek Smyrdek. I&amp;rsquo;m an engineering team lead, front-end specialist and knowledge sharing advocate. This is my personal space to share all kinds of insights around engineering, productivity, team work and well being.
+To give you few hints about my projects and activity, please visit the following links:
+Writing: Increment.com
+Open Source: GitHub
+Online courses: Opanuj JavaScript
+Work Experience: LinkedIn</description>
     </item>
     
   </channel>
